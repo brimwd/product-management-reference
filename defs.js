@@ -19,13 +19,15 @@ window.customDictionary = [{
 	url:['https://en.wikipedia.org/wiki/Actor_(UML)']
 },
 {
-	key:'Agile Development',
-	def:['Most often found in the software industry, but also used by other industries, agile is an iterative product-development methodology in which teams work in brief, incremental "sprints", and then regroup frequently to review the work and make changes. This adds frequent feedback and the ability to switch focus and priority quickly, and is in contrast to the more traditional, sequence-based, waterfall methodology, where product managers set long-term plans in discrete phases for development teams to execute.'],
+	key:'Agile',
+	def:['Most often found in the software industry, but also used by other industries, agile is an iterative product-development methodology in which teams work in brief, incremental "sprints", and then regroup frequently to review the work and make changes. This adds frequent feedback and the ability to switch focus and priority quickly, and is in contrast to the more traditional, sequence-based, waterfall methodology, where product managers set long-term plans in discrete phases for development teams to execute.',
+		'<a href="x-dictionary:r:waterfall">Waterfall</a> is an alternative development methodology.',
+		'See <a href="x-dictionary:r:methodology">Methodology</a>'],
 	url:['https://www.cprime.com/resources/what-is-agile-what-is-scrum/']
 },
 {
-	key:'AI (Artificial Intelligence)',
-	def:['The theory and development of computer systems able to perform tasks that normally require human intelligence, such as visual perception, speech recognition, decision-making, and translation between languages.'],
+	key:'AI',
+	def:['Artificial Intelligence (AI) is the theory and development of computer systems able to perform tasks that normally require human intelligence, such as visual perception, speech recognition, decision-making, and translation between languages.'],
 	url:['https://www.forbes.com/sites/bernardmarr/2018/02/14/the-key-definitions-of-artificial-intelligence-ai-that-explain-its-importance/#5533a45e4f5d']
 },
 {
@@ -707,7 +709,8 @@ window.customDictionary = [{
 },
 {
 	key:'Methodology',
-	def:['A system of methods used in a particular area of study or activity.'],
+	def:['A system of methods used in a particular area of study or activity.',
+		'See <a href="x-dictionary:r:agile">Agile</a> and <a href="x-dictionary:r:waterfall">Waterfall</a>, which are two common approaches to software development.'],
 	url:['https://en.wikipedia.org/wiki/Methodology']
 },
 {
@@ -803,8 +806,8 @@ window.customDictionary = [{
 	url:['https://www.investopedia.com/terms/o/overhead.asp']
 },
 {
-	key:'P&L (Profit and Loss)',
-	def:['The basic calculation of "money in/money out" in a project or a business.'],
+	key:'P and L (Profit and Loss)',
+	def:['(Also P&amp;L) The basic calculation of "money in/money out" in a project or a business.'],
 	url:['https://www.investopedia.com/terms/p/plstatement.asp']
 },
 {
@@ -1005,8 +1008,8 @@ window.customDictionary = [{
 	url:['https://study.com/academy/lesson/what-is-quantitative-data.html']
 },
 {
-	key:'R&D (Research and Development)',
-	def:['The name of the business function that carries out research and the design and engineering part of the product development process.'],
+	key:'R and D (Research and Development)',
+	def:['(Often R&amp;D) The name of the business function that carries out research and the design and engineering part of the product development process.'],
 	url:['https://en.wikipedia.org/wiki/Research_and_development']
 },
 {
@@ -1117,9 +1120,9 @@ window.customDictionary = [{
 	url:['https://en.wikipedia.org/wiki/Search_engine_optimization']
 },
 {
-	key:'Ship (Software Deployment)',
-	def:['The activities that make a software system available for use (to consumers).',
-		'"Ship" is a slang.'],
+	key:'Ship',
+	def:['Another term for \'Publishing\' software, or making it available for distribution.',
+		'The activities that make a software system available for use (to consumers).'],
 	url:['https://en.wikipedia.org/wiki/Software_deployment']
 },
 {
@@ -1128,18 +1131,15 @@ window.customDictionary = [{
 	url:['http://www.businessdictionary.com/definition/shipping.html']
 },
 {
-	key:'SMB (Small and Medium-sized Business)',
-	def:['See <a href="x-dictionary:r:SME_(Small_and_Medium-sized_Enterprises)">SME</a>.'],
+	key:'SMB',
+	def:['Small and Medium-sized Business', 'See <a href="x-dictionary:r:SME">SME - Small and Medium-Sized Enterprises</a>.'],
 	url:[]
 },
-{	key:'SME (Small and Medium-sized Enterprises)',
-	def:['An abbreviation for small and medium-sized business (aka small and mid-sized business). A business with 100 or fewer employees is generally considered small, while one with 100-999 employees is considered to be medium-sized.'],
-	url:['https://en.wikipedia.org/wiki/Small_and_medium-sized_enterprises']
-},
-{
-	key:'SME (Subject-Matter Expert)',
-	def:['A person who has specialized or abundant \'domain knowledge\'.'],
-	url:['https://en.wikipedia.org/wiki/Subject-matter_expert']
+{	key:'SME',
+	def:['1. Subject-Matter Expert: A person who has specialized or abundant \'domain knowledge\'.',
+		'2. Small and Medium-sized Enterprises: An abbreviation for small and medium-sized business (aka small and mid-sized business). A business with 100 or fewer employees is generally considered small, while one with 100-999 employees is considered to be medium-sized.'],
+	url:['https://en.wikipedia.org/wiki/Subject-matter_expert',
+		'https://en.wikipedia.org/wiki/Small_and_medium-sized_enterprises']
 },
 {
 	key:'Soft Launch (Soft opening)',
@@ -1297,7 +1297,7 @@ window.customDictionary = [{
 {
 	key:'User Stories',
 	def:['The user story describes the type of user, what they want and why. A user story helps to create a simplified description of a requirement.',
-		'User stories are short, simple descriptions of a feature told from the perspective of the person who desires the new capability, usually a user or customer of the system. They typically follow a simple template: As a < type of user >, I want < some goal > so that < some reason >.'],
+		'User stories are short, simple descriptions of a feature told from the perspective of the person who desires the new capability, usually a user or customer of the system. They typically follow a simple template: As a &lt; type of user &gt;, I want &lt; some goal &gt; so that &lt; some reason &gt;.'],
 	url:['https://en.wikipedia.org/wiki/User_story']
 },
 {
@@ -1328,8 +1328,8 @@ window.customDictionary = [{
 	url:['https://en.wikipedia.org/wiki/Vendor']
 },
 {
-	key:'V&V (Verification & Validation)',
-	def:['A procedure that is used for checking that a product, service, or system meets requirements and specifications and that it fulfills its intended purpose.'],
+	key:'V and V (Verification and Validation)',
+	def:['(Also V&amp;V) A procedure that is used for checking that a product, service, or system meets requirements and specifications and that it fulfills its intended purpose.'],
 	url:['https://en.wikipedia.org/wiki/Software_verification_and_validation']
 },
 {
@@ -1343,8 +1343,9 @@ window.customDictionary = [{
 	url:['https://en.wikipedia.org/wiki/Voice_of_the_customer']
 },
 {
-	key:'Waterfall (methodology)',
-	def:['In contrast to agile, the waterfall development model is a long-term method of product development characterized by a sequential series of stages or phases — typically, in order, conception, initiation, analysis, design, construction, testing, implementation, and maintenance. The key distinction from agile is that, in a waterfall development environment, once the work for a stage has been completed, the team cannot turn back, and development must move on to the next stage.'],
+	key:'Waterfall',
+	def:['In contrast to <a href="x-dictionary:r:agile">agile</a>, the waterfall development model is a long-term method of product development characterized by a sequential series of stages or phases — typically, in order, conception, initiation, analysis, design, construction, testing, implementation, and maintenance. The key distinction from agile is that, in a waterfall development environment, once the work for a stage has been completed, the team cannot turn back, and development must move on to the next stage.',
+		'See <a href="x-dictionary:r:methodology">Methodology</a>'],
 	url:['https://en.wikipedia.org/wiki/Waterfall_model']
 },
 {
@@ -1377,9 +1378,12 @@ window.customDictionary = [{
 	key:'Workflow',
 	def:['The sequence of industrial, administrative, or other processes through which a piece of work passes from initiation to completion.'],
 	url:['http://www.businessdictionary.com/definition/workflow.html']
-},
-{
-	key:'XP (Extreme Programming)',
-	def:['A software development methodology which is intended to improve software quality and responsiveness to changing customer requirements.'],
-	url:['https://en.wikipedia.org/wiki/Extreme_programming']
 }];
+
+/*
+EXAMPLE
+Link to Agile's definition
+
+<a href="x-dictionary:r:agile">agile</a>
+
+*/

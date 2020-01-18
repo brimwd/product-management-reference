@@ -52,10 +52,12 @@
 
 <!-- ::::::::::::::::::::::::::::::::::::::::::::: -->
 
-  <d:entry id="agile_development" d:title="Agile Development">
-    <d:index d:value="Agile Development"/>
-    <h1>Agile Development</h1>
+  <d:entry id="agile" d:title="Agile">
+    <d:index d:value="Agile"/>
+    <h1>Agile</h1>
     <p>Most often found in the software industry, but also used by other industries, agile is an iterative product-development methodology in which teams work in brief, incremental "sprints", and then regroup frequently to review the work and make changes. This adds frequent feedback and the ability to switch focus and priority quickly, and is in contrast to the more traditional, sequence-based, waterfall methodology, where product managers set long-term plans in discrete phases for development teams to execute.</p>
+    <p><a href="x-dictionary:r:waterfall">Waterfall</a> is an alternative development methodology.</p>
+    <p>See <a href="x-dictionary:r:methodology">Methodology</a></p>
 
     <h4>References</h4>
     <ol>
@@ -65,10 +67,10 @@
 
 <!-- ::::::::::::::::::::::::::::::::::::::::::::: -->
 
-  <d:entry id="ai_(artificial_intelligence)" d:title="AI (Artificial Intelligence)">
-    <d:index d:value="AI (Artificial Intelligence)"/>
-    <h1>AI (Artificial Intelligence)</h1>
-    <p>The theory and development of computer systems able to perform tasks that normally require human intelligence, such as visual perception, speech recognition, decision-making, and translation between languages.</p>
+  <d:entry id="ai" d:title="AI">
+    <d:index d:value="AI"/>
+    <h1>AI</h1>
+    <p>Artificial Intelligence (AI) is the theory and development of computer systems able to perform tasks that normally require human intelligence, such as visual perception, speech recognition, decision-making, and translation between languages.</p>
 
     <h4>References</h4>
     <ol>
@@ -1823,6 +1825,7 @@
     <d:index d:value="Methodology"/>
     <h1>Methodology</h1>
     <p>A system of methods used in a particular area of study or activity.</p>
+    <p>See <a href="x-dictionary:r:agile">Agile</a> and <a href="x-dictionary:r:waterfall">Waterfall</a>, which are two common approaches to software development.</p>
 
     <h4>References</h4>
     <ol>
@@ -2068,10 +2071,10 @@
 
 <!-- ::::::::::::::::::::::::::::::::::::::::::::: -->
 
-  <d:entry id="p&l_(profit_and_loss)" d:title="P&L (Profit and Loss)">
-    <d:index d:value="P&L (Profit and Loss)"/>
-    <h1>P&L (Profit and Loss)</h1>
-    <p>The basic calculation of "money in/money out" in a project or a business.</p>
+  <d:entry id="p_and_l_(profit_and_loss)" d:title="P and L (Profit and Loss)">
+    <d:index d:value="P and L (Profit and Loss)"/>
+    <h1>P and L (Profit and Loss)</h1>
+    <p>(Also P&amp;L) The basic calculation of "money in/money out" in a project or a business.</p>
 
     <h4>References</h4>
     <ol>
@@ -2583,10 +2586,10 @@
 
 <!-- ::::::::::::::::::::::::::::::::::::::::::::: -->
 
-  <d:entry id="r&d_(research_and_development)" d:title="R&D (Research and Development)">
-    <d:index d:value="R&D (Research and Development)"/>
-    <h1>R&D (Research and Development)</h1>
-    <p>The name of the business function that carries out research and the design and engineering part of the product development process.</p>
+  <d:entry id="r_and_d_(research_and_development)" d:title="R and D (Research and Development)">
+    <d:index d:value="R and D (Research and Development)"/>
+    <h1>R and D (Research and Development)</h1>
+    <p>(Often R&amp;D) The name of the business function that carries out research and the design and engineering part of the product development process.</p>
 
     <h4>References</h4>
     <ol>
@@ -2863,11 +2866,11 @@
 
 <!-- ::::::::::::::::::::::::::::::::::::::::::::: -->
 
-  <d:entry id="ship_(software_deployment)" d:title="Ship (Software Deployment)">
-    <d:index d:value="Ship (Software Deployment)"/>
-    <h1>Ship (Software Deployment)</h1>
+  <d:entry id="ship" d:title="Ship">
+    <d:index d:value="Ship"/>
+    <h1>Ship</h1>
+    <p>Another term for 'Publishing' software, or making it available for distribution.</p>
     <p>The activities that make a software system available for use (to consumers).</p>
-    <p>"Ship" is a slang.</p>
 
     <h4>References</h4>
     <ol>
@@ -2890,36 +2893,26 @@
 
 <!-- ::::::::::::::::::::::::::::::::::::::::::::: -->
 
-  <d:entry id="smb_(small_and_medium-sized_business)" d:title="SMB (Small and Medium-sized Business)">
-    <d:index d:value="SMB (Small and Medium-sized Business)"/>
-    <h1>SMB (Small and Medium-sized Business)</h1>
-    <p>See <a href="x-dictionary:r:SME_(Small_and_Medium-sized_Enterprises)">SME</a>.</p>
+  <d:entry id="smb" d:title="SMB">
+    <d:index d:value="SMB"/>
+    <h1>SMB</h1>
+    <p>Small and Medium-sized Business</p>
+    <p>See <a href="x-dictionary:r:SME">SME - Small and Medium-Sized Enterprises</a>.</p>
 
   </d:entry>
 
 <!-- ::::::::::::::::::::::::::::::::::::::::::::: -->
 
-  <d:entry id="sme_(small_and_medium-sized_enterprises)" d:title="SME (Small and Medium-sized Enterprises)">
-    <d:index d:value="SME (Small and Medium-sized Enterprises)"/>
-    <h1>SME (Small and Medium-sized Enterprises)</h1>
-    <p>An abbreviation for small and medium-sized business (aka small and mid-sized business). A business with 100 or fewer employees is generally considered small, while one with 100-999 employees is considered to be medium-sized.</p>
-
-    <h4>References</h4>
-    <ol>
-        <li><a href="https://en.wikipedia.org/wiki/Small_and_medium-sized_enterprises">https://en.wikipedia.org/wiki/Small_and_medium-sized_enterprises</a></li>
-    </ol>
-  </d:entry>
-
-<!-- ::::::::::::::::::::::::::::::::::::::::::::: -->
-
-  <d:entry id="sme_(subject-matter_expert)" d:title="SME (Subject-Matter Expert)">
-    <d:index d:value="SME (Subject-Matter Expert)"/>
-    <h1>SME (Subject-Matter Expert)</h1>
-    <p>A person who has specialized or abundant 'domain knowledge'.</p>
+  <d:entry id="sme" d:title="SME">
+    <d:index d:value="SME"/>
+    <h1>SME</h1>
+    <p>1. Subject-Matter Expert: A person who has specialized or abundant 'domain knowledge'.</p>
+    <p>2. Small and Medium-sized Enterprises: An abbreviation for small and medium-sized business (aka small and mid-sized business). A business with 100 or fewer employees is generally considered small, while one with 100-999 employees is considered to be medium-sized.</p>
 
     <h4>References</h4>
     <ol>
         <li><a href="https://en.wikipedia.org/wiki/Subject-matter_expert">https://en.wikipedia.org/wiki/Subject-matter_expert</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Small_and_medium-sized_enterprises">https://en.wikipedia.org/wiki/Small_and_medium-sized_enterprises</a></li>
     </ol>
   </d:entry>
 
@@ -3315,7 +3308,7 @@
     <d:index d:value="User Stories"/>
     <h1>User Stories</h1>
     <p>The user story describes the type of user, what they want and why. A user story helps to create a simplified description of a requirement.</p>
-    <p>User stories are short, simple descriptions of a feature told from the perspective of the person who desires the new capability, usually a user or customer of the system. They typically follow a simple template: As a < type of user >, I want < some goal > so that < some reason >.</p>
+    <p>User stories are short, simple descriptions of a feature told from the perspective of the person who desires the new capability, usually a user or customer of the system. They typically follow a simple template: As a &lt; type of user &gt;, I want &lt; some goal &gt; so that &lt; some reason &gt;.</p>
 
     <h4>References</h4>
     <ol>
@@ -3392,10 +3385,10 @@
 
 <!-- ::::::::::::::::::::::::::::::::::::::::::::: -->
 
-  <d:entry id="v&v_(verification_&_validation)" d:title="V&V (Verification & Validation)">
-    <d:index d:value="V&V (Verification & Validation)"/>
-    <h1>V&V (Verification & Validation)</h1>
-    <p>A procedure that is used for checking that a product, service, or system meets requirements and specifications and that it fulfills its intended purpose.</p>
+  <d:entry id="v_and_v_(verification_and_validation)" d:title="V and V (Verification and Validation)">
+    <d:index d:value="V and V (Verification and Validation)"/>
+    <h1>V and V (Verification and Validation)</h1>
+    <p>(Also V&amp;V) A procedure that is used for checking that a product, service, or system meets requirements and specifications and that it fulfills its intended purpose.</p>
 
     <h4>References</h4>
     <ol>
@@ -3431,10 +3424,11 @@
 
 <!-- ::::::::::::::::::::::::::::::::::::::::::::: -->
 
-  <d:entry id="waterfall_(methodology)" d:title="Waterfall (methodology)">
-    <d:index d:value="Waterfall (methodology)"/>
-    <h1>Waterfall (methodology)</h1>
-    <p>In contrast to agile, the waterfall development model is a long-term method of product development characterized by a sequential series of stages or phases â€” typically, in order, conception, initiation, analysis, design, construction, testing, implementation, and maintenance. The key distinction from agile is that, in a waterfall development environment, once the work for a stage has been completed, the team cannot turn back, and development must move on to the next stage.</p>
+  <d:entry id="waterfall" d:title="Waterfall">
+    <d:index d:value="Waterfall"/>
+    <h1>Waterfall</h1>
+    <p>In contrast to <a href="x-dictionary:r:agile">agile</a>, the waterfall development model is a long-term method of product development characterized by a sequential series of stages or phases â€” typically, in order, conception, initiation, analysis, design, construction, testing, implementation, and maintenance. The key distinction from agile is that, in a waterfall development environment, once the work for a stage has been completed, the team cannot turn back, and development must move on to the next stage.</p>
+    <p>See <a href="x-dictionary:r:methodology">Methodology</a></p>
 
     <h4>References</h4>
     <ol>
@@ -3518,19 +3512,6 @@
     <h4>References</h4>
     <ol>
         <li><a href="http://www.businessdictionary.com/definition/workflow.html">http://www.businessdictionary.com/definition/workflow.html</a></li>
-    </ol>
-  </d:entry>
-
-<!-- ::::::::::::::::::::::::::::::::::::::::::::: -->
-
-  <d:entry id="xp_(extreme_programming)" d:title="XP (Extreme Programming)">
-    <d:index d:value="XP (Extreme Programming)"/>
-    <h1>XP (Extreme Programming)</h1>
-    <p>A software development methodology which is intended to improve software quality and responsiveness to changing customer requirements.</p>
-
-    <h4>References</h4>
-    <ol>
-        <li><a href="https://en.wikipedia.org/wiki/Extreme_programming">https://en.wikipedia.org/wiki/Extreme_programming</a></li>
     </ol>
   </d:entry>
 
