@@ -4,8 +4,9 @@ Built and maintained by <a href="http://brimwd.github.io/" target="_blank">Brian
 
 **Latest Version:** v1.0<br>**Published:** Jan 18, 2020
 
-<a href="https://github.com/brimwd/product-management-reference/blob/master/PMRef.dictionary.zip?raw=true" download>Download the Dictionary</a>
-
+## Installation instructions
+1. Download the <a href="https://github.com/brimwd/product-management-reference/blob/master/PMRef.dictionary.zip?raw=true" download>dictionary file</a>.
+2. Open a Finder window and press 
 
 #### CHANGE LOG
 Jan 18, 2020 - **`v1.0 published`**<br>
