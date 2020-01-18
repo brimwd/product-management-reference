@@ -1,33 +1,20 @@
 # Product Management Reference Dictionary
-A simple Vue app designed to generate MacOS-compatible 'dictionary' files from json. (Files for use in the built-in MacOS Dictionary app).
-Definition set contains terms relevant to Software Product Management.
+A community-sourced reference dictionary for (Software) Product Management and UX-related terms.<br>
+Built and maintained by <a href="http://brimwd.github.io/" target="_blank">Brian Donahue</a> and <a href="http://victoriajcai.github.io/" target="_blank">Victoria Cai</a>.
 
-Output coloration and indicators are purely for readability.
+**Latest Version:** v1.0<br>**Published:** Jan 18, 2020
 
-#### USAGE
-Copy the HTML output and save it as `pmdictionary.xml` in the root folder (replace existing file).
+<a href="https://github.com/brimwd/product-management-reference/blob/master/objects/PMRef.dictionary/?raw=true" download>Download the Dictionary</a>
 
-#### DATA MODEL
 
-```
-[
-  {
-    key: 'term',
-    def: ['definition paragraphs'],
-    url: ['reference links']
-  }
-]
-```
+#### CHANGE LOG
+Jan 18, 2020 - **`v1.0 published`**<br>
+Jan 17, 2020 - Original definitions sourced from Madalyn Chea's '[Software Product Management Dictionary](https://docs.google.com/spreadsheets/d/1O4N2pu6Mu-UBhUR3pdbv6dcjNecu7oMdIX1jZkBSUxE/edit#gid=0)'
 
-CodePen Prototype: https://codepen.io/brimwd/details/zYxmprv
-
-----
-
-#### UPDATES
-January 17, 2020 - Original definitions sourced from Madalyn Chea's '[Software Product Management Dictionary](https://docs.google.com/spreadsheets/d/1O4N2pu6Mu-UBhUR3pdbv6dcjNecu7oMdIX1jZkBSUxE/edit#gid=0)'
 
 #### ACKNOWLEDGEMENTS
 Original definitions spreadsheet was created by [Madalyn Chea](https://www.linkedin.com/in/sugarcoder/) in 2017 and (at the time the definitions were sourced) most-recently updated in September of 2018.
+
 
 #### REFERENCES
 + [Apple Developer Dictionary Reference](https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/DictionaryServicesProgGuide/prepare/prepare.html)  (archived)
