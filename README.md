@@ -4,7 +4,7 @@ Built and maintained by <a href="http://brimwd.github.io/" target="_blank">Brian
 
 **Latest Version:** v1.0<br>**Published:** Jan 18, 2020
 
-<a href="https://github.com/brimwd/product-management-reference/blob/master/objects/PMRef.dictionary/?raw=true" download>Download the Dictionary</a>
+<a href="https://github.com/brimwd/product-management-reference/blob/master/PMRef.dictionary.zip?raw=true" download>Download the Dictionary</a>
 
 
 #### CHANGE LOG
