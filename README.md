@@ -1,5 +1,6 @@
-# MacOS Dictionary File Generator
-A simple Vue app designed to generate MacOS-compatible 'dictionary' files from json. (Files for use in the built-in MacOS Dictionary app)
+# Product Management Reference Dictionary
+A simple Vue app designed to generate MacOS-compatible 'dictionary' files from json. (Files for use in the built-in MacOS Dictionary app).
+Definition set contains terms relevant to Software Product Management.
 
 Output coloration and indicators are purely for readability.
 
