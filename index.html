@@ -13,6 +13,7 @@
 
   .start-def {color:orange;}
   .end-def {color:orange;}
+  .divider {color:gray;}
 
   b {color:darkorange;font-size:1.3em;}
   </style>
@@ -28,6 +29,7 @@
 <div v-if="definition.url[0]">    <b>&lt;h4&gt;References&lt;/h4&gt;</b>
     &lt;ol&gt;<div v-for="link in definition.url">        &lt;li&gt;&lt;a href="{{ link }}"&gt;{{ link }}&lt;/a&gt;&lt;/li&gt;</div>    &lt;/ol&gt;</div>  <span class="end-def">&lt;/d:entry&gt;</span>
   </div>&lt;/d:dictionary&gt;
+<span class="divider">&lt;!-- ::::::::::::::::::::::::::::::::::::::::::::: --&gt;</span>
 </pre>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 <script type="text/javascript" src="app.js"></script>
