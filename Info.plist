@@ -2,13 +2,13 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>PMRefDevelopmentRegion</key>
+	<key>CFBundleDevelopmentRegion</key>
 	<string>English</string>
-	<key>PMRefIdentifier</key>
+	<key>CFBundleIdentifier</key>
 	<string>com.brimwd.dictionary.PMRef</string>
-	<key>PMRefName</key>
+	<key>CFBundleName</key>
 	<string>Product Management Reference Dictionary</string>
-	<key>PMRefShortVersionString</key>
+	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
 	<key>DCSDictionaryCopyright</key>
 	<string>Copyright © 2020 Brian Donahue (http://brimwd.github.io/product-management-reference/)</string>
@@ -16,11 +16,11 @@
 	<string>Brian Donahue (http://brimwd.github.io/) and Victoria Cai (http://victoriajcai.github.io)</string>
 	<key>DCSDictionaryFrontMatterReferenceID</key>
 	<string>front_back_matter</string>
-	<key>DCSDictionaryPrefsHTML</key>
-	<string>PMRef_prefs.html</string>
+	<!-- <key>DCSDictionaryPrefsHTML</key>
+	<string>PMRef_prefs.html</string> -->
 	<key>DCSDictionaryXSL</key>
 	<string>PMRef.xsl</string>
-	<key>DCSDictionaryDefaultPrefs</key>
+	<!-- <key>DCSDictionaryDefaultPrefs</key>
 	<dict>
 		<key>pronunciation</key>
 		<string>0</string>
@@ -30,6 +30,6 @@
 		<string>1</string>
 		<key>version</key>
 		<string>1</string>
-	</dict>
+	</dict> -->
 </dict>
 </plist>
