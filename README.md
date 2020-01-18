@@ -3,11 +3,11 @@ A simple Vue app designed to generate MacOS-compatible 'dictionary' files from j
 
 Output coloration and indicators are purely for readability.
 
-#### USAGE:
 + [Apple Developer Dictionary Reference](https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/DictionaryServicesProgGuide/prepare/prepare.html)  (archived)
 + Info on making your own dictionary, see http://blog.nagpals.com/mac-dictionaries/
+#### USAGE
 
-#### DATA MODEL:
+#### DATA MODEL
 
 ```
 [
