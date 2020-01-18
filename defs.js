@@ -1137,8 +1137,8 @@ window.customDictionary = [{
 	url:['https://en.wikipedia.org/wiki/Small_and_medium-sized_enterprises']
 },
 {
-	key:'SME (Subject Matter Expert)',
-	def:['A person who has specialized or abundant \'domain knowledge\''],
+	key:'SME (Subject-Matter Expert)',
+	def:['A person who has specialized or abundant \'domain knowledge\'.'],
 	url:['https://en.wikipedia.org/wiki/Subject-matter_expert']
 },
 {
