@@ -24,7 +24,7 @@ CodePen Prototype: https://codepen.io/brimwd/details/zYxmprv
 ----
 
 #### UPDATES
-January 17, 2020 - Original definitions sourced from a '[Software Product Management Dictionary](https://docs.google.com/spreadsheets/d/1O4N2pu6Mu-UBhUR3pdbv6dcjNecu7oMdIX1jZkBSUxE/edit#gid=0)'
+January 17, 2020 - Original definitions sourced from Madalyn Chea's '[Software Product Management Dictionary](https://docs.google.com/spreadsheets/d/1O4N2pu6Mu-UBhUR3pdbv6dcjNecu7oMdIX1jZkBSUxE/edit#gid=0)'
 
 #### ACKNOWLEDGEMENTS
 Original definitions spreadsheet was created by [Madalyn Chea](https://www.linkedin.com/in/sugarcoder/) in 2017 and (at the time the definitions were sourced) most-recently updated in September of 2018.
