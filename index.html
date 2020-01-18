@@ -3,48 +3,9 @@
 <head>
   <title>Product Management Dictionary</title>
   <style type="text/css">
-  /*
-
-    HTML OUTPUT STYLES -- NOT FOR DICTIONARY
-
-  */
-  body {background-color:#282828;color:#ccc;}
-  pre {white-space:pre-wrap;word-break:break-word;}
-
-  span {position:relative;}
-  .start-def::before, .end-def::before {content:'';display:inline-block;position:absolute;left:-16px;top:calc(.5em - 4px);vertical-align:middle;}
-  .start-def::before {border:solid transparent;border-width:5px 12px;border-left-color:red;}
-  .end-def::before {border:6px solid red;border-radius:8px;}
-
-  .start-def {color:orange;}
-  .end-def {color:orange;}
-  .divider {color:gray;}
-
-  b {color:darkorange;font-size:1.3em;}
   </style>
-  <script type="text/javascript" src="defs.js"></script>
 </head>
 <body>
-<pre id="dictionary">
-&lt;?xml version="1.0" encoding="UTF-8"?&gt;
-&lt;d:dictionary xmlns="http://www.w3.org/1999/xhtml" xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng"&gt;
-<!-- BEGIN DEFINITION TEMPLATE --><div v-for="definition in dictionary">  <span class="start-def">&lt;d:entry id="{{ underscore(definition.key) }}" d:title="{{ definition.key }}"&gt;</span>
-    &lt;d:index d:value="{{ definition.key }}"/&gt;
-    <b>&lt;h1&gt;{{ definition.key }}&lt;/h1&gt;</b><div v-for="paragraph in definition.def">    &lt;p&gt;{{ paragraph }}&lt;/p&gt;</div>
-<div v-if="definition.url[0]">    <b>&lt;h4&gt;References&lt;/h4&gt;</b>
-    &lt;ol&gt;<div v-for="link in definition.url">        &lt;li&gt;&lt;a href="{{ link }}"&gt;{{ link }}&lt;/a&gt;&lt;/li&gt;</div>    &lt;/ol&gt;</div>  <span class="end-def">&lt;/d:entry&gt;</span>
 
-<span class="divider">&lt;!-- ::::::::::::::::::::::::::::::::::::::::::::: --&gt;</span>
-  </div><!-- END DEFINITION TEMPLATE
-
-
-BEGIN FRONT/BACK MATTER --><div id="front-back">  <span class="start-def">&lt;d:entry id="front_back_matter" d:title="Front/Back Matter"&gt;</span>
-    <b>&lt;h1&gt;Product Management Dictionary&lt;/h1&gt;</b>
-    <b>&lt;h2&gt;Front/Back Matter&lt;/h2&gt;</b><div>    &lt;p&gt;This dictionary resource was created by &lt;a href="http://brimwd.github.io" title="Brian Donahue's portfolio"&gt;Brian Donahue&lt;/a&gt; and &lt;a href="http://VictoriaJCai.github.io" title="Victoria Cai's portfolio"&gt;Victoria Cai&lt;/a&gt; in January of 2020.&lt;/p&gt;</div><div>    &lt;p&gt;You can find Brian on &lt;a href="https://github.com/brimwd" title="Brian Donahue's Github"&gt;Github&lt;/a&gt; and &lt;a href="https://www.linkedin.com/in/donahuebrian/" title="Brian Donahue's LinkedIn"&gt;LinkedIn&lt;/a&gt;.&lt;/p&gt;</div><div>    &lt;p&gt;You can find Victoria on &lt;a href="https://github.com/VictoriaJCai" title="Victoria Cai's Github"&gt;Github&lt;/a&gt; and &lt;a href="https://www.linkedin.com/in/VictoriaJCai/" title="Victoria Cai's LinkedIn"&gt;LinkedIn&lt;/a&gt;.&lt;/p&gt;</div>
-    <b>&lt;h4&gt;Acknowledgments&lt;/h4&gt;</b><div>    &lt;p&gt;Original definitions sourced from a &lt;a href="https://docs.google.com/spreadsheets/d/1O4N2pu6Mu-UBhUR3pdbv6dcjNecu7oMdIX1jZkBSUxE/edit#gid=0" title="Madalyn Chea's Software Product Management Dictionary"&gt;definitions spreadsheet&lt;/a&gt; created by &lt;a href="https://www.linkedin.com/in/sugarcoder/" title="Madalyn Chea's LinkedIn"&gt;Madalyn Chea&lt;/a&gt; in 2017 and (at the time the definitions were sourced) most-recently updated in September of 2018.&lt;/p&gt;</div><div>    &lt;p&gt;Dictionary was built following instructions found in &lt;a href="https://www.linkedin.com/in/indiver/" title="Indy Nagpal's LinkedIn"&gt;Indy Nagpal&lt;/a&gt;'s 2011 Blog post, &lt;a href="http://blog.nagpals.com/mac-dictionaries/"&gt;Create Custom Dictionaries For Mac OSX&lt;/a&gt;.&lt;/p&gt;</div><div>    &lt;p&gt;Other supporting resources include Apple's 2007 documentation archive record, &lt;a href="https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/DictionaryServicesProgGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40006152-CH1-SW1"&gt;Dictionary Services Programming Guide&lt;/a&gt;.&lt;/p&gt;</div>  <span class="end-def">&lt;/d:entry&gt;</span></div>
-&lt;/d:dictionary&gt;
-</pre>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
-<script type="text/javascript" src="app.js"></script>
 </body>
 </html>
