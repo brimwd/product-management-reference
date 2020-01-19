@@ -6,7 +6,13 @@ Built and maintained by <a href="http://brimwd.github.io/" target="_blank">Brian
 
 ## Installation instructions
 1. Download the <a href="https://github.com/brimwd/product-management-reference/blob/master/PMRef.dictionary.zip?raw=true" download>dictionary file</a>.
-2. Open a Finder window and press 
+2. Open a Finder window and press **⇧⌘G** (`Shift`+`Command`+`G`) to open the 'Go to Folder...' window.
+  * You can also access this window by opening Finder and selecting it from the top menu: **Go** < **Go to Folder...**
+  ![Go to Folder...](https://github.com/brimwd/product-management-reference/blob/master/tutorial-images/goto-foloder.png?raw=true)
+3. Navigate to the Dictionary Folder at this path: `~/Library/Dictionaries/`
+![Dictionary Folder](https://github.com/brimwd/product-management-reference/blob/master/tutorial-images/dictionary-folder.png?raw=true) 
+4. Drag the downloaded dictionary file into the folder.
+![Drag the downloaded file to the folder](https://github.com/brimwd/product-management-reference/blob/master/tutorial-images/drag-to-folder.jpeg?raw=true)
 
 #### CHANGE LOG
 Jan 18, 2020 - **`v1.0 published`**<br>
