@@ -5,14 +5,22 @@ Built and maintained by <a href="http://brimwd.github.io/" target="_blank">Brian
 **Latest Version:** v1.0<br>**Published:** Jan 18, 2020
 
 ## Installation instructions
-1. Download the <a href="https://github.com/brimwd/product-management-reference/blob/master/PMRef.dictionary.zip?raw=true" download>dictionary file</a>.
-2. Open a Finder window and press **⇧⌘G** (`Shift`+`Command`+`G`) to open the 'Go to Folder...' window.
+1. Download the <a href="https://github.com/brimwd/product-management-reference/blob/master/PMRef.dictionary.zip?raw=true" download>dictionary file</a>
+2. Open a Finder window and press **⇧⌘G** (`Shift`+`Command`+`G`) to open the 'Go to Folder...' window
   * You can also access this window by opening Finder and selecting it from the top menu: **Go** < **Go to Folder...**
   ![Go to Folder...](https://github.com/brimwd/product-management-reference/blob/master/tutorial-images/goto-foloder.png?raw=true)
-3. Navigate to the Dictionary Folder at this path: `~/Library/Dictionaries/`
-![Dictionary Folder](https://github.com/brimwd/product-management-reference/blob/master/tutorial-images/dictionary-folder.png?raw=true) 
-4. Drag the downloaded dictionary file into the folder.
-![Drag the downloaded file to the folder](https://github.com/brimwd/product-management-reference/blob/master/tutorial-images/drag-to-folder.jpeg?raw=true)
+3. Navigate to the Dictionary Folder at this path: `~/Library/Dictionaries/`<br>![Dictionary Folder](https://github.com/brimwd/product-management-reference/blob/master/tutorial-images/dictionary-folder.png?raw=true) 
+4. Drag the downloaded dictionary file into the folder<br>![Drag the downloaded file to the folder](https://github.com/brimwd/product-management-reference/blob/master/tutorial-images/drag-to-folder.jpeg?raw=true)
+5. Open the **Dictionary** app<br>![Open Dictionary](https://github.com/brimwd/product-management-reference/blob/master/tutorial-images/dictionary.png?raw=true)
+6. Open the **Preference** window<br>![Preference window](https://github.com/brimwd/product-management-reference/blob/master/tutorial-images/dictionary-preferences.png?raw=true)
+7. Scroll to the bottom of the 'Sources' list at the top of the Preferences window
+8. Check the box next to the **PM Reference**<br>![Preferences](https://github.com/brimwd/product-management-reference/blob/master/tutorial-images/preferences.jpeg?raw=true")
+9. Close all the Preferences, Dictionaries, and Finder windows
+
+## How to use 
+1. Look up terms in the **Dictionary** app<br>![Dictionary After](https://github.com/brimwd/product-management-reference/blob/master/tutorial-images/dictionary-after.jpeg?raw=true)
+2. Search for terms using **Spotlight**<br>![Spotlight Search results](https://github.com/brimwd/product-management-reference/blob/master/tutorial-images/spotlight.png?raw=true)
+3. `Right-click` terms and select **Look Up** in the context menu<br>!['Look Up' command](https://github.com/brimwd/product-management-reference/blob/master/tutorial-images/look-up.png?raw=true)<br>!['Look Up' window](https://github.com/brimwd/product-management-reference/blob/master/tutorial-images/look-up-window.png?raw=true)
 
 #### CHANGE LOG
 Jan 18, 2020 - **`v1.0 published`**<br>
