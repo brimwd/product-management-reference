@@ -13,10 +13,11 @@
 
 <!-- ::::::::::::::::::::::::::::::::::::::::::::: -->
 
-  <d:entry id="acceptance_criteria_(scrum)" d:title="Acceptance Criteria (Scrum)">
-    <d:index d:value="Acceptance Criteria (Scrum)"/>
-    <h1>Acceptance Criteria (Scrum)</h1>
+  <d:entry id="acceptance_criteria" d:title="Acceptance Criteria">
+    <d:index d:value="Acceptance Criteria"/>
+    <h1>Acceptance Criteria</h1>
     <p>The conditions that a software product must satisfy to be accepted by a user, customer, or in the case of system level functionality, the consuming system.</p>
+    <p>See <a href="x-dictionary:r:scrum">Scrum</a></p>
 
     <h4>References</h4>
     <ol>
@@ -39,10 +40,10 @@
 
 <!-- ::::::::::::::::::::::::::::::::::::::::::::: -->
 
-  <d:entry id="actor_(unified_modeling_language)" d:title="Actor (Unified Modeling Language)">
-    <d:index d:value="Actor (Unified Modeling Language)"/>
-    <h1>Actor (Unified Modeling Language)</h1>
-    <p>A role played by a user or any other system that interacts with the subject.</p>
+  <d:entry id="actor" d:title="Actor">
+    <d:index d:value="Actor"/>
+    <h1>Actor</h1>
+    <p>From Unified Modeling Language: A role played by a user or any other system that interacts with the subject.</p>
 
     <h4>References</h4>
     <ol>
@@ -132,10 +133,10 @@
 
 <!-- ::::::::::::::::::::::::::::::::::::::::::::: -->
 
-  <d:entry id="api_(application_programming_interface)" d:title="API (Application Programming Interface)">
-    <d:index d:value="API (Application Programming Interface)"/>
-    <h1>API (Application Programming Interface)</h1>
-    <p>A set of routines, protocols, and tools for building software applications. Basically, an API specifies how software components should interact. APIs are used when programming graphical user interface (GUI) components.</p>
+  <d:entry id="api" d:title="API">
+    <d:index d:value="API"/>
+    <h1>API</h1>
+    <p>Application Programming Interface (API) is a set of routines, protocols, and tools for building software applications. Basically, an API specifies how software components should interact. APIs are used when programming graphical user interface (<a href="x-dictionary:r:GUI">GUI</a>) components.</p>
 
     <h4>References</h4>
     <ol>
@@ -145,10 +146,10 @@
 
 <!-- ::::::::::::::::::::::::::::::::::::::::::::: -->
 
-  <d:entry id="ar_(augmented_reality)" d:title="AR (Augmented Reality)">
-    <d:index d:value="AR (Augmented Reality)"/>
-    <h1>AR (Augmented Reality)</h1>
-    <p>A technology that superimposes a computer-generated image on a user's view of the real world, thus providing a composite view.</p>
+  <d:entry id="ar" d:title="AR">
+    <d:index d:value="AR"/>
+    <h1>AR</h1>
+    <p>Augmented Reality (AR) A technology that superimposes a computer-generated image on a user's view of the real world, thus providing a composite view.</p>
 
     <h4>References</h4>
     <ol>
@@ -1467,10 +1468,10 @@
 
 <!-- ::::::::::::::::::::::::::::::::::::::::::::: -->
 
-  <d:entry id="gui_(graphical_user_interface)" d:title="GUI (Graphical User Interface)">
-    <d:index d:value="GUI (Graphical User Interface)"/>
-    <h1>GUI (Graphical User Interface)</h1>
-    <p>A type of user interface that allows users to interact with electronic devices through graphical icons and visual indicators such as secondary notation, instead of text-based user interfaces, typed command labels or text navigation.</p>
+  <d:entry id="gui" d:title="GUI">
+    <d:index d:value="GUI"/>
+    <h1>GUI</h1>
+    <p>Graphical User Interface (GUI) is a type of user interface that allows users to interact with electronic devices through graphical icons and visual indicators such as secondary notation, instead of text-based user interfaces, typed command labels or text navigation.</p>
 
     <h4>References</h4>
     <ol>

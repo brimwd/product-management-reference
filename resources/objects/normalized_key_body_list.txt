@@ -1,267 +1,267 @@
 abandonment	32	0	Abandonment			
-acceptance criteria (scrum)	298	0	Acceptance Criteria (Scrum)			
-acquisition	636	0	Acquisition			
-actor (unified modeling language)	900	0	Actor (Unified Modeling Language)			
-agile	1187	0	Agile			
-ai	1726	0	AI			
-allocating resources	2138	0	Allocating Resources			
-alpha (investment)	2436	0	Alpha (Investment)			
-alpha test	2758	0	Alpha Test			
-android	3104	0	Android			
-api (application programming interface)	3437	0	API (Application Programming Interface)			
-ar (augmented reality)	3791	0	AR (Augmented Reality)			
-asp (application service provider)	4090	0	ASP (Application Service Provider)			
-assumption	4438	0	Assumption			
-automatic programming	4748	0	Automatic Programming			
-automation	5053	0	Automation			
-b2b (business to business)	5373	0	B2B (Business to Business)			
-b2c (business to consumer)	5680	0	B2C (Business to Consumer)			
-b2g (business to government)	5979	0	B2G (Business to Government)			
-ba (business analytics)	6355	0	BA (Business Analytics)			
-baas (backend as a service)	6737	0	BaaS (Backend as a Service)			
-back end development	7148	0	Back-end Development			
-backlog (scrum)	7442	0	Backlog (Scrum)			
-benchmark	7731	0	Benchmark			
-beta (investment)	8022	0	Beta (Investment)			
-beta test	8398	0	Beta Test			
-bi (businesss intelligence)	8729	0	BI (Businesss Intelligence)			
-bottleneck	9154	0	Bottleneck			
-bounce rate	9526	0	Bounce Rate			
-brd (business requirements document)	9802	0	BRD (Business Requirements Document)			
-brainstorming	10254	0	Brainstorming			
-brand differentiation	10518	0	Brand Differentiation			
-branding	10817	0	Branding			
-bug	11220	0	Bug			
-build	11516	0	Build			
-business case	11738	0	Business Case			
-business development	12001	0	Business Development			
-business incubator	12342	0	Business Incubator			
-business model	12698	0	Business Model			
-business permit	13035	0	Business Permit			
-business plan	13348	0	Business Plan			
-cac (customer acquisition cost)	13657	0	CAC (Customer Acquisition Cost)			
-case study	13933	0	Case Study			
-ccr (customer churn rate)	14236	0	CCR (Customer Churn Rate)			
-channel support	14513	0	Channel Support			
-chatbot	14775	0	Chatbot			
-cloud computing	15120	0	Cloud Computing			
-clv (customer lifetime value)	15533	0	CLV (Customer Lifetime Value)			
-cm (content management)	15852	0	CM (Content Management)			
-cms (content management system)	16223	0	CMS (Content Management System)			
-collateral	16572	0	Collateral			
-competitive advantage	16838	0	Competitive Advantage			
-competitive analysis (aka competitive research)	17191	0	Competitive Analysis (aka Competitive Research)			
-constraint	17647	0	Constraint			
-conversion rate	17870	0	Conversion Rate			
-corner case	18190	0	Corner Case			
-cpc (cost per click)	18578	0	CPC (Cost Per Click)			
-cpi (cost per impressions)	18859	0	CPI (Cost Per Impressions)			
-cpm (cost per mille)	19158	0	CPM (Cost Per Mille)			
-crm (customer relationship management)	19432	0	CRM (Customer Relationship Management)			
-criterion	19719	0	Criterion			
-css (cascading style sheets)	20017	0	CSS (Cascading Style Sheets)			
-ctr (click through rate)	20311	0	CTR (Click Through Rate)			
-customer acquisition	20688	0	Customer Acquisition			
-customer development	20975	0	Customer Development			
-customer engagement	21282	0	Customer Engagement			
-customer insight	21596	0	Customer Insight			
-customer retention	21908	0	Customer Retention			
-customer success	22174	0	Customer Success			
-dau (daily active user)	22512	0	DAU (Daily Active User)			
-daily standup (scrum meeting)	22868	0	Daily Standup (Scrum meeting)			
-data analysis	23299	0	Data Analysis			
-data analytics	23605	0	Data Analytics			
-data mining	23962	0	Data Mining			
-data science	24213	0	Data Science			
-debugging	24531	0	Debugging			
-deliverable	24913	0	Deliverable			
-depreciation	25163	0	Depreciation			
-design concept	25443	0	Design Concept			
-design thinking	25774	0	Design Thinking			
-disruption	26045	0	Disruption			
-distribution channel	26358	0	Distribution Channel			
-distribution model	26687	0	Distribution Model			
-distributor	27061	0	Distributor			
-doneness criteria (scrum)	27339	0	Doneness Criteria (Scrum)			
-drop off rate	27653	0	Drop Off Rate			
-drop shipping	28016	0	Drop Shipping			
-due diligence	28331	0	Due Diligence			
-e commerce	28672	0	E-commerce			
-edge case	28911	0	Edge Case			
-end to end	29263	0	End to End			
-enterprise	29654	0	Enterprise			
-epic	30043	0	Epic			
-erp (enterprise resource planning)	30520	0	ERP (Enterprise Resource Planning)			
-executive summary	30824	0	Executive Summary			
-exit rate	31117	0	Exit Rate			
-exit strategy	31371	0	Exit Strategy			
-experiment	31617	0	Experiment			
-exporting	31880	0	Exporting			
-fdd (feature driven development)	32125	0	FDD (Feature-Driven Development)			
-feature	32424	0	Feature			
-feature creep	32767	0	Feature Creep			
-focus group	33129	0	Focus Group			
-frd (functional requirements document)	33490	0	FRD (Functional Requirements Document)			
-framework	33838	0	Framework			
-freemium	34085	0	Freemium			
-front end development	34429	0	Front-end Development			
-full stack development	34707	0	Full Stack Development			
-fulfillment (order fulfillment)	35013	0	Fulfillment (Order fulfillment)			
-goal	35330	0	Goal			
-growth hacking	35613	0	Growth Hacking			
-gtm (go to market) strategy	36007	0	GTM (Go To Market) Strategy			
-gui (graphical user interface)	36388	0	GUI (Graphical User Interface)			
-http (hypertext markup language)	36747	0	HTTP (Hypertext Markup Language)			
-iaas (infrastructure as a service)	37019	0	IaaS (Infrastructure as a Service)			
-ideate	37379	0	Ideate			
-importing	37595	0	Importing			
-incubator	37853	0	Incubator			
-infographic	38133	0	Infographic			
-influence	38386	0	Influence			
-innovate (innovation)	38641	0	Innovate (Innovation)			
-innovation lab	38922	0	Innovation Lab			
-ipa (intelligent personal assistant)	39234	0	IPA (Intelligent Personal Assistant)			
-ios (phone operating system)	39589	0	iOS (Phone Operating System)			
-iot (internet of things)	39875	0	IoT (Internet of Things)			
-it (information technology)	40216	0	IT (Information Technology)			
-iteration (scrum)	40587	0	Iteration (Scrum)			
-js (javascript)	40922	0	JS (JavaScript)			
-kanban	41209	0	Kanban			
-kpi (key performance indicator)	41519	0	KPI (Key Performance Indicator)			
-launch (product launch)	41856	0	Launch (Product launch)			
-leads	42184	0	Leads			
-lean development	42486	0	Lean Development			
-machine learning	42839	0	Machine Learning			
-market research (marketing research)	43214	0	Market Research (Marketing research)			
-market segmentation	43654	0	Market Segmentation			
-marketplace (e commerce)	43909	0	Marketplace (E-Commerce)			
-mau (monthly active user)	44225	0	MAU (Monthly Active User)			
-media planning	44530	0	Media Planning			
-methodology	44788	0	Methodology			
-metrics	45112	0	Metrics			
-mindmap (mindmapping)	45398	0	Mindmap (Mindmapping)			
-mission statement	45715	0	Mission Statement			
-mobile development	46014	0	Mobile Development			
-mockup	46308	0	Mockup			
-mrd (market requirements document)	46583	0	MRD (Market Requirements Document)			
-multivariate testing	47008	0	Multivariate Testing			
-mve (minimum viable experience)	47342	0	MVE (Minimum Viable Experience)			
-mvp (minimum viable product)	47746	0	MVP (Minimum Viable Product)			
-nps (net promoter score)	48199	0	NPS (Net Promoter Score)			
-negotiation	48507	0	Negotiation			
-network marketing (multilevel marketing)	48849	0	Network Marketing (Multilevel marketing)			
-nlp (natural language processing)	49189	0	NLP (Natural Language Processing)			
-objective	49549	0	Objective 			
-okr (objectives and key results)	49842	0	OKR (Objectives and Key Results)			
-optimization	50185	0	Optimization			
-outsourcing	50441	0	Outsourcing			
-overhead	50747	0	Overhead			
-p and l (profit and loss)	51076	0	P and L (Profit and Loss)			
-packaging	51367	0	Packaging			
-pain point	51679	0	Pain Point			
-parameter	52176	0	Parameter			
-perception of value	52447	0	Perception of Value			
-persona	52750	0	Persona			
-pitch (elevator pitch)	53237	0	Pitch (Elevator pitch)			
-pivot	53563	0	Pivot			
-paas (platform as a service)	53864	0	PaaS (Platform as a Service)			
-plc (product life cycle)	54233	0	PLC (Product Life Cycle)			
-plm (product lifecycle management)	54597	0	PLM (Product Lifecycle Management)			
-podcast	54919	0	Podcast			
-pos (point of sale) system	55219	0	POS (Point of Sale) System			
-positioning	55508	0	Positioning			
-ppc (pay per click)	55834	0	PPC (Pay Per Click)			
-ppv (pages per visit)	56166	0	PPV (Pages Per Visit)			
-prd (product requirements document)	56490	0	PRD (Product Requirements Document)			
-press kit	56798	0	Press Kit			
-press release	57084	0	Press Release			
-pricing	57380	0	Pricing			
-prioritization	57611	0	Prioritization			
-process	57864	0	Process			
-procurement	58105	0	Procurement			
-product development	58396	0	Product Development			
-product differentiation	58841	0	Product Differentiation			
-product/market fit	59175	0	Product/Market Fit			
-product marketing	59427	0	Product Marketing			
-product vision	59672	0	Product Vision			
-program synthesis	59943	0	Program Synthesis			
-project management	60292	0	Project Management			
-poc (proof of concept)	60602	0	POC (Proof of Concept)			
-pql (product qualified lead)	60948	0	PQL (Product Qualified Lead)			
-prospecting	61256	0	Prospecting			
-prototype	61488	0	Prototype			
-pr (public relations)	61966	0	PR (Public Relations)			
-qa (quality assurance)	62281	0	QA (Quality Assurance)			
-qc (quality control)	62589	0	QC (Quality Control)			
-qualitative data	62886	0	Qualitative Data			
-quantitative data	63184	0	Quantitative Data			
-r and d (research and development)	63441	0	R and D (Research and Development)			
-rad (rapid application development)	63751	0	RAD (Rapid Application Development)			
-rapid prototyping	64172	0	Rapid Prototyping			
-release	64454	0	Release			
-release planning (scrum)	64749	0	Release Planning (Scrum)			
-requirements	65112	0	Requirements			
-revenue	65585	0	Revenue			
-risk (business risk)	65871	0	Risk (Business risk)			
-risk management	66263	0	Risk Management			
-roadmap	66550	0	Roadmap			
-roi (return on investment)	66999	0	ROI (Return on Investment)			
-rup (rational unified process)	67334	0	RUP (Rational Unified Process)			
-saas (software as a service)	67600	0	SaaS (Software as a Service)			
-sales enablement	67892	0	Sales Enablement			
-scalability	68256	0	Scalability			
-scaling	68539	0	Scaling			
-scope	68827	0	Scope			
-scope creep (requirement creep)	69229	0	Scope Creep (Requirement Creep)			
-scrum	69594	0	Scrum			
-sdlc (software development life cycle)	70176	0	SDLC (Software Development Life Cycle)			
-seo (search engine optimization)	70520	0	SEO (Search Engine Optimization)			
-ship	70853	0	Ship			
-shipping	71155	0	Shipping			
-smb	71384	0	SMB			
-sme	71585	0	SME			
-soft launch (soft opening)	72001	0	Soft Launch (Soft opening)			
-software architecture	72383	0	Software Architecture			
-software requirements specifications	72704	0	Software Requirements Specifications			
-specifications (technical)	73100	0	Specifications (Technical)			
-sprint	73817	0	Sprint			
-ssl (secure sockets layer)	74336	0	SSL (Secure Sockets Layer)			
-stakeholder	74633	0	Stakeholder			
-strategy	74877	0	Strategy			
-style guide	75133	0	Style Guide			
-supply chain	75420	0	Supply Chain			
-survey (research methodology)	75713	0	Survey (research methodology)			
-swot analysis (strengths, weaknesses, opportunities, threats)	76118	0	SWOT Analysis (Strengths, Weaknesses, Opportunities, Threats)			
-system integration	76524	0	System Integration			
-tactics	76941	0	Tactics			
-target audience	77313	0	Target Audience			
-taxonomy	77575	0	Taxonomy			
-time on site	77838	0	Time on Site			
-trade shows	78133	0	Trade Shows			
-trend	78530	0	Trend			
-tribal knowledge	78775	0	Tribal Knowledge			
-ui (user interface)	79204	0	UI (User Interface)			
-uml (unified modeling language)	79569	0	UML (Unified Modeling Language)			
-unicorn (finance)	79908	0	Unicorn (Finance)			
-usability testing (aka user testing)	80226	0	Usability Testing (aka User Testing)			
-use case	80601	0	Use Case			
-user feedback	80968	0	User Feedback			
-user flow	81269	0	User Flow			
-user journey (aka customer discovery, customer journey)	81559	0	User Journey (aka Customer Discovery, Customer Journey)			
-user research	81911	0	User Research			
-user stories	82217	0	User Stories			
-usp (unique selling proposition)	82649	0	USP (Unique Selling Proposition)			
-ux (user experience)	82997	0	UX (User Experience)			
-valuation	83397	0	Valuation			
-value proposition	83662	0	Value proposition			
-vendor (seller)	83962	0	Vendor (seller)			
-v and v (verification and validation)	84300	0	V and V (Verification and Validation)			
-va (virtual assistant)	84638	0	VA (Virtual Assistant)			
-voc (voice of the customer)	85017	0	VOC (Voice of the Customer)			
-waterfall	85310	0	Waterfall			
-web analytics	85815	0	Web Analytics			
-web design	86264	0	Web Design			
-white paper	86629	0	White Paper			
-win/loss analysis	86975	0	Win/Loss Analysis			
-wireframe	87313	0	Wireframe			
-workflow	87582	0	Workflow			
+acceptance criteria	298	0	Acceptance Criteria			
+acquisition	647	0	Acquisition			
+actor	911	0	Actor			
+agile	1190	0	Agile			
+ai	1729	0	AI			
+allocating resources	2141	0	Allocating Resources			
+alpha (investment)	2439	0	Alpha (Investment)			
+alpha test	2761	0	Alpha Test			
+android	3107	0	Android			
+api	3440	0	API			
+ar	3806	0	AR			
+asp (application service provider)	4101	0	ASP (Application Service Provider)			
+assumption	4449	0	Assumption			
+automatic programming	4759	0	Automatic Programming			
+automation	5064	0	Automation			
+b2b (business to business)	5384	0	B2B (Business to Business)			
+b2c (business to consumer)	5691	0	B2C (Business to Consumer)			
+b2g (business to government)	5990	0	B2G (Business to Government)			
+ba (business analytics)	6366	0	BA (Business Analytics)			
+baas (backend as a service)	6748	0	BaaS (Backend as a Service)			
+back end development	7159	0	Back-end Development			
+backlog (scrum)	7453	0	Backlog (Scrum)			
+benchmark	7742	0	Benchmark			
+beta (investment)	8033	0	Beta (Investment)			
+beta test	8409	0	Beta Test			
+bi (businesss intelligence)	8740	0	BI (Businesss Intelligence)			
+bottleneck	9165	0	Bottleneck			
+bounce rate	9537	0	Bounce Rate			
+brd (business requirements document)	9813	0	BRD (Business Requirements Document)			
+brainstorming	10265	0	Brainstorming			
+brand differentiation	10529	0	Brand Differentiation			
+branding	10828	0	Branding			
+bug	11231	0	Bug			
+build	11527	0	Build			
+business case	11749	0	Business Case			
+business development	12012	0	Business Development			
+business incubator	12353	0	Business Incubator			
+business model	12709	0	Business Model			
+business permit	13046	0	Business Permit			
+business plan	13359	0	Business Plan			
+cac (customer acquisition cost)	13668	0	CAC (Customer Acquisition Cost)			
+case study	13944	0	Case Study			
+ccr (customer churn rate)	14247	0	CCR (Customer Churn Rate)			
+channel support	14524	0	Channel Support			
+chatbot	14786	0	Chatbot			
+cloud computing	15131	0	Cloud Computing			
+clv (customer lifetime value)	15544	0	CLV (Customer Lifetime Value)			
+cm (content management)	15863	0	CM (Content Management)			
+cms (content management system)	16234	0	CMS (Content Management System)			
+collateral	16583	0	Collateral			
+competitive advantage	16849	0	Competitive Advantage			
+competitive analysis (aka competitive research)	17202	0	Competitive Analysis (aka Competitive Research)			
+constraint	17658	0	Constraint			
+conversion rate	17881	0	Conversion Rate			
+corner case	18201	0	Corner Case			
+cpc (cost per click)	18589	0	CPC (Cost Per Click)			
+cpi (cost per impressions)	18870	0	CPI (Cost Per Impressions)			
+cpm (cost per mille)	19169	0	CPM (Cost Per Mille)			
+crm (customer relationship management)	19443	0	CRM (Customer Relationship Management)			
+criterion	19730	0	Criterion			
+css (cascading style sheets)	20028	0	CSS (Cascading Style Sheets)			
+ctr (click through rate)	20322	0	CTR (Click Through Rate)			
+customer acquisition	20699	0	Customer Acquisition			
+customer development	20986	0	Customer Development			
+customer engagement	21293	0	Customer Engagement			
+customer insight	21607	0	Customer Insight			
+customer retention	21919	0	Customer Retention			
+customer success	22185	0	Customer Success			
+dau (daily active user)	22523	0	DAU (Daily Active User)			
+daily standup (scrum meeting)	22879	0	Daily Standup (Scrum meeting)			
+data analysis	23310	0	Data Analysis			
+data analytics	23616	0	Data Analytics			
+data mining	23973	0	Data Mining			
+data science	24224	0	Data Science			
+debugging	24542	0	Debugging			
+deliverable	24924	0	Deliverable			
+depreciation	25174	0	Depreciation			
+design concept	25454	0	Design Concept			
+design thinking	25785	0	Design Thinking			
+disruption	26056	0	Disruption			
+distribution channel	26369	0	Distribution Channel			
+distribution model	26698	0	Distribution Model			
+distributor	27072	0	Distributor			
+doneness criteria (scrum)	27350	0	Doneness Criteria (Scrum)			
+drop off rate	27664	0	Drop Off Rate			
+drop shipping	28027	0	Drop Shipping			
+due diligence	28342	0	Due Diligence			
+e commerce	28683	0	E-commerce			
+edge case	28922	0	Edge Case			
+end to end	29274	0	End to End			
+enterprise	29665	0	Enterprise			
+epic	30054	0	Epic			
+erp (enterprise resource planning)	30531	0	ERP (Enterprise Resource Planning)			
+executive summary	30835	0	Executive Summary			
+exit rate	31128	0	Exit Rate			
+exit strategy	31382	0	Exit Strategy			
+experiment	31628	0	Experiment			
+exporting	31891	0	Exporting			
+fdd (feature driven development)	32136	0	FDD (Feature-Driven Development)			
+feature	32435	0	Feature			
+feature creep	32778	0	Feature Creep			
+focus group	33140	0	Focus Group			
+frd (functional requirements document)	33501	0	FRD (Functional Requirements Document)			
+framework	33849	0	Framework			
+freemium	34096	0	Freemium			
+front end development	34440	0	Front-end Development			
+full stack development	34718	0	Full Stack Development			
+fulfillment (order fulfillment)	35024	0	Fulfillment (Order fulfillment)			
+goal	35341	0	Goal			
+growth hacking	35624	0	Growth Hacking			
+gtm (go to market) strategy	36018	0	GTM (Go To Market) Strategy			
+gui	36399	0	GUI			
+http (hypertext markup language)	36751	0	HTTP (Hypertext Markup Language)			
+iaas (infrastructure as a service)	37023	0	IaaS (Infrastructure as a Service)			
+ideate	37383	0	Ideate			
+importing	37599	0	Importing			
+incubator	37857	0	Incubator			
+infographic	38137	0	Infographic			
+influence	38390	0	Influence			
+innovate (innovation)	38645	0	Innovate (Innovation)			
+innovation lab	38926	0	Innovation Lab			
+ipa (intelligent personal assistant)	39238	0	IPA (Intelligent Personal Assistant)			
+ios (phone operating system)	39593	0	iOS (Phone Operating System)			
+iot (internet of things)	39879	0	IoT (Internet of Things)			
+it (information technology)	40220	0	IT (Information Technology)			
+iteration (scrum)	40591	0	Iteration (Scrum)			
+js (javascript)	40926	0	JS (JavaScript)			
+kanban	41213	0	Kanban			
+kpi (key performance indicator)	41523	0	KPI (Key Performance Indicator)			
+launch (product launch)	41860	0	Launch (Product launch)			
+leads	42188	0	Leads			
+lean development	42490	0	Lean Development			
+machine learning	42843	0	Machine Learning			
+market research (marketing research)	43218	0	Market Research (Marketing research)			
+market segmentation	43658	0	Market Segmentation			
+marketplace (e commerce)	43913	0	Marketplace (E-Commerce)			
+mau (monthly active user)	44229	0	MAU (Monthly Active User)			
+media planning	44534	0	Media Planning			
+methodology	44792	0	Methodology			
+metrics	45116	0	Metrics			
+mindmap (mindmapping)	45402	0	Mindmap (Mindmapping)			
+mission statement	45719	0	Mission Statement			
+mobile development	46018	0	Mobile Development			
+mockup	46312	0	Mockup			
+mrd (market requirements document)	46587	0	MRD (Market Requirements Document)			
+multivariate testing	47012	0	Multivariate Testing			
+mve (minimum viable experience)	47346	0	MVE (Minimum Viable Experience)			
+mvp (minimum viable product)	47750	0	MVP (Minimum Viable Product)			
+nps (net promoter score)	48203	0	NPS (Net Promoter Score)			
+negotiation	48511	0	Negotiation			
+network marketing (multilevel marketing)	48853	0	Network Marketing (Multilevel marketing)			
+nlp (natural language processing)	49193	0	NLP (Natural Language Processing)			
+objective	49553	0	Objective 			
+okr (objectives and key results)	49846	0	OKR (Objectives and Key Results)			
+optimization	50189	0	Optimization			
+outsourcing	50445	0	Outsourcing			
+overhead	50751	0	Overhead			
+p and l (profit and loss)	51080	0	P and L (Profit and Loss)			
+packaging	51371	0	Packaging			
+pain point	51683	0	Pain Point			
+parameter	52180	0	Parameter			
+perception of value	52451	0	Perception of Value			
+persona	52754	0	Persona			
+pitch (elevator pitch)	53241	0	Pitch (Elevator pitch)			
+pivot	53567	0	Pivot			
+paas (platform as a service)	53868	0	PaaS (Platform as a Service)			
+plc (product life cycle)	54237	0	PLC (Product Life Cycle)			
+plm (product lifecycle management)	54601	0	PLM (Product Lifecycle Management)			
+podcast	54923	0	Podcast			
+pos (point of sale) system	55223	0	POS (Point of Sale) System			
+positioning	55512	0	Positioning			
+ppc (pay per click)	55838	0	PPC (Pay Per Click)			
+ppv (pages per visit)	56170	0	PPV (Pages Per Visit)			
+prd (product requirements document)	56494	0	PRD (Product Requirements Document)			
+press kit	56802	0	Press Kit			
+press release	57088	0	Press Release			
+pricing	57384	0	Pricing			
+prioritization	57615	0	Prioritization			
+process	57868	0	Process			
+procurement	58109	0	Procurement			
+product development	58400	0	Product Development			
+product differentiation	58845	0	Product Differentiation			
+product/market fit	59179	0	Product/Market Fit			
+product marketing	59431	0	Product Marketing			
+product vision	59676	0	Product Vision			
+program synthesis	59947	0	Program Synthesis			
+project management	60296	0	Project Management			
+poc (proof of concept)	60606	0	POC (Proof of Concept)			
+pql (product qualified lead)	60952	0	PQL (Product Qualified Lead)			
+prospecting	61260	0	Prospecting			
+prototype	61492	0	Prototype			
+pr (public relations)	61970	0	PR (Public Relations)			
+qa (quality assurance)	62285	0	QA (Quality Assurance)			
+qc (quality control)	62593	0	QC (Quality Control)			
+qualitative data	62890	0	Qualitative Data			
+quantitative data	63188	0	Quantitative Data			
+r and d (research and development)	63445	0	R and D (Research and Development)			
+rad (rapid application development)	63755	0	RAD (Rapid Application Development)			
+rapid prototyping	64176	0	Rapid Prototyping			
+release	64458	0	Release			
+release planning (scrum)	64753	0	Release Planning (Scrum)			
+requirements	65116	0	Requirements			
+revenue	65589	0	Revenue			
+risk (business risk)	65875	0	Risk (Business risk)			
+risk management	66267	0	Risk Management			
+roadmap	66554	0	Roadmap			
+roi (return on investment)	67003	0	ROI (Return on Investment)			
+rup (rational unified process)	67338	0	RUP (Rational Unified Process)			
+saas (software as a service)	67604	0	SaaS (Software as a Service)			
+sales enablement	67896	0	Sales Enablement			
+scalability	68260	0	Scalability			
+scaling	68543	0	Scaling			
+scope	68831	0	Scope			
+scope creep (requirement creep)	69233	0	Scope Creep (Requirement Creep)			
+scrum	69598	0	Scrum			
+sdlc (software development life cycle)	70180	0	SDLC (Software Development Life Cycle)			
+seo (search engine optimization)	70524	0	SEO (Search Engine Optimization)			
+ship	70857	0	Ship			
+shipping	71159	0	Shipping			
+smb	71388	0	SMB			
+sme	71589	0	SME			
+soft launch (soft opening)	72005	0	Soft Launch (Soft opening)			
+software architecture	72387	0	Software Architecture			
+software requirements specifications	72708	0	Software Requirements Specifications			
+specifications (technical)	73104	0	Specifications (Technical)			
+sprint	73821	0	Sprint			
+ssl (secure sockets layer)	74340	0	SSL (Secure Sockets Layer)			
+stakeholder	74637	0	Stakeholder			
+strategy	74881	0	Strategy			
+style guide	75137	0	Style Guide			
+supply chain	75424	0	Supply Chain			
+survey (research methodology)	75717	0	Survey (research methodology)			
+swot analysis (strengths, weaknesses, opportunities, threats)	76122	0	SWOT Analysis (Strengths, Weaknesses, Opportunities, Threats)			
+system integration	76528	0	System Integration			
+tactics	76945	0	Tactics			
+target audience	77317	0	Target Audience			
+taxonomy	77579	0	Taxonomy			
+time on site	77842	0	Time on Site			
+trade shows	78137	0	Trade Shows			
+trend	78534	0	Trend			
+tribal knowledge	78779	0	Tribal Knowledge			
+ui (user interface)	79208	0	UI (User Interface)			
+uml (unified modeling language)	79573	0	UML (Unified Modeling Language)			
+unicorn (finance)	79912	0	Unicorn (Finance)			
+usability testing (aka user testing)	80230	0	Usability Testing (aka User Testing)			
+use case	80605	0	Use Case			
+user feedback	80972	0	User Feedback			
+user flow	81273	0	User Flow			
+user journey (aka customer discovery, customer journey)	81563	0	User Journey (aka Customer Discovery, Customer Journey)			
+user research	81915	0	User Research			
+user stories	82221	0	User Stories			
+usp (unique selling proposition)	82653	0	USP (Unique Selling Proposition)			
+ux (user experience)	83001	0	UX (User Experience)			
+valuation	83401	0	Valuation			
+value proposition	83666	0	Value proposition			
+vendor (seller)	83966	0	Vendor (seller)			
+v and v (verification and validation)	84304	0	V and V (Verification and Validation)			
+va (virtual assistant)	84642	0	VA (Virtual Assistant)			
+voc (voice of the customer)	85021	0	VOC (Voice of the Customer)			
+waterfall	85314	0	Waterfall			
+web analytics	85819	0	Web Analytics			
+web design	86268	0	Web Design			
+white paper	86633	0	White Paper			
+win/loss analysis	86979	0	Win/Loss Analysis			
+wireframe	87317	0	Wireframe			
+workflow	87586	0	Workflow			

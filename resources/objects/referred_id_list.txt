@@ -1,5 +1,7 @@
+scrum
 waterfall
 methodology
+GUI
 agile
 waterfall
 SME

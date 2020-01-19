@@ -4,8 +4,9 @@ window.customDictionary = [{
 	url:['https://en.wikipedia.org/wiki/Abandonment_rate']
 },
 {
-	key:'Acceptance Criteria (Scrum)',
-	def:['The conditions that a software product must satisfy to be accepted by a user, customer, or in the case of system level functionality, the consuming system.'],
+	key:'Acceptance Criteria',
+	def:['The conditions that a software product must satisfy to be accepted by a user, customer, or in the case of system level functionality, the consuming system.',
+		'See <a href="x-dictionary:r:scrum">Scrum</a>'],
 	url:['https://rubygarage.org/blog/clear-acceptance-criteria-and-why-its-important']
 },
 {
@@ -14,8 +15,8 @@ window.customDictionary = [{
 	url:['https://www.investopedia.com/terms/a/acquisition.asp']
 },
 {
-	key:'Actor (Unified Modeling Language)',
-	def:['A role played by a user or any other system that interacts with the subject.'],
+	key:'Actor',
+	def:['From Unified Modeling Language: A role played by a user or any other system that interacts with the subject.'],
 	url:['https://en.wikipedia.org/wiki/Actor_(UML)']
 },
 {
@@ -51,13 +52,13 @@ window.customDictionary = [{
 	url:['https://www.techopedia.com/definition/5415/android']
 },
 {
-	key:'API (Application Programming Interface)',
-	def:['A set of routines, protocols, and tools for building software applications. Basically, an API specifies how software components should interact. APIs are used when programming graphical user interface (GUI) components.'],
+	key:'API',
+	def:['Application Programming Interface (API) is a set of routines, protocols, and tools for building software applications. Basically, an API specifies how software components should interact. APIs are used when programming graphical user interface (<a href="x-dictionary:r:GUI">GUI</a>) components.'],
 	url:['https://en.wikipedia.org/wiki/Application_programming_interface']
 },
 {
-	key:'AR (Augmented Reality)',
-	def:['A technology that superimposes a computer-generated image on a user\'s view of the real world, thus providing a composite view.'],
+	key:'AR',
+	def:['Augmented Reality (AR) A technology that superimposes a computer-generated image on a user\'s view of the real world, thus providing a composite view.'],
 	url:['https://en.wikipedia.org/wiki/Augmented_reality']
 },
 {
@@ -570,8 +571,8 @@ window.customDictionary = [{
 	url:['https://en.wikipedia.org/wiki/Go_to_market']
 },
 {
-	key:'GUI (Graphical User Interface)',
-	def:['A type of user interface that allows users to interact with electronic devices through graphical icons and visual indicators such as secondary notation, instead of text-based user interfaces, typed command labels or text navigation.'],
+	key:'GUI',
+	def:['Graphical User Interface (GUI) is a type of user interface that allows users to interact with electronic devices through graphical icons and visual indicators such as secondary notation, instead of text-based user interfaces, typed command labels or text navigation.'],
 	url:['https://en.wikipedia.org/wiki/Graphical_user_interface']
 },
 {

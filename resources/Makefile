@@ -6,7 +6,7 @@
 
 ###########################
 
-DICT_NAME		=	"Product Management Reference Dictionary"
+DICT_NAME		=	"PM Reference"
 DICT_SRC_PATH	=	PMRef.xml
 CSS_PATH		=	PMRef.css
 PLIST_PATH		=	Info.plist
