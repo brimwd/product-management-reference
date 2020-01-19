@@ -13,9 +13,9 @@ Built and maintained by <a href="http://brimwd.github.io/" target="_blank">Brian
 4. Drag the downloaded dictionary file into the folder<br>![Drag the downloaded file to the folder](https://github.com/brimwd/product-management-reference/blob/master/tutorial-images/drag-to-folder.jpeg?raw=true)
 5. Open the **Dictionary** app<br>![Open Dictionary](https://github.com/brimwd/product-management-reference/blob/master/tutorial-images/dictionary.png?raw=true)
 6. Open the **Preference** window<br>![Preference window](https://github.com/brimwd/product-management-reference/blob/master/tutorial-images/dictionary-preferences.png?raw=true)
-7. Scroll to the bottom of the 'Sources' list at the top of the Preferences window
-8. Check the box next to the **PM Reference**<br>![Preferences](https://github.com/brimwd/product-management-reference/blob/master/tutorial-images/preferences.jpeg?raw=true")
-9. Close all the Preferences, Dictionaries, and Finder windows
+7. Scroll to the bottom of the 'Sources' list at the top of the **Preferences** window
+8. Check the box next to **PM Reference**<br>![Preferences](https://github.com/brimwd/product-management-reference/blob/master/tutorial-images/preferences.jpeg?raw=true")
+9. You can now close the **Preferences**, **Dictionary**, and **Finder** windows
 
 ## How to use 
 1. Look up terms in the **Dictionary** app<br>![Dictionary After](https://github.com/brimwd/product-management-reference/blob/master/tutorial-images/dictionary-after.jpeg?raw=true)
