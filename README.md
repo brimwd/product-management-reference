@@ -4,7 +4,7 @@ Built and maintained by <a href="http://brimwd.github.io/" target="_blank">Brian
 
 ![PM Reference v1.1](https://github.com/brimwd/product-management-reference/blob/master/screenshots/latest-preview.png?raw=true)
 
-**Latest Version:** v1.1<br>**Published:** Jan 20, 2020
+**Latest Release:** v1.1<br>**Published:** Jan 20, 2020
 
 <br><br>
 ## INSTALLATION INSTRUCTIONS
