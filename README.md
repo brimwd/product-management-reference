@@ -2,6 +2,8 @@
 A community-sourced reference dictionary for (Software) Product Management and UX-related terms.<br>
 Built and maintained by <a href="http://brimwd.github.io/" target="_blank">Brian Donahue</a> and <a href="http://victoriajcai.github.io/" target="_blank">Victoria Cai</a>.
 
+![PM Reference v1.1](https://github.com/brimwd/product-management-reference/blob/master/screenshots/latest-preview.png?raw=true)
+
 **Latest Version:** v1.1<br>**Published:** Jan 20, 2020
 
 <br><br>
