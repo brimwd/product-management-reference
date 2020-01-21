@@ -9,8 +9,7 @@ body {
 	font-size: 1em;
 }
 
-d|entry {
-}
+d|entry {padding:30px 20px 20px;}
 
 h1, h2, h3, h4, h5, h6,
 form fieldset legend {
@@ -18,9 +17,14 @@ form fieldset legend {
 }
 
 h1	{
-	margin-top: 0;
-	font-size: 125%;
+	margin:2em 4rem 0;
+	font-size: 150%;
+	font-weight:600;
 }
+.alt-terms {color:#545454;font-size:1.1rem;font-weight:normal;}
+.alt-terms i {}
+.alt-terms i::after {content:', ';}
+.alt-terms i:last-child::after {content:unset;}
 
 h1>code	{
 	font-size: 200%;
@@ -28,17 +32,21 @@ h1>code	{
 
 h2  {
 	font-size: 125%;
-	margin: 30px 0 0 0;
+	margin: 30px 4rem 0;
 }
 
 h3	{
 	font-size: 100%;
-	margin: 25px 0 0 0;
+	margin: 25px 4rem 0;
 }
 
 p {
 	line-height: 1.5em;
+	margin:1em 4rem 0;
 }
+
+h4 {margin:1em 4rem 0;}
+h4 + ol {padding-left:0;margin:0 4rem;}
 
 ul {}
 
