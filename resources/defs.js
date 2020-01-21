@@ -27,9 +27,10 @@ window.customDictionary = [{
 	url:['https://www.cprime.com/resources/what-is-agile-what-is-scrum/']
 },
 {
-	key:'AI',
 	def:['Artificial Intelligence (AI) is the theory and development of computer systems able to perform tasks that normally require human intelligence, such as visual perception, speech recognition, decision-making, and translation between languages.'],
-	url:['https://www.forbes.com/sites/bernardmarr/2018/02/14/the-key-definitions-of-artificial-intelligence-ai-that-explain-its-importance/#5533a45e4f5d']
+	key:'Artificial Intelligence',
+	url:['https://www.forbes.com/sites/bernardmarr/2018/02/14/the-key-definitions-of-artificial-intelligence-ai-that-explain-its-importance/#5533a45e4f5d'],
+	acronyms:['AI']
 },
 {
 	key:'Allocating Resources',
@@ -37,7 +38,8 @@ window.customDictionary = [{
 	url:['http://www.businessdictionary.com/definition/allocation-of-resources.html']
 },
 {
-	key:'Alpha (Investment)',
+	key:'Alpha Investment',
+	alt:['A-Round Funding'],
 	def:['Often considered the active return on an investment, gauges the performance of an investment against a market index or benchmark which is considered to represent the market\'s movement as a whole.'],
 	url:['https://www.investopedia.com/terms/a/alpha.asp']
 },
@@ -52,19 +54,23 @@ window.customDictionary = [{
 	url:['https://www.techopedia.com/definition/5415/android']
 },
 {
-	key:'API',
 	def:['Application Programming Interface (API) is a set of routines, protocols, and tools for building software applications. Basically, an API specifies how software components should interact. APIs are used when programming graphical user interface (<a href="x-dictionary:r:GUI">GUI</a>) components.'],
-	url:['https://en.wikipedia.org/wiki/Application_programming_interface']
+	key:'Application Programming Interface',
+	alt:['APIs'],
+	url:['https://en.wikipedia.org/wiki/Application_programming_interface'],
+	acronyms:['API']
 },
 {
-	key:'AR',
 	def:['Augmented Reality (AR) A technology that superimposes a computer-generated image on a user\'s view of the real world, thus providing a composite view.'],
-	url:['https://en.wikipedia.org/wiki/Augmented_reality']
+	key:'Augmented Reality',
+	url:['https://en.wikipedia.org/wiki/Augmented_reality'],
+	acronyms:['AR']
 },
 {
-	key:'ASP (Application Service Provider)',
+	key:'Application Service Provider',
 	def:['A business providing computer-based services to customers over a network; such as access to a particular software application (such as customer relationship management) using a standard protocol (such as HTTP).'],
-	url:['https://en.wikipedia.org/wiki/Application_service_provider']
+	url:['https://en.wikipedia.org/wiki/Application_service_provider'],
+	acronyms:['ASP']
 },
 {
 	key:'Assumption',
@@ -83,29 +89,34 @@ window.customDictionary = [{
 	url:['https://www.techopedia.com/definition/32099/automation']
 },
 {
-	key:'B2B (Business to Business)',
+	key:'Business to Business',
 	def:['A type of transaction that exists between businesses, such as one involving a manufacturer and wholesaler, or a wholesaler and a retailer.'],
-	url:['https://en.wikipedia.org/wiki/Business-to-business']
+	url:['https://en.wikipedia.org/wiki/Business-to-business'],
+	acronyms:['B2B']
 },
 {
-	key:'B2C (Business to Consumer)',
+	key:'Business to Consumer',
 	def:['Business or transactions conducted directly between a company and consumers who are the end-users of its products or services.'],
-	url:['https://www.investopedia.com/terms/b/btoc.asp']
+	url:['https://www.investopedia.com/terms/b/btoc.asp'],
+	acronyms:['B2C']
 },
 {
-	key:'B2G (Business to Government)',
+	key:'Business to Government',
 	def:['A business model that refers to businesses selling products, services or information to governments or government agencies. B2G networks or models provide a way for businesses to bid on government projects or products that governments might purchase or need for their organizations.'],
-	url:['https://www.techopedia.com/definition/1425/business-to-government-b2g']
+	url:['https://www.techopedia.com/definition/1425/business-to-government-b2g'],
+	acronyms:['B2G']
 },
 {
-	key:'BA (Business Analytics)',
+	key:'Business Analytics',
 	def:['The skills, technologies, practices for continuous iterative exploration and investigation of past business performance to gain insight and drive business planning.[1] Business analytics focuses on developing new insights and understanding of business performance based on data and statistical methods.'],
-	url:['https://en.wikipedia.org/wiki/Business_analytics']
+	url:['https://en.wikipedia.org/wiki/Business_analytics'],
+	acronyms:['BA']
 },
 {
-	key:'BaaS (Backend as a Service)',
+	key:'Backend as a Service',
 	def:['BaaS (aka MBaaS) is a model for providing web app and mobile app developers with a way to link their applications to backend cloud storage and APIs exposed by back end applications while also providing features such as user management, push notifications, and integration with social networking services.'],
-	url:['https://www.techopedia.com/definition/29428/backend-as-a-service-baas']
+	url:['https://www.techopedia.com/definition/29428/backend-as-a-service-baas'],
+	acronyms:['BaaS']
 },
 {
 	key:'Back-end Development',
@@ -113,8 +124,8 @@ window.customDictionary = [{
 	url:['https://simpleprogrammer.com/what-is-back-end-development/']
 },
 {
-	key:'Backlog (Scrum)',
 	def:['An accumulation of something, especially uncompleted work or matters that need to be dealt with.'],
+	key:'Backlog',
 	url:['https://www.scrum-institute.org/The_Scrum_Product_Backlog.php']
 },
 {
@@ -123,7 +134,8 @@ window.customDictionary = [{
 	url:['http://www.businessdictionary.com/definition/benchmark.html']
 },
 {
-	key:'Beta (Investment)',
+	key:'Beta Investment',
+	alt:['B-Round Funding'],
 	def:['A measure used in fundamental analysis to determine the volatility of an asset or portfolio in relation to the overall market. Beta is often used as a risk-reward measure meaning it helps investors determine how much risk their willing to take to achieve the return for taking on that risk.'],
 	url:['https://www.investopedia.com/terms/b/beta.asp']
 },
@@ -133,9 +145,10 @@ window.customDictionary = [{
 	url:['http://www.businessdictionary.com/definition/beta-test.html']
 },
 {
-	key:'BI (Businesss Intelligence)',
+	key:'Businesss Intelligence',
 	def:['A method of compiling, analyzing and interpreting business data to make better-informed decisions. BI data is typically compiled through extensive research across a wide range of sources — including industry reports, customer feedback, actual usage data of the company\'s products and competitive research.'],
-	url:['https://en.wikipedia.org/wiki/Business_intelligence']
+	url:['https://en.wikipedia.org/wiki/Business_intelligence'],
+	acronyms:['BI']
 },
 {
 	key:'Bottleneck',
@@ -149,9 +162,10 @@ window.customDictionary = [{
 	url:['https://en.wikipedia.org/wiki/Bounce_rate']
 },
 {
-	key:'BRD (Business Requirements Document)',
+	key:'Business Requirements Document',
 	def:['A formal contract between the organization and the customer for a product. By describing in full detail all the processes that should be implemented, a BRD is used through the entire cycle of the project to ensure that the product meets the detailed specifications and that the project gains value and achieves the desired results. If it is prepared for a technical product, the BRD also includes technical specifications.'],
-	url:['http://www.requirementsnetwork.com/documents.htm']
+	url:['http://www.requirementsnetwork.com/documents.htm'],
+	acronyms:['BRD']
 },
 {
 	key:'Brainstorming',
@@ -171,6 +185,7 @@ window.customDictionary = [{
 },
 {
 	key:'Bug',
+	alt:['Defect'],
 	def:['An error, flaw, failure or fault in a computer program or system that causes it to produce an incorrect or unexpected result, or to behave in unintended ways.'],
 	url:['https://en.wikipedia.org/wiki/Software_bug']
 },
@@ -210,9 +225,10 @@ window.customDictionary = [{
 	url:['https://en.wikipedia.org/wiki/Business_plan']
 },
 {
-	key:'CAC (Customer Acquisition Cost)',
+	key:'Customer Acquisition Cost',
 	def:['The average amount that a company spends to acquire a single customer.'],
-	url:['https://en.wikipedia.org/wiki/Customer_acquisition_cost']
+	url:['https://en.wikipedia.org/wiki/Customer_acquisition_cost'],
+	acronyms:['CAC']
 },
 {
 	key:'Case Study',
@@ -220,9 +236,10 @@ window.customDictionary = [{
 	url:['https://en.wikipedia.org/wiki/Case_study']
 },
 {
-	key:'CCR (Customer Churn Rate)',
+	key:'Customer Churn Rate',
 	def:['A percentage of customers lost due to churn (cancellation or failure to renew).'],
-	url:['https://www.investopedia.com/terms/c/churnrate.asp']
+	url:['https://www.investopedia.com/terms/c/churnrate.asp'],
+	acronyms:['CCR']
 },
 {
 	key:'Channel Support',
@@ -240,20 +257,23 @@ window.customDictionary = [{
 	url:['https://en.wikipedia.org/wiki/Cloud_computing']
 },
 {
-	key:'CLV (Customer Lifetime Value)',
+	key:'Customer Lifetime Value',
 	def:['A prediction of the net profit attributed to the entire future relationship with a customer.',
 		'The total time of a relationship between a customer and the company.'],
-	url:['https://en.wikipedia.org/wiki/Customer_lifetime_value']
+	url:['https://en.wikipedia.org/wiki/Customer_lifetime_value'],
+	acronyms:['CLV']
 },
 {
-	key:'CM (Content Management)',
+	key:'Content Management',
 	def:['A set of processes and technologies that supports the collection, managing, and publishing of information in any form or medium. When stored and accessed via computers, this information may be more specifically referred to as digital content, or simply as content.'],
-	url:['https://en.wikipedia.org/wiki/Content_management']
+	url:['https://en.wikipedia.org/wiki/Content_management'],
+	acronyms:['CM']
 },
 {
-	key:'CMS (Content Management System)',
 	def:['A software application or set of related programs that are used to create and manage digital content. CMS are typically used for enterprise content management (ECM) and web content management (WCM).'],
-	url:['https://searchcontentmanagement.techtarget.com/definition/content-management-system-CMS']
+	key:'Content Management System',
+	url:['https://searchcontentmanagement.techtarget.com/definition/content-management-system-CMS'],
+	acronyms:['CMS']
 },
 {
 	key:'Collateral',
@@ -266,7 +286,8 @@ window.customDictionary = [{
 	url:['https://www.investopedia.com/terms/c/competitive_advantage.asp']
 },
 {
-	key:'Competitive Analysis (aka Competitive Research)',
+	key:'Competitive Analysis',
+	alt:['Competitive Research'],
 	def:['Identifying your competitors and evaluating their strategies to determine their strengths and weaknesses relative to those of your own product or service.',
 		'A field of strategic research that specializes in the collection and review of information about rival firms. It\'s an essential tactic for finding out what your competitors are doing and what kind of threat they present to your financial well-being.'],
 	url:['https://www.entrepreneur.com/encyclopedia/competitive-analysis']
@@ -287,24 +308,28 @@ window.customDictionary = [{
 	url:['https://en.wikipedia.org/wiki/Corner_case']
 },
 {
-	key:'CPC (Cost Per Click)',
+	key:'Cost Per Click',
 	def:['The actual price you pay for each click in your pay-per-click (PPC) marketing campaigns.'],
-	url:['https://www.investopedia.com/terms/c/cpc.asp']
+	url:['https://www.investopedia.com/terms/c/cpc.asp'],
+	acronyms:['CPC']
 },
 {
-	key:'CPI (Cost Per Impressions)',
+	key:'Cost Per Impressions',
 	def:['A term used in traditional advertising media selection, as well as online advertising and marketing related to web traffic.'],
-	url:['https://en.wikipedia.org/wiki/Cost_per_impression']
+	url:['https://en.wikipedia.org/wiki/Cost_per_impression'],
+	acronyms:['CPI']
 },
 {
-	key:'CPM (Cost Per Mille)',
+	key:'Cost Per Mille',
 	def:['The cost an advertiser pays for one thousand views or clicks of an advertisement.'],
-	url:['https://www.investopedia.com/terms/c/cpm.asp']
+	url:['https://www.investopedia.com/terms/c/cpm.asp'],
+	acronyms:['CPM']
 },
 {
-	key:'CRM (Customer Relationship Management)',
+	key:'Customer Relationship Management',
 	def:['An approach to manage a company\'s interaction with current and potential customers.'],
-	url:['https://en.wikipedia.org/wiki/Customer_relationship_management']
+	url:['https://en.wikipedia.org/wiki/Customer_relationship_management'],
+	acronyms:['CRM']
 },
 {
 	key:'Criterion',
@@ -312,14 +337,17 @@ window.customDictionary = [{
 	url:['https://www.gingersoftware.com/english-online/spelling-book/confusing-words/criterion-criteria']
 },
 {
-	key:'CSS (Cascading Style Sheets)',
+	key:'Cascading Style Sheets',
 	def:['A style sheet language used for describing the presentation of a document written in a markup language'],
-	url:['https://en.wikipedia.org/wiki/Cascading_Style_Sheets']
+	url:['https://en.wikipedia.org/wiki/Cascading_Style_Sheets'],
+	acronyms:['CSS']
 },
 {
-	key:'CTR (Click Through Rate)',
+	key:'Click-Through Rate',
+	alt:['click through rate'],
 	def:['The ratio of users who click on a specific link to the number of total users who view a page, email, or advertisement. It is commonly used to measure the success of an online advertising campaign for a particular website as well as the effectiveness of email campaigns.'],
-	url:['https://en.wikipedia.org/wiki/Click-through_rate']
+	url:['https://en.wikipedia.org/wiki/Click-through_rate'],
+	acronyms:['CTR']
 },
 {
 	key:'Customer Acquisition',
@@ -352,14 +380,15 @@ window.customDictionary = [{
 	url:['https://en.wikipedia.org/wiki/Customer_success']
 },
 {
-	key:'DAU (Daily Active User)',
+	key:'Daily Active Users',
 	def:['One of the ways used for measuring success of an internet product (ex. online social games).',
 		'DAU measures the "stickiness" of an online product by answering the question, "How many unique product users visit the product daily?"'],
-	url:['https://en.wikipedia.org/wiki/Daily_active_users']
+	url:['https://en.wikipedia.org/wiki/Daily_active_users'],
+	acronyms:['DAU']
 },
 {
-	key:'Daily Standup (Scrum meeting)',
 	def:['In Scrum, on each day of a sprint, the team holds a daily scrum meeting called the "daily scrum." Meetings are typically held in the same location and at the same time each day. Ideally, a daily scrum meeting is held in the morning, as it helps set the context for the coming day\'s work. These scrum meetings are strictly time-boxed to 15 minutes. This keeps the discussion brisk but relevant.'],
+	key:'Daily Standup',
 	url:['https://www.scrum.org/resources/what-is-a-daily-scrum']
 },
 {
@@ -429,8 +458,8 @@ window.customDictionary = [{
 	url:['http://www.businessdictionary.com/definition/distributor.html']
 },
 {
-	key:'Doneness Criteria (Scrum)',
 	def:['A clear and concise list of requirements that software must adhere to for the team to call it complete.'],
+	key:'Doneness Criteria',
 	url:['https://www.atlassian.com/blog/jira-software/8-steps-to-a-definition-of-done-in-jira']
 },
 {
@@ -450,6 +479,7 @@ window.customDictionary = [{
 },
 {
 	key:'E-commerce',
+	alt:['ecommerce'],
 	def:['Commercial transactions conducted electronically on the Internet.'],
 	url:['https://en.wikipedia.org/wiki/E-commerce']
 },
@@ -460,6 +490,7 @@ window.customDictionary = [{
 },
 {
 	key:'End to End',
+	alt:['end-to-end'],
 	def:['A term used to describe products or solutions that cover every stage in a particular process, often without any need for anything to be supplied by a third party. It also embraces a philosophy that eliminates as many middle layers or steps as possible to optimize performance and efficiency in any process.'],
 	url:['https://www.investopedia.com/terms/e/end-to-end.asp']
 },
@@ -475,9 +506,10 @@ window.customDictionary = [{
 	url:['https://www.yodiz.com/blog/what-is-epic-in-agile-methodology-definition-and-template-of-epic']
 },
 {
-	key:'ERP (Enterprise Resource Planning)',
+	key:'Enterprise Resource Planning',
 	def:['The integrated management of core business processes, often in real-time and mediated by software and technology.'],
-	url:['https://www.webopedia.com/TERM/E/ERP.html']
+	url:['https://www.webopedia.com/TERM/E/ERP.html'],
+	acronyms:['ERP']
 },
 {
 	key:'Executive Summary',
@@ -505,9 +537,11 @@ window.customDictionary = [{
 	url:['https://www.investopedia.com/terms/e/export.asp']
 },
 {
-	key:'FDD (Feature-Driven Development)',
+	key:'Feature-Driven Development',
+	alt:['feature driven development'],
 	def:['An iterative and incremental software development process. It is a lightweight or Agile method for developing software.'],
-	url:['https://en.wikipedia.org/wiki/Feature-driven_development']
+	url:['https://en.wikipedia.org/wiki/Feature-driven_development'],
+	acronyms:['FDD']
 },
 {
 	key:'Feature',
@@ -525,9 +559,10 @@ window.customDictionary = [{
 	url:['https://www.usability.gov/how-to-and-tools/methods/focus-groups.html']
 },
 {
-	key:'FRD (Functional Requirements Document)',
+	key:'Functional Requirements Document',
 	def:['A formal statement of an application\'s functional requirements. It serves the same purpose as a contract. Here, the developers agree to provide the capabilities specified.'],
-	url:['https://www.tutorialspoint.com/business_analysis/business_analysis_functional_requirements_document.htm']
+	url:['https://www.tutorialspoint.com/business_analysis/business_analysis_functional_requirements_document.htm'],
+	acronyms:['FRD']
 },
 {
 	key:'Framework',
@@ -550,7 +585,8 @@ window.customDictionary = [{
 	url:['https://skillcrush.com/2017/02/27/front-end-back-end-full-stack/']
 },
 {
-	key:'Fulfillment (Order fulfillment)',
+	key:'Fulfillment',
+	alt:['order fulfillment'],
 	def:['The process of receiving, packaging and shipping orders for goods.',
 		'The complete process from point of sales inquiry to delivery of a product to the customer.'],
 	url:['https://en.wikipedia.org/wiki/Order_fulfillment']
@@ -566,24 +602,29 @@ window.customDictionary = [{
 	url:['https://en.wikipedia.org/wiki/Growth_hacking']
 },
 {
-	key:'GTM (Go To Market) Strategy',
+	key:'Go To Market Strategy',
+	alt:'go to market',
 	def:['A product\'s GTM (or go-to-market) is a strategic plan encompassing the major tactics and resources that a company will use to release, promote and sell the product. A GTM plan can include details about pricing, sales and distribution channels, marketing and promotion.'],
-	url:['https://en.wikipedia.org/wiki/Go_to_market']
+	url:['https://en.wikipedia.org/wiki/Go_to_market'],
+	acronyms:['GTM']
 },
 {
-	key:'GUI',
 	def:['Graphical User Interface (GUI) is a type of user interface that allows users to interact with electronic devices through graphical icons and visual indicators such as secondary notation, instead of text-based user interfaces, typed command labels or text navigation.'],
-	url:['https://en.wikipedia.org/wiki/Graphical_user_interface']
+	key:'Graphical User Interface',
+	url:['https://en.wikipedia.org/wiki/Graphical_user_interface'],
+	acronyms:['GUI']
 },
 {
-	key:'HTTP (Hypertext Markup Language)',
 	def:['The standard markup language for creating web pages and web applications.'],
-	url:['https://en.wikipedia.org/wiki/HTML']
+	key:'Hypertext Markup Language',
+	url:['https://en.wikipedia.org/wiki/HTML'],
+	acronyms:['HTML']
 },
 {
-	key:'IaaS (Infrastructure as a Service)',
+	key:'Infrastructure as a Service',
 	def:['online services that provide high-level APIs used to dereference various low-level details of underlying network infrastructure like physical computing resources, location, data partitioning, scaling, security, backup etc.'],
-	url:['https://en.wikipedia.org/wiki/Infrastructure_as_a_service']
+	url:['https://en.wikipedia.org/wiki/Infrastructure_as_a_service'],
+	acronyms:['IaaS']
 },
 {
 	key:'Ideate',
@@ -611,7 +652,8 @@ window.customDictionary = [{
 	url:['https://www.merriam-webster.com/dictionary/influence']
 },
 {
-	key:'Innovate (Innovation)',
+	key:'Innovate',
+	alt:['Innovation'],
 	def:['Make changes in something established, especially by introducing new methods, ideas, or products'],
 	url:['http://www.businessdictionary.com/definition/innovation.html']
 },
@@ -621,35 +663,40 @@ window.customDictionary = [{
 	url:['https://econsultancy.com/what-is-an-innovation-lab-and-how-do-they-work/']
 },
 {
-	key:'IPA (Intelligent Personal Assistant)',
+	key:'Intelligent Personal Assistant',
 	def:['Software that has been designed to assist people with basic tasks, usually providing information using natural language.',
 		'Example products: Apple Siri, Amazon Echo'],
-	url:['https://www.webopedia.com/TERM/I/intelligent-personal-assistant.html']
+	url:['https://www.webopedia.com/TERM/I/intelligent-personal-assistant.html'],
+	acronyms:['IPA']
 },
 {
-	key:'iOS (Phone Operating System)',
+	key:'iOS',
 	def:['A mobile operating system created and developed by Apple Inc. exclusively for its iPhones and iPads.'],
 	url:['https://en.wikipedia.org/wiki/IOS']
 },
 {
-	key:'IoT (Internet of Things)',
+	key:'Internet of Things',
 	def:['The ever-growing network of physical objects that feature an IP address for internet connectivity, and the communication that occurs between these objects and other Internet-enabled devices and systems.'],
-	url:['https://en.wikipedia.org/wiki/Internet_of_things']
+	url:['https://en.wikipedia.org/wiki/Internet_of_things'],
+	acronyms:['IoT']
 },
 {
-	key:'IT (Information Technology)',
+	key:'Information Technology',
 	def:['The application of computers to store, study, retrieve, transmit and manipulate data, or information, often in the context of a business or other enterprise. IT is considered a subset of information and communications technology (ICT) or ICT Standards like IFGICT.'],
-	url:['https://en.wikipedia.org/wiki/Information_technology']
+	url:['https://en.wikipedia.org/wiki/Information_technology'],
+	acronyms:['IT']
 },
 {
-	key:'Iteration (Scrum)',
 	def:['An iteration is a single development cycle, usually measured as one week or two weeks. An iteration may also be defined as the elapsed time between iteration planning sessions.'],
+	key:'Iteration',
+		'See <a href="x-dictionary:r:scrum">Scrum</a>'],
 	url:['http://kratinmobile.com/blog/index.php/difference-between-agile-terminologies-sprint-iteration']
 },
 {
-	key:'JS (JavaScript)',
+	key:'JavaScript',
 	def:['A high-level, dynamic, weakly typed, prototype-based, multi-paradigm, and interpreted programming language.'],
-	url:['https://en.wikipedia.org/wiki/JavaScript']
+	url:['https://en.wikipedia.org/wiki/JavaScript'],
+	acronyms:['JS']
 },
 {
 	key:'Kanban',
@@ -657,13 +704,14 @@ window.customDictionary = [{
 	url:['https://en.wikipedia.org/wiki/Kanban']
 },
 {
-	key:'KPI (Key Performance Indicator)',
+	key:'Key Performance Indicator',
 	def:['A measurable value that demonstrates how effectively a company is achieving key business objectives.',
 		'KPIs are used to evaluate their success at reaching targets.'],
-	url:['https://en.wikipedia.org/wiki/Performance_indicator']
+	url:['https://en.wikipedia.org/wiki/Performance_indicator'],
+	acronyms:['KPI']
 },
 {
-	key:'Launch (Product launch)',
+	key:'Launch',
 	def:['The debut of a product into the market. The product launch signifies the point at which consumers first have access to a new product.'],
 	url:['https://www.mbaskool.com/business-concepts/marketing-and-strategy-terms/12208-product-launch.html']
 },
@@ -683,7 +731,7 @@ window.customDictionary = [{
 	url:['https://en.wikipedia.org/wiki/Machine_learning']
 },
 {
-	key:'Market Research (Marketing research)',
+	key:'Market Research',
 	def:['The process of gathering, analyzing and interpreting information about a market, about a product or service to be offered for sale in that market  (and about the past, present and potential customers for the product or service).',
 		'Research into the characteristics, spending habits, location and needs of your business\'s target market, the industry as a whole, and the particular competitors you face.'],
 	url:['https://en.wikipedia.org/wiki/Marketing_research']
@@ -694,14 +742,16 @@ window.customDictionary = [{
 	url:['http://www.quickmba.com/marketing/market-segmentation']
 },
 {
-	key:'Marketplace (E-Commerce)',
+	key:'Marketplace',
 	def:['A type of e-commerce site where product or service information is provided by multiple third parties, whereas transactions are processed by the marketplace operator.'],
 	url:['https://en.wikipedia.org/wiki/Online_marketplace']
 },
 {
-	key:'MAU (Monthly Active User)',
 	def:['One of the ways to measure the success rate of online social games, social networking services and, increasingly mobile apps.'],
-	url:['https://en.wikipedia.org/wiki/Monthly_active_users']
+	key:'Monthly Active User',
+		'See <a href="x-dictionary:r:daily_active_users">Daily Active Users</a>'],
+	url:['https://en.wikipedia.org/wiki/Monthly_active_users'],
+	acronyms:['MAU']
 },
 {
 	key:'Media Planning',
@@ -720,7 +770,8 @@ window.customDictionary = [{
 	url:['https://www.klipfolio.com/resources/articles/what-are-business-metrics']
 },
 {
-	key:'Mindmap (Mindmapping)',
+	key:'Mindmap',
+	alt:['Mindmapping'],
 	def:['A process of inspecting, cleansing, transforming, and modeling data with the goal of discovering useful information, suggesting conclusions, and supporting decision-making.'],
 	url:['https://en.wikipedia.org/wiki/Mind_map']
 },
@@ -740,9 +791,10 @@ window.customDictionary = [{
 	url:['https://en.wikipedia.org/wiki/Mockup']
 },
 {
-	key:'MRD (Market Requirements Document)',
+	key:'Market Requirements Document',
 	def:['An MRD is a strategic document written by a product manager to help define the market\'s requirements or demand for a specific product. An MRD typically contains information on the product\'s vision, the competitive landscape, a business analysis and revenue opportunity, as well as a list of features or at least high-level feature categories.'],
-	url:['https://en.wikipedia.org/wiki/Market_requirements_document']
+	url:['https://en.wikipedia.org/wiki/Market_requirements_document'],
+	acronyms:['MRD']
 },
 {
 	key:'Multivariate Testing',
@@ -750,19 +802,22 @@ window.customDictionary = [{
 	url:['https://www.optimizely.com/optimization-glossary/multivariate-testing/']
 },
 {
-	key:'MVE (Minimum Viable Experience)',
+	key:'Minimum Viable Experience',
 	def:['A mirrored extension of this concept defining service value — it is a service with just enough engagement to satisfy a human goal and address a need state that will provide feedback for future experience and business design.'],
-	url:['https://www.b2bnn.com/2016/04/death-of-the-minimum-viable-product/']
+	url:['https://www.b2bnn.com/2016/04/death-of-the-minimum-viable-product/'],
+	acronyms:['MVE']
 },
 {
-	key:'MVP (Minimum Viable Product)',
+	key:'Minimum Viable Product',
 	def:['An MVP, or minimum viable product, represents the earliest stage in the product\'s development cycle at which the company believes it has enough features to satisfy early-adopter customers. In industries such as software, or for companies with limited funding, the MVP can help the product teams receive user feedback as quickly as possible, which they can use to iterate and improve the product.'],
-	url:['https://www.agilealliance.org/glossary/mvp/']
+	url:['https://www.agilealliance.org/glossary/mvp/'],
+	acronyms:['MVP']
 },
 {
-	key:'NPS (Net Promoter Score)',
+	key:'Net Promoter Score',
 	def:['How likely user is to recommend the product to a friend. This is considered to be a good indication of how valuable they find the product.'],
-	url:['https://www.medallia.com/net-promoter-score/']
+	url:['https://www.medallia.com/net-promoter-score/'],
+	acronyms:['NPS']
 },
 {
 	key:'Negotiation',
@@ -775,21 +830,23 @@ window.customDictionary = [{
 	url:['https://www.investopedia.com/terms/n/network-marketing.asp']
 },
 {
-	key:'NLP (Natural Language Processing)',
+	key:'Natural Language Processing',
 	def:['An area of computer science and artificial intelligence concerned with the interactions between computers and human (natural) languages, in particular how to program computers to process and analyze large amounts of natural language data.'],
-	url:['https://en.wikipedia.org/wiki/Natural_language_processing']
+	url:['https://en.wikipedia.org/wiki/Natural_language_processing'],
+	acronyms:['NLP']
 },
 {
-	key:'Objective ',
+	key:'Objective',
 	def:['A specific result that a person or system aims to achieve within a time frame and with available resources.',
 		'Objectives are measurable and specific.'],
 	url:['http://www.businessdictionary.com/definition/objective.html']
 },
 {
-	key:'OKR (Objectives and Key Results)',
+	key:'Objectives and Key Results',
 	def:['A framework for defining and tracking objectives and their outcomes.',
 		'The main goal is to define company and team "objectives" along with the measurable "key results" that define achievement of each objective.'],
-	url:['https://en.wikipedia.org/wiki/OKR']
+	url:['https://en.wikipedia.org/wiki/OKR'],
+	acronyms:['OKR']
 },
 {
 	key:'Optimization',
@@ -807,9 +864,10 @@ window.customDictionary = [{
 	url:['https://www.investopedia.com/terms/o/overhead.asp']
 },
 {
-	key:'P and L (Profit and Loss)',
 	def:['(Also P&amp;L) The basic calculation of "money in/money out" in a project or a business.'],
-	url:['https://www.investopedia.com/terms/p/plstatement.asp']
+	key:'Profit and Loss',
+	url:['https://www.investopedia.com/terms/p/plstatement.asp'],
+	acronyms:['P\&L']
 },
 {
 	key:'Packaging',
@@ -840,7 +898,8 @@ window.customDictionary = [{
 	url:['https://en.wikipedia.org/wiki/Persona']
 },
 {
-	key:'Pitch (Elevator pitch)',
+	key:'Pitch',
+	alt:['elevator pitch'],
 	def:['Presenting or describing the ideas to prospective investors.',
 		'An elevator pitch is simply a very short pitch that distills the idea into a short summary that takes only as long as a short elevator ride.'],
 	url:['https://en.wikipedia.org/wiki/Elevator_pitch']
@@ -851,20 +910,24 @@ window.customDictionary = [{
 	url:['https://www.inc.com/alan-spoon/what-pivot-really-means.html']
 },
 {
-	key:'PaaS (Platform as a Service)',
+	key:'Platform as a Service',
 	def:['A category of cloud computing services that provides a platform allowing customers to develop, run, and manage applications without the complexity of building and maintaining the infrastructure typically associated with developing and launching an app.'],
-	url:['https://en.wikipedia.org/wiki/Platform_as_a_service']
+	url:['https://en.wikipedia.org/wiki/Platform_as_a_service'],
+	acronyms:['PaaS']
 },
 {
-	key:'PLC (Product Life Cycle)',
+	key:'Product Life Cycle',
 	def:['The cycle through which every product goes through from introduction to withdrawal or eventual demise.',
 		'A framework that helps a company organize its marketing and sales of a product, from introducing it to the market to when sales peak and decline.'],
-	url:['http://www.quickmba.com/marketing/product/lifecycle/']
+	url:['http://www.quickmba.com/marketing/product/lifecycle/'],
+	acronyms:['PLC']
 },
 {
-	key:'PLM (Product Lifecycle Management)',
+	key:'Product Lifecycle Management',
+	alt:['lifecycle management'],
 	def:['The process of managing the entire lifecycle of a product from inception, through engineering design and manufacture, to service and disposal of manufactured products.'],
-	url:['https://en.wikipedia.org/wiki/Product_lifecycle']
+	url:['https://en.wikipedia.org/wiki/Product_lifecycle'],
+	acronyms:['PLM']
 },
 {
 	key:'Podcast',
@@ -872,28 +935,33 @@ window.customDictionary = [{
 	url:['https://en.wikipedia.org/wiki/Podcast']
 },
 {
-	key:'POS (Point of Sale) System',
+	key:'Point of Sale',
+	alt:['Point of Sale System'],
 	def:['A computerized network operated by a main computer and linked to several checkout terminals.'],
-	url:['https://en.wikipedia.org/wiki/Point_of_sale']
+	url:['https://en.wikipedia.org/wiki/Point_of_sale'],
+	acronyms:['POS']
 },
 {
 	key:'Positioning',
 	def:['An effort to influence consumer perception of a brand or product relative to the perception of competing brands or products. Its objective is to occupy a clear, unique, and advantageous position in the consumer\'s mind.'],
 	url:['http://www.quickmba.com/marketing/ries-trout/positioning/']
 },
-{	key:'PPC (Pay Per Click)',
+{	key:'Pay Per Click',
 	def:['An internet advertising model used to direct traffic to websites, in which an advertiser pays a publisher (typically a website owner or a network of websites) when the ad is clicked.'],
-	url:['https://en.wikipedia.org/wiki/Pay-per-click']
+	url:['https://en.wikipedia.org/wiki/Pay-per-click'],
+	acronyms:['PPC']
 },
 {
-	key:'PPV (Pages Per Visit)',
+	key:'Pages Per Visit',
 	def:['A Web analytics measure of how many pieces of content (Web pages) a particular user or group of users views on a single website.'],
-	url:['https://www.techopedia.com/definition/27983/pages-per-visit-pagesvisit']
+	url:['https://www.techopedia.com/definition/27983/pages-per-visit-pagesvisit'],
+	acronyms:['PPV']
 },
 {
-	key:'PRD (Product Requirements Document)',
 	def:['A document containing all the requirements to a certain product. It is written to allow people to understand what a product should do.'],
-	url:['https://en.wikipedia.org/wiki/Product_requirements_document']
+	key:'Product Requirements Document',
+	url:['https://en.wikipedia.org/wiki/Product_requirements_document'],
+	acronyms:['PRD']
 },
 {
 	key:'Press Kit',
@@ -962,14 +1030,16 @@ window.customDictionary = [{
 	url:['https://en.wikipedia.org/wiki/Project_management']
 },
 {
-	key:'POC (Proof of Concept)',
+	key:'Proof of Concept',
 	def:['A proof of principle is a realization of a certain method or idea to demonstrate its feasibility, or a demonstration in principle, whose purpose is to verify that some concept or theory has the potential of being used.'],
-	url:['https://en.wikipedia.org/wiki/Proof_of_concept']
+	url:['https://en.wikipedia.org/wiki/Proof_of_concept'],
+	acronyms:['POC']
 },
 {
-	key:'PQL (Product Qualified Lead)',
+	key:'Product Qualified Lead',
 	def:['A prospect that signed up and demonstrated buying intent based on product interest, usage, and behavioral data.'],
-	url:['https://get.hull.io/complete-guide-pqls/chapter1/']
+	url:['https://get.hull.io/complete-guide-pqls/chapter1/'],
+	acronyms:['PQL']
 },
 {
 	key:'Prospecting',
@@ -984,19 +1054,22 @@ window.customDictionary = [{
 	url:['https://en.wikipedia.org/wiki/Prototype']
 },
 {
-	key:'PR (Public Relations)',
+	key:'Public Relations',
 	def:['Using the news or business press to carry positive stories about your company or your products; cultivating a good relationship with local press representatives.'],
-	url:['https://en.wikipedia.org/wiki/Public_relations']
+	url:['https://en.wikipedia.org/wiki/Public_relations'],
+	acronyms:['PR']
 },
 {
-	key:'QA (Quality Assurance)',
+	key:'Quality Assurance',
 	def:['A way of preventing mistakes and defects in manufactured products and avoiding problems when delivering solutions or services to customers.'],
-	url:['https://en.wikipedia.org/wiki/Quality_assurance']
+	url:['https://en.wikipedia.org/wiki/Quality_assurance'],
+	acronyms:['QA']
 },
 {
-	key:'QC (Quality Control)',
+	key:'Quality Control',
 	def:['A system of maintaining standards in manufactured products by testing a sample of the output against the specification.'],
-	url:['https://en.wikipedia.org/wiki/Quality_control']
+	url:['https://en.wikipedia.org/wiki/Quality_control'],
+	acronyms:['QC']
 },
 {
 	key:'Qualitative Data',
@@ -1009,14 +1082,16 @@ window.customDictionary = [{
 	url:['https://study.com/academy/lesson/what-is-quantitative-data.html']
 },
 {
-	key:'R and D (Research and Development)',
 	def:['(Often R&amp;D) The name of the business function that carries out research and the design and engineering part of the product development process.'],
-	url:['https://en.wikipedia.org/wiki/Research_and_development']
+	key:'Research and Development',
+	url:['https://en.wikipedia.org/wiki/Research_and_development'],
+	acronyms:['R\&D']
 },
 {
-	key:'RAD (Rapid Application Development)',
+	key:'Rapid Application Development',
 	def:['RAD approaches to software development put less emphasis on planning and more emphasis on an adaptive process. Prototypes are often used in addition to or sometimes even in place of design specifications. RAD is especially well suited for (although not limited to) developing software that is driven by user interface requirements.'],
-	url:['https://blog.capterra.com/what-is-rapid-application-development/']
+	url:['https://blog.capterra.com/what-is-rapid-application-development/'],
+	acronyms:['RAD']
 },
 {
 	key:'Rapid Prototyping',
@@ -1029,8 +1104,9 @@ window.customDictionary = [{
 	url:['https://en.wikipedia.org/wiki/Software_release_life_cycle']
 },
 {
-	key:'Release Planning (Scrum)',
 	def:['A very high-level plan for multiple Sprints (e.g. three to twelve iteration) is created during the Release planning. It is a guideline that reflects expectations about which features will be implemented and when they are completed.'],
+	key:'Release Planning',
+		'See <a href="x-dictionary:r:scrum">Scrum</a>'],
 	url:['https://www.scrum-institute.org/Release_Planning.php']
 },
 {
@@ -1047,7 +1123,8 @@ window.customDictionary = [{
 	url:['https://www.investopedia.com/terms/r/revenue.asp']
 },
 {
-	key:'Risk (Business risk)',
+	key:'Risk',
+	alt:['Business risk'],
 	def:['The possibility a company will have lower than anticipated profits or experience a loss rather than taking a profit. Business risk is influenced by numerous factors, including sales volume, per-unit price, input costs, competition, the overall economic climate and government regulations.'],
 	url:['https://www.investopedia.com/terms/b/businessrisk.asp']
 },
@@ -1063,20 +1140,23 @@ window.customDictionary = [{
 	url:['https://www.productplan.com/roadmap-basics/']
 },
 {
-	key:'ROI (Return on Investment)',
+	key:'Return on Investment',
 	def:['The amount of revenue a company gets after making an investment.',
 		'A profitability measure that evaluates the performance of a business by dividing net profit by net worth.'],
-	url:['https://www.investopedia.com/terms/r/returnoninvestment.asp']
+	url:['https://www.investopedia.com/terms/r/returnoninvestment.asp'],
+	acronyms:['ROI']
 },
 {
-	key:'RUP (Rational Unified Process)',
+	key:'Rational Unified Process',
 	def:['An iterative software development process framework.'],
-	url:['https://en.wikipedia.org/wiki/Rational_Unified_Process']
+	url:['https://en.wikipedia.org/wiki/Rational_Unified_Process'],
+	acronyms:['RUP']
 },
 {
-	key:'SaaS (Software as a Service)',
+	key:'Software as a Service',
 	def:['A software licensing and delivery model in which software is licensed on a subscription basis and is centrally hosted.'],
-	url:['https://en.wikipedia.org/wiki/Software_as_a_service']
+	url:['https://en.wikipedia.org/wiki/Software_as_a_service'],
+	acronyms:['SaaS']
 },
 {
 	key:'Sales Enablement',
@@ -1100,7 +1180,8 @@ window.customDictionary = [{
 	url:['https://en.wikipedia.org/wiki/Scope_(computer_science)']
 },
 {
-	key:'Scope Creep (Requirement Creep)',
+	key:'Scope Creep',
+	alt:['Requirement Creep', 'Feature Creep'],
 	def:['Refers to changes, continuous or uncontrolled growth in a project\'s scope, at any point after the project begins. This can occur when the scope of a project is not properly defined, documented, or controlled. It is generally considered harmful.'],
 	url:['https://en.wikipedia.org/wiki/Scope_creep']
 },
@@ -1111,14 +1192,16 @@ window.customDictionary = [{
 	url:['https://en.wikipedia.org/wiki/Scrum_(software_development)']
 },
 {
-	key:'SDLC (Software Development Life Cycle)',
+	key:'Software Development Life Cycle',
 	def:['A term used in systems engineering, information systems and software engineering to describe a process for planning, creating, testing, and deploying an information system.'],
-	url:['https://www.techopedia.com/definition/22193/software-development-life-cycle-sdlc']
+	url:['https://www.techopedia.com/definition/22193/software-development-life-cycle-sdlc'],
+	acronyms:['SDLC']
 },
 {
-	key:'SEO (Search Engine Optimization)',
+	key:'Search Engine Optimization',
 	def:['The process of affecting the online visibility of a website or a web page in a web search engine\'s unpaid results, often referred to as "natural", "organic", or "earned" results.'],
-	url:['https://en.wikipedia.org/wiki/Search_engine_optimization']
+	url:['https://en.wikipedia.org/wiki/Search_engine_optimization'],
+	acronyms:['SEO']
 },
 {
 	key:'Ship',
@@ -1132,18 +1215,22 @@ window.customDictionary = [{
 	url:['http://www.businessdictionary.com/definition/shipping.html']
 },
 {
-	key:'SMB',
 	def:['Small and Medium-sized Business', 'See <a href="x-dictionary:r:SME">SME - Small and Medium-Sized Enterprises</a>.'],
-	url:[]
+	key:'Small and Medium-sized Enterprises',
+	alt:['Small and Medium-sized Business'],
+	url:['https://en.wikipedia.org/wiki/Small_and_medium-sized_enterprises'],
+	acronyms:['SMB','SME']
 },
-{	key:'SME',
 	def:['1. Subject-Matter Expert: A person who has specialized or abundant \'domain knowledge\'.',
 		'2. Small and Medium-sized Enterprises: An abbreviation for small and medium-sized business (aka small and mid-sized business). A business with 100 or fewer employees is generally considered small, while one with 100-999 employees is considered to be medium-sized.'],
-	url:['https://en.wikipedia.org/wiki/Subject-matter_expert',
-		'https://en.wikipedia.org/wiki/Small_and_medium-sized_enterprises']
+{
+	key:'Subject-Matter Expert',
+	url:['https://en.wikipedia.org/wiki/Subject-matter_expert'],
+	acronyms:['SME']
 },
 {
-	key:'Soft Launch (Soft opening)',
+	key:'Soft Launch',
+	alt:['Soft Open'],
 	def:['A preview release of a product or service to a limited audience prior to the general public. Soft-launching a product is sometimes used to gather data or feedback regarding its acceptance in the marketplace, prior to making it widely available during an official release or grand opening.'],
 	url:['https://en.wikipedia.org/wiki/Soft_launch']
 },
@@ -1158,7 +1245,8 @@ window.customDictionary = [{
 	url:['https://en.wikipedia.org/wiki/Software_requirements_specification']
 },
 {
-	key:'Specifications (Technical)',
+	key:'Specifications',
+	alt:['Technical Specifications'],
 	def:['The primary means by which a client\'s expectations are communicated to designers and builders. Information contained in a technical specification is the measure by which success or failure is assessed.',
 		'A specification is a set of documented requirements to be satisfied by a material, design, product, or service. A specification is often a type of technical standard.',
 		'Functional Specification = A kind of requirement specification, and may show functional block diagrams.',
@@ -1174,9 +1262,10 @@ window.customDictionary = [{
 	url:['http://kratinmobile.com/blog/index.php/difference-between-agile-terminologies-sprint-iteration']
 },
 {
-	key:'SSL (Secure Sockets Layer)',
+	key:'Secure Sockets Layer',
 	def:['A standard security protocol for establishing encrypted links between a web server and a browser in an online communication.'],
-	url:['https://www.digicert.com/ssl/']
+	url:['https://www.digicert.com/ssl/'],
+	acronyms:['SSL']
 },
 {
 	key:'Stakeholder',
@@ -1199,8 +1288,8 @@ window.customDictionary = [{
 	url:['https://en.wikipedia.org/wiki/Supply_chain']
 },
 {
-	key:'Survey (research methodology)',
 	def:['A list of questions aimed at extracting specific data from a particular group of people. Surveys may be conducted by phone, mail, via the internet, and sometimes face-to-face on busy street corners or in malls. Surveys are used to increase knowledge in fields such as social research and demography.'],
+	key:'Survey',
 	url:['https://en.wikipedia.org/wiki/Survey_methodology']
 },
 {
@@ -1256,9 +1345,10 @@ window.customDictionary = [{
 	url:['https://en.wikipedia.org/wiki/User_interface']
 },
 {
-	key:'UML (Unified Modeling Language)',
+	key:'Unified Modeling Language',
 	def:['A general-purpose, developmental, modeling language in the field of software engineering, that is intended to provide a standard way to visualize the design of a system.'],
-	url:['https://en.wikipedia.org/wiki/Unified_Modeling_Language']
+	url:['https://en.wikipedia.org/wiki/Unified_Modeling_Language'],
+	acronyms:['UML']
 },
 {
 	key:'Unicorn (Finance)',
@@ -1286,7 +1376,8 @@ window.customDictionary = [{
 	url:['https://www.optimizely.com/optimization-glossary/user-flow/']
 },
 {
-	key:'User Journey (aka Customer Discovery, Customer Journey)',
+	key:'User Journey',
+	alt:['Customer Discovery','Customer Journey'],
 	def:['A person\'s experience during one session of using a website or application, consisting of the series of actions performed to achieve a particular goal.'],
 	url:['https://theuxreview.co.uk/user-journeys-beginners-guide/']
 },
@@ -1302,15 +1393,17 @@ window.customDictionary = [{
 	url:['https://en.wikipedia.org/wiki/User_story']
 },
 {
-	key:'USP (Unique Selling Proposition)',
+	key:'Unique Selling Proposition',
 	def:['The main reason why a user chooses one product over another.',
 		'The factor or consideration presented by a seller as the reason that one product or service is different from and better than that of the competition.'],
-	url:['https://en.wikipedia.org/wiki/Unique_selling_proposition']
+	url:['https://en.wikipedia.org/wiki/Unique_selling_proposition'],
+	acronyms:['USP']
 },
 {
-	key:'UX (User Experience)',
+	key:'User Experience',
 	def:['A person\'s emotions and attitudes about using a particular product, system or service. UX is how a user feels when interfacing with a product. UX designers study and evaluate how users feels by looking at such things as ease of use, perception of the value of the system, utility, and efficiency in performing tasks.'],
-	url:['https://en.wikipedia.org/wiki/User_experience']
+	url:['https://en.wikipedia.org/wiki/User_experience'],
+	acronyms:['UX']
 },
 {
 	key:'Valuation',
@@ -1323,25 +1416,30 @@ window.customDictionary = [{
 	url:['https://en.wikipedia.org/wiki/Value_proposition']
 },
 {
-	key:'Vendor (seller)',
+	key:'Vendor',
+	alt:['Seller'],
 	def:['An enterprise that contributes goods or services. Generally, a supply chain vendor manufactures inventory/stock items and sells them to the next link in the chain.',
 		'It could also refer to a supplier of any good or service.'],
 	url:['https://en.wikipedia.org/wiki/Vendor']
 },
 {
-	key:'V and V (Verification and Validation)',
 	def:['(Also V&amp;V) A procedure that is used for checking that a product, service, or system meets requirements and specifications and that it fulfills its intended purpose.'],
-	url:['https://en.wikipedia.org/wiki/Software_verification_and_validation']
+	key:'Verification and Validation',
+	url:['https://en.wikipedia.org/wiki/Software_verification_and_validation'],
+	acronyms:['V\&V']
 },
 {
-	key:'VA (Virtual Assistant)',
+	key:'Virtual Assistant',
 	def:['A software agent that can perform tasks or services for an individual. Sometimes the term "chatbot" is used to refer to virtual assistants generally or specifically those accessed by online chat (or in some cases online chat programs that are for entertainment and not useful purposes).'],
-	url:['https://en.wikipedia.org/wiki/Virtual_assistant']
+	url:['https://en.wikipedia.org/wiki/Virtual_assistant'],
+	acronyms:['VA']
 },
 {
-	key:'VOC (Voice of the Customer)',
+	key:'Voice of the Customer',
+	alt:['Customer Voice'],
 	def:['How companies and new product teams find out what moves, inspires, and frustrates their customers.'],
-	url:['https://en.wikipedia.org/wiki/Voice_of_the_customer']
+	url:['https://en.wikipedia.org/wiki/Voice_of_the_customer'],
+	acronyms:['VoC']
 },
 {
 	key:'Waterfall',
