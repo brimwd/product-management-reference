@@ -1230,7 +1230,7 @@ window.customDictionary = [{
 },
 {
 	key:'Subject-Matter Expert',
-	def:['Commonly abbreviated to \'SME\'','A person who has specialized or abundant \'domain knowledge\'.'],
+	def:['A person who has specialized or abundant \'domain knowledge\'.'],
 	url:['https://en.wikipedia.org/wiki/Subject-matter_expert'],
 	acronyms:['SME']
 },
