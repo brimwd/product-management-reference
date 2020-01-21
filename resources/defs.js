@@ -864,8 +864,8 @@ window.customDictionary = [{
 	url:['https://www.investopedia.com/terms/o/overhead.asp']
 },
 {
-	def:['(Also P&amp;L) The basic calculation of "money in/money out" in a project or a business.'],
 	key:'Profit and Loss',
+	def:['The basic calculation of "money in/money out" in a project or a business.'],
 	url:['https://www.investopedia.com/terms/p/plstatement.asp'],
 	acronyms:['P\&L']
 },
@@ -1082,8 +1082,8 @@ window.customDictionary = [{
 	url:['https://study.com/academy/lesson/what-is-quantitative-data.html']
 },
 {
-	def:['(Often R&amp;D) The name of the business function that carries out research and the design and engineering part of the product development process.'],
 	key:'Research and Development',
+	def:['(Often R\&D) The name of the business function that carries out research and the design and engineering part of the product development process.'],
 	url:['https://en.wikipedia.org/wiki/Research_and_development'],
 	acronyms:['R\&D']
 },
@@ -1423,8 +1423,8 @@ window.customDictionary = [{
 	url:['https://en.wikipedia.org/wiki/Vendor']
 },
 {
-	def:['(Also V&amp;V) A procedure that is used for checking that a product, service, or system meets requirements and specifications and that it fulfills its intended purpose.'],
 	key:'Verification and Validation',
+	def:['A procedure that is used for checking that a product, service, or system meets requirements and specifications and that it fulfills its intended purpose.'],
 	url:['https://en.wikipedia.org/wiki/Software_verification_and_validation'],
 	acronyms:['V\&V']
 },
