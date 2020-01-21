@@ -4,7 +4,9 @@ var app = new Vue({
     // dictionary: [{
     //   key:'Term',
     //   def:['Definition paragraphs'],
-    //   url:['Links']
+    //   url:['Links'],
+    //   alt:['Synonymous terms'],
+    //   acronyms:['Acronyms']
     // }]
     dictionary: window.customDictionary
   },
