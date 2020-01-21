@@ -607,7 +607,7 @@ window.customDictionary = [{
 },
 {
 	key:'Go To Market Strategy',
-	alt:'go to market',
+	alt:['go to market'],
 	def:['A product\'s GTM (or go-to-market) is a strategic plan encompassing the major tactics and resources that a company will use to release, promote and sell the product. A GTM plan can include details about pricing, sales and distribution channels, marketing and promotion.'],
 	url:['https://en.wikipedia.org/wiki/Go_to_market'],
 	acronyms:['GTM']
@@ -871,7 +871,7 @@ window.customDictionary = [{
 	key:'Profit and Loss',
 	def:['The basic calculation of "money in/money out" in a project or a business.'],
 	url:['https://www.investopedia.com/terms/p/plstatement.asp'],
-	acronyms:['P\&L']
+	acronyms:['P\&amp;L']
 },
 {
 	key:'Packaging',
@@ -1088,9 +1088,9 @@ window.customDictionary = [{
 },
 {
 	key:'Research and Development',
-	def:['(Often R\&D) The name of the business function that carries out research and the design and engineering part of the product development process.'],
+	def:['(Often R\&amp;D) The name of the business function that carries out research and the design and engineering part of the product development process.'],
 	url:['https://en.wikipedia.org/wiki/Research_and_development'],
-	acronyms:['R\&D']
+	acronyms:['R\&amp;D']
 },
 {
 	key:'Rapid Application Development',
@@ -1435,7 +1435,7 @@ window.customDictionary = [{
 	key:'Verification and Validation',
 	def:['A procedure that is used for checking that a product, service, or system meets requirements and specifications and that it fulfills its intended purpose.'],
 	url:['https://en.wikipedia.org/wiki/Software_verification_and_validation'],
-	acronyms:['V\&V']
+	acronyms:['V\&amp;V']
 },
 {
 	key:'Virtual Assistant',
