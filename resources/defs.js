@@ -606,9 +606,9 @@ window.customDictionary = [{
 	url:['https://en.wikipedia.org/wiki/Growth_hacking']
 },
 {
-	key:'Go To Market Strategy',
+	key:'Go-To-Market Strategy',
 	alt:['go to market'],
-	def:['A product\'s GTM (or go-to-market) is a strategic plan encompassing the major tactics and resources that a company will use to release, promote and sell the product. A GTM plan can include details about pricing, sales and distribution channels, marketing and promotion.'],
+	def:['A product\'s \"go-to-market\" is a strategic plan encompassing the major tactics and resources that a company will use to release, promote and sell the product. A GTM plan can include details about pricing, sales and distribution channels, marketing and promotion.'],
 	url:['https://en.wikipedia.org/wiki/Go_to_market'],
 	acronyms:['GTM']
 },
