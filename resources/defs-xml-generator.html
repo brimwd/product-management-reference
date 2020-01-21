@@ -38,7 +38,8 @@ ACRONYMS
 OFFICIAL TERM
  --><span class="term">    &lt;d:index d:value="{{ definition.key }}"/&gt;</span><!--
 TITLE
- -->    <b>&lt;h1&gt;{{ definition.key }}&lt;/h1&gt;</b><div v-for="paragraph in definition.def">    &lt;p&gt;{{ paragraph }}&lt;/p&gt;</div>
+ -->    <b>&lt;h1&gt;{{ definition.key }}&lt;/h1&gt;</b>
+    <b v-if="definition.alt != undefined || definition.acronyms != undefined">&lt;h5&gt;Alternate terms:<span v-if="definition.alt != undefined && definition.alt[0]"><span v-for="term in definition.alt"> &lt;span class="alt-term"&gt;{{ term }}&lt;/span&gt;</span></span><span v-if="definition.acronyms != undefined && definition.acronyms[0]"><span v-for="term in definition.acronyms"> &lt;span class="alt-term"&gt;{{ term }}&lt;/span&gt;</span></span>&lt;/h5&gt;</b><p class="term" v-for="term in definition.alt"><div v-for="paragraph in definition.def">    &lt;p&gt;{{ paragraph }}&lt;/p&gt;</div>
 <div v-if="definition.url != undefined && definition.url[0]">    <b>&lt;h4&gt;References&lt;/h4&gt;</b>
     &lt;ol&gt;<div v-for="link in definition.url">        &lt;li&gt;&lt;a href="{{ link }}"&gt;{{ link }}&lt;/a&gt;&lt;/li&gt;</div>    &lt;/ol&gt;</div>  <span class="end-def">&lt;/d:entry&gt;</span>
 
