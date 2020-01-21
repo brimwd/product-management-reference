@@ -29,6 +29,7 @@
 &lt;?xml version="1.0" encoding="UTF-8"?&gt;
 &lt;d:dictionary xmlns="http://www.w3.org/1999/xhtml" xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng"&gt;
 <!-- BEGIN DEFINITION TEMPLATE --><div v-for="definition in dictionary">  <span class="start-def">&lt;d:entry id="{{ underscore(definition.key) }}" d:title="{{ definition.key }}"&gt;</span>
+<div v-if="definition.alt[0]"><p class="alternate-term" v-for="term in definition.alt">    &lt;d:index d:value="{{ term }}" d:title="{ /* term (definition.key) */}"/&gt;</p></div>
     &lt;d:index d:value="{{ definition.key }}"/&gt;
     <b>&lt;h1&gt;{{ definition.key }}&lt;/h1&gt;</b><div v-for="paragraph in definition.def">    &lt;p&gt;{{ paragraph }}&lt;/p&gt;</div>
 <div v-if="definition.url[0]">    <b>&lt;h4&gt;References&lt;/h4&gt;</b>
