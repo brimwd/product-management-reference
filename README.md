@@ -22,15 +22,15 @@ Built and maintained by <a href="http://brimwd.github.io/" target="_blank">Brian
 3. `Right-click` terms and select **Look Up** in the context menu<br>!['Look Up' command](https://github.com/brimwd/product-management-reference/blob/master/tutorial-images/look-up.png?raw=true)<br>!['Look Up' window](https://github.com/brimwd/product-management-reference/blob/master/tutorial-images/look-up-window.png?raw=true)
 
 #### CHANGE LOG
-Jan 20, 2020 - **`v1.1 published`**
-	+ Adds support for alternate terms
-	+ Adds support for acronyms
-	+ Lists alternate terms & acronyms under entry heading
-	+ Improves typography & layout in dictionary entries
-	+ Minor improvements to some definitions
-	+ Cross-links additional terms (especially <a href="x-dictionary:r:scrum">Scrum</a>)
-Jan 18, 2020 - **`v1.0 published`**<br>
-Jan 17, 2020 - Original definitions sourced from Madalyn Chea's '[Software Product Management Dictionary](https://docs.google.com/spreadsheets/d/1O4N2pu6Mu-UBhUR3pdbv6dcjNecu7oMdIX1jZkBSUxE/edit#gid=0)'
+##### Jan 20, 2020 - `v1.1 published`
++ Adds support for alternate terms
++ Adds support for acronyms
++ Lists alternate terms & acronyms under entry heading
++ Improves typography & layout in dictionary entries
++ Minor improvements to some definitions
++ Cross-links additional terms (especially <a href="x-dictionary:r:scrum">Scrum</a>)<br>
+##### Jan 18, 2020 - `v1.0 published`
+##### Jan 17, 2020 - Original definitions sourced from Madalyn Chea's '[Software Product Management Dictionary](https://docs.google.com/spreadsheets/d/1O4N2pu6Mu-UBhUR3pdbv6dcjNecu7oMdIX1jZkBSUxE/edit#gid=0)'
 
 
 #### ACKNOWLEDGEMENTS
