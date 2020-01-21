@@ -16,9 +16,11 @@
   .start-def::before {border:solid transparent;border-width:5px 12px;border-left-color:red;}
   .end-def::before {border:6px solid red;border-radius:8px;}
 
+
   .start-def {color:orange;}
   .end-def {color:orange;}
   .divider {color:gray;}
+  .term {color:#00b7ff;display:block;margin:0;}
 
   b {color:darkorange;font-size:1.3em;}
   </style>
@@ -28,11 +30,16 @@
 <pre id="dictionary">
 &lt;?xml version="1.0" encoding="UTF-8"?&gt;
 &lt;d:dictionary xmlns="http://www.w3.org/1999/xhtml" xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng"&gt;
-<!-- BEGIN DEFINITION TEMPLATE --><div v-for="definition in dictionary">  <span class="start-def">&lt;d:entry id="{{ underscore(definition.key) }}" d:title="{{ definition.key }}"&gt;</span>
-<div v-if="definition.alt[0]"><p class="alternate-term" v-for="term in definition.alt">    &lt;d:index d:value="{{ term }}" d:title="{ /* term (definition.key) */}"/&gt;</p></div>
-    &lt;d:index d:value="{{ definition.key }}"/&gt;
-    <b>&lt;h1&gt;{{ definition.key }}&lt;/h1&gt;</b><div v-for="paragraph in definition.def">    &lt;p&gt;{{ paragraph }}&lt;/p&gt;</div>
-<div v-if="definition.url[0]">    <b>&lt;h4&gt;References&lt;/h4&gt;</b>
+<!-- BEGIN DEFINITION TEMPLATE --><div v-for="definition in dictionary">  <span class="start-def">&lt;d:entry id="{{ underscore(definition.key) }}" d:title="{{ definition.key }}"&gt;</span><!--
+ALTERNATE TERMS
+ --><div v-if="definition.alt != undefined && definition.alt[0]"><p class="term" v-for="term in definition.alt">    &lt;d:index d:value="{{ term }}" d:title="{{ term }} ({{ definition.key }})"/&gt;</p></div><!--
+ACRONYMS
+ --><div v-if="definition.acronyms != undefined && definition.acronyms[0]"><p class="term" v-for="term in definition.acronyms">    &lt;d:index d:value="{{ term }}" d:title="{{ term }} ({{ definition.key }})"/&gt;</p></div><!--
+OFFICIAL TERM
+ --><span class="term">    &lt;d:index d:value="{{ definition.key }}"/&gt;</span><!--
+TITLE
+ -->    <b>&lt;h1&gt;{{ definition.key }}&lt;/h1&gt;</b><div v-for="paragraph in definition.def">    &lt;p&gt;{{ paragraph }}&lt;/p&gt;</div>
+<div v-if="definition.url != undefined && definition.url[0]">    <b>&lt;h4&gt;References&lt;/h4&gt;</b>
     &lt;ol&gt;<div v-for="link in definition.url">        &lt;li&gt;&lt;a href="{{ link }}"&gt;{{ link }}&lt;/a&gt;&lt;/li&gt;</div>    &lt;/ol&gt;</div>  <span class="end-def">&lt;/d:entry&gt;</span>
 
 <span class="divider">&lt;!-- ::::::::::::::::::::::::::::::::::::::::::::: --&gt;</span>
