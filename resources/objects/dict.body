@@ -25,7 +25,8 @@
   </d:entry>
 <d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="actor" d:title="Actor">
     <h1>Actor</h1>
-    <p>From Unified Modeling Language: A role played by a user or any other system that interacts with the subject.</p>
+    <p>A role played by a user or any other system that interacts with the subject.</p>
+    <p>See <a href="x-dictionary:r:unified_modeling_language">Unified Modeling Language</a>.</p>
     <h4>References</h4>
     <ol>
         <li><a href="https://en.wikipedia.org/wiki/Actor_(UML)">https://en.wikipedia.org/wiki/Actor_(UML)</a></li>
@@ -41,9 +42,11 @@
         <li><a href="https://www.cprime.com/resources/what-is-agile-what-is-scrum/">https://www.cprime.com/resources/what-is-agile-what-is-scrum/</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="ai" d:title="AI">
-    <h1>AI</h1>
-    <p>Artificial Intelligence (AI) is the theory and development of computer systems able to perform tasks that normally require human intelligence, such as visual perception, speech recognition, decision-making, and translation between languages.</p>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="artificial_intelligence" d:title="Artificial Intelligence">
+
+    <h1>Artificial Intelligence</h1>
+    <h4 class="alt-terms">Alternate terms: <i>AI</i></h4>
+    <p>Artificial Intelligence is the theory and development of computer systems able to perform tasks that normally require human intelligence, such as visual perception, speech recognition, decision-making, and translation between languages.</p>
     <h4>References</h4>
     <ol>
         <li><a href="https://www.forbes.com/sites/bernardmarr/2018/02/14/the-key-definitions-of-artificial-intelligence-ai-that-explain-its-importance/#5533a45e4f5d">https://www.forbes.com/sites/bernardmarr/2018/02/14/the-key-definitions-of-artificial-intelligence-ai-that-explain-its-importance/#5533a45e4f5d</a></li>
@@ -57,8 +60,10 @@
         <li><a href="http://www.businessdictionary.com/definition/allocation-of-resources.html">http://www.businessdictionary.com/definition/allocation-of-resources.html</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="alpha_(investment)" d:title="Alpha (Investment)">
-    <h1>Alpha (Investment)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="alpha_investment" d:title="Alpha Investment">
+
+    <h1>Alpha Investment</h1>
+    <h4 class="alt-terms">Alternate terms: <i>A-Round Funding</i></h4>
     <p>Often considered the active return on an investment, gauges the performance of an investment against a market index or benchmark which is considered to represent the market's movement as a whole.</p>
     <h4>References</h4>
     <ol>
@@ -81,24 +86,31 @@
         <li><a href="https://www.techopedia.com/definition/5415/android">https://www.techopedia.com/definition/5415/android</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="api" d:title="API">
-    <h1>API</h1>
-    <p>Application Programming Interface (API) is a set of routines, protocols, and tools for building software applications. Basically, an API specifies how software components should interact. APIs are used when programming graphical user interface (<a href="x-dictionary:r:GUI">GUI</a>) components.</p>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="application_programming_interface" d:title="Application Programming Interface">
+
+
+    <h1>Application Programming Interface</h1>
+    <h4 class="alt-terms">Alternate terms: <i>APIs</i><i>API</i></h4>
+    <p>Application Programming Interfaces (APIs) are a set of routines, protocols, and tools for building software applications. Basically, an API specifies how software components should interact. APIs are used when programming graphical user interface (<a href="x-dictionary:r:GUI">GUI</a>) components.</p>
     <h4>References</h4>
     <ol>
         <li><a href="https://en.wikipedia.org/wiki/Application_programming_interface">https://en.wikipedia.org/wiki/Application_programming_interface</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="ar" d:title="AR">
-    <h1>AR</h1>
-    <p>Augmented Reality (AR) A technology that superimposes a computer-generated image on a user's view of the real world, thus providing a composite view.</p>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="augmented_reality" d:title="Augmented Reality">
+
+    <h1>Augmented Reality</h1>
+    <h4 class="alt-terms">Alternate terms: <i>AR</i></h4>
+    <p>Augmented Reality (AR) is a technology that superimposes a computer-generated image on a user's view of the real world, thus providing a composite view.</p>
     <h4>References</h4>
     <ol>
         <li><a href="https://en.wikipedia.org/wiki/Augmented_reality">https://en.wikipedia.org/wiki/Augmented_reality</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="asp_(application_service_provider)" d:title="ASP (Application Service Provider)">
-    <h1>ASP (Application Service Provider)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="application_service_provider" d:title="Application Service Provider">
+
+    <h1>Application Service Provider</h1>
+    <h4 class="alt-terms">Alternate terms: <i>ASP</i></h4>
     <p>A business providing computer-based services to customers over a network; such as access to a particular software application (such as customer relationship management) using a standard protocol (such as HTTP).</p>
     <h4>References</h4>
     <ol>
@@ -130,40 +142,50 @@
         <li><a href="https://www.techopedia.com/definition/32099/automation">https://www.techopedia.com/definition/32099/automation</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="b2b_(business_to_business)" d:title="B2B (Business to Business)">
-    <h1>B2B (Business to Business)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="business_to_business" d:title="Business to Business">
+
+    <h1>Business to Business</h1>
+    <h4 class="alt-terms">Alternate terms: <i>B2B</i></h4>
     <p>A type of transaction that exists between businesses, such as one involving a manufacturer and wholesaler, or a wholesaler and a retailer.</p>
     <h4>References</h4>
     <ol>
         <li><a href="https://en.wikipedia.org/wiki/Business-to-business">https://en.wikipedia.org/wiki/Business-to-business</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="b2c_(business_to_consumer)" d:title="B2C (Business to Consumer)">
-    <h1>B2C (Business to Consumer)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="business_to_consumer" d:title="Business to Consumer">
+
+    <h1>Business to Consumer</h1>
+    <h4 class="alt-terms">Alternate terms: <i>B2C</i></h4>
     <p>Business or transactions conducted directly between a company and consumers who are the end-users of its products or services.</p>
     <h4>References</h4>
     <ol>
         <li><a href="https://www.investopedia.com/terms/b/btoc.asp">https://www.investopedia.com/terms/b/btoc.asp</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="b2g_(business_to_government)" d:title="B2G (Business to Government)">
-    <h1>B2G (Business to Government)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="business_to_government" d:title="Business to Government">
+
+    <h1>Business to Government</h1>
+    <h4 class="alt-terms">Alternate terms: <i>B2G</i></h4>
     <p>A business model that refers to businesses selling products, services or information to governments or government agencies. B2G networks or models provide a way for businesses to bid on government projects or products that governments might purchase or need for their organizations.</p>
     <h4>References</h4>
     <ol>
         <li><a href="https://www.techopedia.com/definition/1425/business-to-government-b2g">https://www.techopedia.com/definition/1425/business-to-government-b2g</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="ba_(business_analytics)" d:title="BA (Business Analytics)">
-    <h1>BA (Business Analytics)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="business_analytics" d:title="Business Analytics">
+
+    <h1>Business Analytics</h1>
+    <h4 class="alt-terms">Alternate terms: <i>BA</i></h4>
     <p>The skills, technologies, practices for continuous iterative exploration and investigation of past business performance to gain insight and drive business planning.[1] Business analytics focuses on developing new insights and understanding of business performance based on data and statistical methods.</p>
     <h4>References</h4>
     <ol>
         <li><a href="https://en.wikipedia.org/wiki/Business_analytics">https://en.wikipedia.org/wiki/Business_analytics</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="baas_(backend_as_a_service)" d:title="BaaS (Backend as a Service)">
-    <h1>BaaS (Backend as a Service)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="backend_as_a_service" d:title="Backend as a Service">
+
+    <h1>Backend as a Service</h1>
+    <h4 class="alt-terms">Alternate terms: <i>BaaS</i></h4>
     <p>BaaS (aka MBaaS) is a model for providing web app and mobile app developers with a way to link their applications to backend cloud storage and APIs exposed by back end applications while also providing features such as user management, push notifications, and integration with social networking services.</p>
     <h4>References</h4>
     <ol>
@@ -178,9 +200,10 @@
         <li><a href="https://simpleprogrammer.com/what-is-back-end-development/">https://simpleprogrammer.com/what-is-back-end-development/</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="backlog_(scrum)" d:title="Backlog (Scrum)">
-    <h1>Backlog (Scrum)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="backlog" d:title="Backlog">
+    <h1>Backlog</h1>
     <p>An accumulation of something, especially uncompleted work or matters that need to be dealt with.</p>
+    <p>See <a href="x-dictionary:r:scrum">Scrum</a>.</p>
     <h4>References</h4>
     <ol>
         <li><a href="https://www.scrum-institute.org/The_Scrum_Product_Backlog.php">https://www.scrum-institute.org/The_Scrum_Product_Backlog.php</a></li>
@@ -194,8 +217,10 @@
         <li><a href="http://www.businessdictionary.com/definition/benchmark.html">http://www.businessdictionary.com/definition/benchmark.html</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="beta_(investment)" d:title="Beta (Investment)">
-    <h1>Beta (Investment)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="beta_investment" d:title="Beta Investment">
+
+    <h1>Beta Investment</h1>
+    <h4 class="alt-terms">Alternate terms: <i>B-Round Funding</i></h4>
     <p>A measure used in fundamental analysis to determine the volatility of an asset or portfolio in relation to the overall market. Beta is often used as a risk-reward measure meaning it helps investors determine how much risk their willing to take to achieve the return for taking on that risk.</p>
     <h4>References</h4>
     <ol>
@@ -210,8 +235,10 @@
         <li><a href="http://www.businessdictionary.com/definition/beta-test.html">http://www.businessdictionary.com/definition/beta-test.html</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="bi_(businesss_intelligence)" d:title="BI (Businesss Intelligence)">
-    <h1>BI (Businesss Intelligence)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="businesss_intelligence" d:title="Businesss Intelligence">
+
+    <h1>Businesss Intelligence</h1>
+    <h4 class="alt-terms">Alternate terms: <i>BI</i></h4>
     <p>A method of compiling, analyzing and interpreting business data to make better-informed decisions. BI data is typically compiled through extensive research across a wide range of sources â€” including industry reports, customer feedback, actual usage data of the company's products and competitive research.</p>
     <h4>References</h4>
     <ol>
@@ -235,8 +262,10 @@
         <li><a href="https://en.wikipedia.org/wiki/Bounce_rate">https://en.wikipedia.org/wiki/Bounce_rate</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="brd_(business_requirements_document)" d:title="BRD (Business Requirements Document)">
-    <h1>BRD (Business Requirements Document)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="business_requirements_document" d:title="Business Requirements Document">
+
+    <h1>Business Requirements Document</h1>
+    <h4 class="alt-terms">Alternate terms: <i>BRD</i></h4>
     <p>A formal contract between the organization and the customer for a product. By describing in full detail all the processes that should be implemented, a BRD is used through the entire cycle of the project to ensure that the product meets the detailed specifications and that the project gains value and achieves the desired results. If it is prepared for a technical product, the BRD also includes technical specifications.</p>
     <h4>References</h4>
     <ol>
@@ -269,7 +298,9 @@
     </ol>
   </d:entry>
 <d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="bug" d:title="Bug">
+
     <h1>Bug</h1>
+    <h4 class="alt-terms">Alternate terms: <i>Defect</i></h4>
     <p>An error, flaw, failure or fault in a computer program or system that causes it to produce an incorrect or unexpected result, or to behave in unintended ways.</p>
     <h4>References</h4>
     <ol>
@@ -332,8 +363,10 @@
         <li><a href="https://en.wikipedia.org/wiki/Business_plan">https://en.wikipedia.org/wiki/Business_plan</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="cac_(customer_acquisition_cost)" d:title="CAC (Customer Acquisition Cost)">
-    <h1>CAC (Customer Acquisition Cost)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="customer_acquisition_cost" d:title="Customer Acquisition Cost">
+
+    <h1>Customer Acquisition Cost</h1>
+    <h4 class="alt-terms">Alternate terms: <i>CAC</i></h4>
     <p>The average amount that a company spends to acquire a single customer.</p>
     <h4>References</h4>
     <ol>
@@ -348,8 +381,10 @@
         <li><a href="https://en.wikipedia.org/wiki/Case_study">https://en.wikipedia.org/wiki/Case_study</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="ccr_(customer_churn_rate)" d:title="CCR (Customer Churn Rate)">
-    <h1>CCR (Customer Churn Rate)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="customer_churn_rate" d:title="Customer Churn Rate">
+
+    <h1>Customer Churn Rate</h1>
+    <h4 class="alt-terms">Alternate terms: <i>CCR</i></h4>
     <p>A percentage of customers lost due to churn (cancellation or failure to renew).</p>
     <h4>References</h4>
     <ol>
@@ -380,8 +415,10 @@
         <li><a href="https://en.wikipedia.org/wiki/Cloud_computing">https://en.wikipedia.org/wiki/Cloud_computing</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="clv_(customer_lifetime_value)" d:title="CLV (Customer Lifetime Value)">
-    <h1>CLV (Customer Lifetime Value)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="customer_lifetime_value" d:title="Customer Lifetime Value">
+
+    <h1>Customer Lifetime Value</h1>
+    <h4 class="alt-terms">Alternate terms: <i>CLV</i></h4>
     <p>A prediction of the net profit attributed to the entire future relationship with a customer.</p>
     <p>The total time of a relationship between a customer and the company.</p>
     <h4>References</h4>
@@ -389,17 +426,21 @@
         <li><a href="https://en.wikipedia.org/wiki/Customer_lifetime_value">https://en.wikipedia.org/wiki/Customer_lifetime_value</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="cm_(content_management)" d:title="CM (Content Management)">
-    <h1>CM (Content Management)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="content_management" d:title="Content Management">
+
+    <h1>Content Management</h1>
+    <h4 class="alt-terms">Alternate terms: <i>CM</i></h4>
     <p>A set of processes and technologies that supports the collection, managing, and publishing of information in any form or medium. When stored and accessed via computers, this information may be more specifically referred to as digital content, or simply as content.</p>
     <h4>References</h4>
     <ol>
         <li><a href="https://en.wikipedia.org/wiki/Content_management">https://en.wikipedia.org/wiki/Content_management</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="cms_(content_management_system)" d:title="CMS (Content Management System)">
-    <h1>CMS (Content Management System)</h1>
-    <p>A software application or set of related programs that are used to create and manage digital content. CMS are typically used for enterprise content management (ECM) and web content management (WCM).</p>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="content_management_system" d:title="Content Management System">
+
+    <h1>Content Management System</h1>
+    <h4 class="alt-terms">Alternate terms: <i>CMS</i></h4>
+    <p>A CMS is a software application or set of related programs that are used to create and manage digital content. CMS are typically used for enterprise content management (ECM) and web content management (WCM).</p>
     <h4>References</h4>
     <ol>
         <li><a href="https://searchcontentmanagement.techtarget.com/definition/content-management-system-CMS">https://searchcontentmanagement.techtarget.com/definition/content-management-system-CMS</a></li>
@@ -421,8 +462,10 @@
         <li><a href="https://www.investopedia.com/terms/c/competitive_advantage.asp">https://www.investopedia.com/terms/c/competitive_advantage.asp</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="competitive_analysis_(aka_competitive_research)" d:title="Competitive Analysis (aka Competitive Research)">
-    <h1>Competitive Analysis (aka Competitive Research)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="competitive_analysis" d:title="Competitive Analysis">
+
+    <h1>Competitive Analysis</h1>
+    <h4 class="alt-terms">Alternate terms: <i>Competitive Research</i></h4>
     <p>Identifying your competitors and evaluating their strategies to determine their strengths and weaknesses relative to those of your own product or service.</p>
     <p>A field of strategic research that specializes in the collection and review of information about rival firms. It's an essential tactic for finding out what your competitors are doing and what kind of threat they present to your financial well-being.</p>
     <h4>References</h4>
@@ -454,32 +497,40 @@
         <li><a href="https://en.wikipedia.org/wiki/Corner_case">https://en.wikipedia.org/wiki/Corner_case</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="cpc_(cost_per_click)" d:title="CPC (Cost Per Click)">
-    <h1>CPC (Cost Per Click)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="cost_per_click" d:title="Cost Per Click">
+
+    <h1>Cost Per Click</h1>
+    <h4 class="alt-terms">Alternate terms: <i>CPC</i></h4>
     <p>The actual price you pay for each click in your pay-per-click (PPC) marketing campaigns.</p>
     <h4>References</h4>
     <ol>
         <li><a href="https://www.investopedia.com/terms/c/cpc.asp">https://www.investopedia.com/terms/c/cpc.asp</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="cpi_(cost_per_impressions)" d:title="CPI (Cost Per Impressions)">
-    <h1>CPI (Cost Per Impressions)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="cost_per_impressions" d:title="Cost Per Impressions">
+
+    <h1>Cost Per Impressions</h1>
+    <h4 class="alt-terms">Alternate terms: <i>CPI</i></h4>
     <p>A term used in traditional advertising media selection, as well as online advertising and marketing related to web traffic.</p>
     <h4>References</h4>
     <ol>
         <li><a href="https://en.wikipedia.org/wiki/Cost_per_impression">https://en.wikipedia.org/wiki/Cost_per_impression</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="cpm_(cost_per_mille)" d:title="CPM (Cost Per Mille)">
-    <h1>CPM (Cost Per Mille)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="cost_per_mille" d:title="Cost Per Mille">
+
+    <h1>Cost Per Mille</h1>
+    <h4 class="alt-terms">Alternate terms: <i>CPM</i></h4>
     <p>The cost an advertiser pays for one thousand views or clicks of an advertisement.</p>
     <h4>References</h4>
     <ol>
         <li><a href="https://www.investopedia.com/terms/c/cpm.asp">https://www.investopedia.com/terms/c/cpm.asp</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="crm_(customer_relationship_management)" d:title="CRM (Customer Relationship Management)">
-    <h1>CRM (Customer Relationship Management)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="customer_relationship_management" d:title="Customer Relationship Management">
+
+    <h1>Customer Relationship Management</h1>
+    <h4 class="alt-terms">Alternate terms: <i>CRM</i></h4>
     <p>An approach to manage a company's interaction with current and potential customers.</p>
     <h4>References</h4>
     <ol>
@@ -494,16 +545,21 @@
         <li><a href="https://www.gingersoftware.com/english-online/spelling-book/confusing-words/criterion-criteria">https://www.gingersoftware.com/english-online/spelling-book/confusing-words/criterion-criteria</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="css_(cascading_style_sheets)" d:title="CSS (Cascading Style Sheets)">
-    <h1>CSS (Cascading Style Sheets)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="cascading_style_sheets" d:title="Cascading Style Sheets">
+
+    <h1>Cascading Style Sheets</h1>
+    <h4 class="alt-terms">Alternate terms: <i>CSS</i></h4>
     <p>A style sheet language used for describing the presentation of a document written in a markup language</p>
     <h4>References</h4>
     <ol>
         <li><a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets">https://en.wikipedia.org/wiki/Cascading_Style_Sheets</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="ctr_(click_through_rate)" d:title="CTR (Click Through Rate)">
-    <h1>CTR (Click Through Rate)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="click-through_rate" d:title="Click-Through Rate">
+
+
+    <h1>Click-Through Rate</h1>
+    <h4 class="alt-terms">Alternate terms: <i>click through rate</i><i>CTR</i></h4>
     <p>The ratio of users who click on a specific link to the number of total users who view a page, email, or advertisement. It is commonly used to measure the success of an online advertising campaign for a particular website as well as the effectiveness of email campaigns.</p>
     <h4>References</h4>
     <ol>
@@ -558,8 +614,10 @@
         <li><a href="https://en.wikipedia.org/wiki/Customer_success">https://en.wikipedia.org/wiki/Customer_success</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="dau_(daily_active_user)" d:title="DAU (Daily Active User)">
-    <h1>DAU (Daily Active User)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="daily_active_users" d:title="Daily Active Users">
+
+    <h1>Daily Active Users</h1>
+    <h4 class="alt-terms">Alternate terms: <i>DAU</i></h4>
     <p>One of the ways used for measuring success of an internet product (ex. online social games).</p>
     <p>DAU measures the "stickiness" of an online product by answering the question, "How many unique product users visit the product daily?"</p>
     <h4>References</h4>
@@ -567,9 +625,10 @@
         <li><a href="https://en.wikipedia.org/wiki/Daily_active_users">https://en.wikipedia.org/wiki/Daily_active_users</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="daily_standup_(scrum_meeting)" d:title="Daily Standup (Scrum meeting)">
-    <h1>Daily Standup (Scrum meeting)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="daily_standup" d:title="Daily Standup">
+    <h1>Daily Standup</h1>
     <p>In Scrum, on each day of a sprint, the team holds a daily scrum meeting called the "daily scrum." Meetings are typically held in the same location and at the same time each day. Ideally, a daily scrum meeting is held in the morning, as it helps set the context for the coming day's work. These scrum meetings are strictly time-boxed to 15 minutes. This keeps the discussion brisk but relevant.</p>
+    <p>See <a href="x-dictionary:r:scrum">Scrum</a></p>
     <h4>References</h4>
     <ol>
         <li><a href="https://www.scrum.org/resources/what-is-a-daily-scrum">https://www.scrum.org/resources/what-is-a-daily-scrum</a></li>
@@ -680,9 +739,10 @@
         <li><a href="http://www.businessdictionary.com/definition/distributor.html">http://www.businessdictionary.com/definition/distributor.html</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="doneness_criteria_(scrum)" d:title="Doneness Criteria (Scrum)">
-    <h1>Doneness Criteria (Scrum)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="doneness_criteria" d:title="Doneness Criteria">
+    <h1>Doneness Criteria</h1>
     <p>A clear and concise list of requirements that software must adhere to for the team to call it complete.</p>
+    <p>See <a href="x-dictionary:r:scrum">Scrum</a></p>
     <h4>References</h4>
     <ol>
         <li><a href="https://www.atlassian.com/blog/jira-software/8-steps-to-a-definition-of-done-in-jira">https://www.atlassian.com/blog/jira-software/8-steps-to-a-definition-of-done-in-jira</a></li>
@@ -713,7 +773,9 @@
     </ol>
   </d:entry>
 <d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="e-commerce" d:title="E-commerce">
+
     <h1>E-commerce</h1>
+    <h4 class="alt-terms">Alternate terms: <i>ecommerce</i></h4>
     <p>Commercial transactions conducted electronically on the Internet.</p>
     <h4>References</h4>
     <ol>
@@ -729,7 +791,9 @@
     </ol>
   </d:entry>
 <d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="end_to_end" d:title="End to End">
+
     <h1>End to End</h1>
+    <h4 class="alt-terms">Alternate terms: <i>end-to-end</i></h4>
     <p>A term used to describe products or solutions that cover every stage in a particular process, often without any need for anything to be supplied by a third party. It also embraces a philosophy that eliminates as many middle layers or steps as possible to optimize performance and efficiency in any process.</p>
     <h4>References</h4>
     <ol>
@@ -753,8 +817,10 @@
         <li><a href="https://www.yodiz.com/blog/what-is-epic-in-agile-methodology-definition-and-template-of-epic">https://www.yodiz.com/blog/what-is-epic-in-agile-methodology-definition-and-template-of-epic</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="erp_(enterprise_resource_planning)" d:title="ERP (Enterprise Resource Planning)">
-    <h1>ERP (Enterprise Resource Planning)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="enterprise_resource_planning" d:title="Enterprise Resource Planning">
+
+    <h1>Enterprise Resource Planning</h1>
+    <h4 class="alt-terms">Alternate terms: <i>ERP</i></h4>
     <p>The integrated management of core business processes, often in real-time and mediated by software and technology.</p>
     <h4>References</h4>
     <ol>
@@ -801,8 +867,11 @@
         <li><a href="https://www.investopedia.com/terms/e/export.asp">https://www.investopedia.com/terms/e/export.asp</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="fdd_(feature-driven_development)" d:title="FDD (Feature-Driven Development)">
-    <h1>FDD (Feature-Driven Development)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="feature-driven_development" d:title="Feature-Driven Development">
+
+
+    <h1>Feature-Driven Development</h1>
+    <h4 class="alt-terms">Alternate terms: <i>feature driven development</i><i>FDD</i></h4>
     <p>An iterative and incremental software development process. It is a lightweight or Agile method for developing software.</p>
     <h4>References</h4>
     <ol>
@@ -833,8 +902,10 @@
         <li><a href="https://www.usability.gov/how-to-and-tools/methods/focus-groups.html">https://www.usability.gov/how-to-and-tools/methods/focus-groups.html</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="frd_(functional_requirements_document)" d:title="FRD (Functional Requirements Document)">
-    <h1>FRD (Functional Requirements Document)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="functional_requirements_document" d:title="Functional Requirements Document">
+
+    <h1>Functional Requirements Document</h1>
+    <h4 class="alt-terms">Alternate terms: <i>FRD</i></h4>
     <p>A formal statement of an application's functional requirements. It serves the same purpose as a contract. Here, the developers agree to provide the capabilities specified.</p>
     <h4>References</h4>
     <ol>
@@ -873,8 +944,10 @@
         <li><a href="https://skillcrush.com/2017/02/27/front-end-back-end-full-stack/">https://skillcrush.com/2017/02/27/front-end-back-end-full-stack/</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="fulfillment_(order_fulfillment)" d:title="Fulfillment (Order fulfillment)">
-    <h1>Fulfillment (Order fulfillment)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="fulfillment" d:title="Fulfillment">
+
+    <h1>Fulfillment</h1>
+    <h4 class="alt-terms">Alternate terms: <i>order fulfillment</i></h4>
     <p>The process of receiving, packaging and shipping orders for goods.</p>
     <p>The complete process from point of sales inquiry to delivery of a product to the customer.</p>
     <h4>References</h4>
@@ -898,32 +971,41 @@
         <li><a href="https://en.wikipedia.org/wiki/Growth_hacking">https://en.wikipedia.org/wiki/Growth_hacking</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="gtm_(go_to_market)_strategy" d:title="GTM (Go To Market) Strategy">
-    <h1>GTM (Go To Market) Strategy</h1>
-    <p>A product's GTM (or go-to-market) is a strategic plan encompassing the major tactics and resources that a company will use to release, promote and sell the product. A GTM plan can include details about pricing, sales and distribution channels, marketing and promotion.</p>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="go-to-market_strategy" d:title="Go-To-Market Strategy">
+
+
+    <h1>Go-To-Market Strategy</h1>
+    <h4 class="alt-terms">Alternate terms: <i>go to market</i><i>GTM</i></h4>
+    <p>A product's "go-to-market" is a strategic plan encompassing the major tactics and resources that a company will use to release, promote and sell the product. A GTM plan can include details about pricing, sales and distribution channels, marketing and promotion.</p>
     <h4>References</h4>
     <ol>
         <li><a href="https://en.wikipedia.org/wiki/Go_to_market">https://en.wikipedia.org/wiki/Go_to_market</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="gui" d:title="GUI">
-    <h1>GUI</h1>
-    <p>Graphical User Interface (GUI) is a type of user interface that allows users to interact with electronic devices through graphical icons and visual indicators such as secondary notation, instead of text-based user interfaces, typed command labels or text navigation.</p>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="graphical_user_interface" d:title="Graphical User Interface">
+
+    <h1>Graphical User Interface</h1>
+    <h4 class="alt-terms">Alternate terms: <i>GUI</i></h4>
+    <p>GUIs are a type of user interface that allows users to interact with electronic devices through graphical icons and visual indicators such as secondary notation, instead of text-based user interfaces, typed command labels or text navigation.</p>
     <h4>References</h4>
     <ol>
         <li><a href="https://en.wikipedia.org/wiki/Graphical_user_interface">https://en.wikipedia.org/wiki/Graphical_user_interface</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="http_(hypertext_markup_language)" d:title="HTTP (Hypertext Markup Language)">
-    <h1>HTTP (Hypertext Markup Language)</h1>
-    <p>The standard markup language for creating web pages and web applications.</p>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="hypertext_markup_language" d:title="Hypertext Markup Language">
+
+    <h1>Hypertext Markup Language</h1>
+    <h4 class="alt-terms">Alternate terms: <i>HTML</i></h4>
+    <p>HTML is the standard markup language for creating web pages and web applications.</p>
     <h4>References</h4>
     <ol>
         <li><a href="https://en.wikipedia.org/wiki/HTML">https://en.wikipedia.org/wiki/HTML</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="iaas_(infrastructure_as_a_service)" d:title="IaaS (Infrastructure as a Service)">
-    <h1>IaaS (Infrastructure as a Service)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="infrastructure_as_a_service" d:title="Infrastructure as a Service">
+
+    <h1>Infrastructure as a Service</h1>
+    <h4 class="alt-terms">Alternate terms: <i>IaaS</i></h4>
     <p>online services that provide high-level APIs used to dereference various low-level details of underlying network infrastructure like physical computing resources, location, data partitioning, scaling, security, backup etc.</p>
     <h4>References</h4>
     <ol>
@@ -932,7 +1014,7 @@
   </d:entry>
 <d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="ideate" d:title="Ideate">
     <h1>Ideate</h1>
-    <p>To form an idea or concept.</p>
+    <p>To form ideas or concepts.</p>
     <h4>References</h4>
     <ol>
         <li><a href="https://www.merriam-webster.com/dictionary/ideate">https://www.merriam-webster.com/dictionary/ideate</a></li>
@@ -970,8 +1052,10 @@
         <li><a href="https://www.merriam-webster.com/dictionary/influence">https://www.merriam-webster.com/dictionary/influence</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="innovate_(innovation)" d:title="Innovate (Innovation)">
-    <h1>Innovate (Innovation)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="innovate" d:title="Innovate">
+
+    <h1>Innovate</h1>
+    <h4 class="alt-terms">Alternate terms: <i>Innovation</i></h4>
     <p>Make changes in something established, especially by introducing new methods, ideas, or products</p>
     <h4>References</h4>
     <ol>
@@ -986,8 +1070,10 @@
         <li><a href="https://econsultancy.com/what-is-an-innovation-lab-and-how-do-they-work/">https://econsultancy.com/what-is-an-innovation-lab-and-how-do-they-work/</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="ipa_(intelligent_personal_assistant)" d:title="IPA (Intelligent Personal Assistant)">
-    <h1>IPA (Intelligent Personal Assistant)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="intelligent_personal_assistant" d:title="Intelligent Personal Assistant">
+
+    <h1>Intelligent Personal Assistant</h1>
+    <h4 class="alt-terms">Alternate terms: <i>IPA</i></h4>
     <p>Software that has been designed to assist people with basic tasks, usually providing information using natural language.</p>
     <p>Example products: Apple Siri, Amazon Echo</p>
     <h4>References</h4>
@@ -995,40 +1081,47 @@
         <li><a href="https://www.webopedia.com/TERM/I/intelligent-personal-assistant.html">https://www.webopedia.com/TERM/I/intelligent-personal-assistant.html</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="ios_(phone_operating_system)" d:title="iOS (Phone Operating System)">
-    <h1>iOS (Phone Operating System)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="ios" d:title="iOS">
+    <h1>iOS</h1>
     <p>A mobile operating system created and developed by Apple Inc. exclusively for its iPhones and iPads.</p>
     <h4>References</h4>
     <ol>
         <li><a href="https://en.wikipedia.org/wiki/IOS">https://en.wikipedia.org/wiki/IOS</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="iot_(internet_of_things)" d:title="IoT (Internet of Things)">
-    <h1>IoT (Internet of Things)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="internet_of_things" d:title="Internet of Things">
+
+    <h1>Internet of Things</h1>
+    <h4 class="alt-terms">Alternate terms: <i>IoT</i></h4>
     <p>The ever-growing network of physical objects that feature an IP address for internet connectivity, and the communication that occurs between these objects and other Internet-enabled devices and systems.</p>
     <h4>References</h4>
     <ol>
         <li><a href="https://en.wikipedia.org/wiki/Internet_of_things">https://en.wikipedia.org/wiki/Internet_of_things</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="it_(information_technology)" d:title="IT (Information Technology)">
-    <h1>IT (Information Technology)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="information_technology" d:title="Information Technology">
+
+    <h1>Information Technology</h1>
+    <h4 class="alt-terms">Alternate terms: <i>IT</i></h4>
     <p>The application of computers to store, study, retrieve, transmit and manipulate data, or information, often in the context of a business or other enterprise. IT is considered a subset of information and communications technology (ICT) or ICT Standards like IFGICT.</p>
     <h4>References</h4>
     <ol>
         <li><a href="https://en.wikipedia.org/wiki/Information_technology">https://en.wikipedia.org/wiki/Information_technology</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="iteration_(scrum)" d:title="Iteration (Scrum)">
-    <h1>Iteration (Scrum)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="iteration" d:title="Iteration">
+    <h1>Iteration</h1>
     <p>An iteration is a single development cycle, usually measured as one week or two weeks. An iteration may also be defined as the elapsed time between iteration planning sessions.</p>
+    <p>See <a href="x-dictionary:r:scrum">Scrum</a></p>
     <h4>References</h4>
     <ol>
         <li><a href="http://kratinmobile.com/blog/index.php/difference-between-agile-terminologies-sprint-iteration">http://kratinmobile.com/blog/index.php/difference-between-agile-terminologies-sprint-iteration</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="js_(javascript)" d:title="JS (JavaScript)">
-    <h1>JS (JavaScript)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="javascript" d:title="JavaScript">
+
+    <h1>JavaScript</h1>
+    <h4 class="alt-terms">Alternate terms: <i>JS</i></h4>
     <p>A high-level, dynamic, weakly typed, prototype-based, multi-paradigm, and interpreted programming language.</p>
     <h4>References</h4>
     <ol>
@@ -1043,8 +1136,10 @@
         <li><a href="https://en.wikipedia.org/wiki/Kanban">https://en.wikipedia.org/wiki/Kanban</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="kpi_(key_performance_indicator)" d:title="KPI (Key Performance Indicator)">
-    <h1>KPI (Key Performance Indicator)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="key_performance_indicator" d:title="Key Performance Indicator">
+
+    <h1>Key Performance Indicator</h1>
+    <h4 class="alt-terms">Alternate terms: <i>KPI</i></h4>
     <p>A measurable value that demonstrates how effectively a company is achieving key business objectives.</p>
     <p>KPIs are used to evaluate their success at reaching targets.</p>
     <h4>References</h4>
@@ -1052,8 +1147,8 @@
         <li><a href="https://en.wikipedia.org/wiki/Performance_indicator">https://en.wikipedia.org/wiki/Performance_indicator</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="launch_(product_launch)" d:title="Launch (Product launch)">
-    <h1>Launch (Product launch)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="launch" d:title="Launch">
+    <h1>Launch</h1>
     <p>The debut of a product into the market. The product launch signifies the point at which consumers first have access to a new product.</p>
     <h4>References</h4>
     <ol>
@@ -1078,14 +1173,14 @@
   </d:entry>
 <d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="machine_learning" d:title="Machine Learning">
     <h1>Machine Learning</h1>
-    <p>An application of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. Machine learning focuses on the development of computer programs that can access data and use it learn for themselves.</p>
+    <p>An application of <a href="x-dictionary:r:artificial_intelligence">artificial intelligence (AI)</a> that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. Machine learning focuses on the development of computer programs that can access data and use it learn for themselves.</p>
     <h4>References</h4>
     <ol>
         <li><a href="https://en.wikipedia.org/wiki/Machine_learning">https://en.wikipedia.org/wiki/Machine_learning</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="market_research_(marketing_research)" d:title="Market Research (Marketing research)">
-    <h1>Market Research (Marketing research)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="market_research" d:title="Market Research">
+    <h1>Market Research</h1>
     <p>The process of gathering, analyzing and interpreting information about a market, about a product or service to be offered for sale in that market  (and about the past, present and potential customers for the product or service).</p>
     <p>Research into the characteristics, spending habits, location and needs of your business's target market, the industry as a whole, and the particular competitors you face.</p>
     <h4>References</h4>
@@ -1101,17 +1196,20 @@
         <li><a href="http://www.quickmba.com/marketing/market-segmentation">http://www.quickmba.com/marketing/market-segmentation</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="marketplace_(e-commerce)" d:title="Marketplace (E-Commerce)">
-    <h1>Marketplace (E-Commerce)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="marketplace" d:title="Marketplace">
+    <h1>Marketplace</h1>
     <p>A type of e-commerce site where product or service information is provided by multiple third parties, whereas transactions are processed by the marketplace operator.</p>
     <h4>References</h4>
     <ol>
         <li><a href="https://en.wikipedia.org/wiki/Online_marketplace">https://en.wikipedia.org/wiki/Online_marketplace</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="mau_(monthly_active_user)" d:title="MAU (Monthly Active User)">
-    <h1>MAU (Monthly Active User)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="monthly_active_user" d:title="Monthly Active User">
+
+    <h1>Monthly Active User</h1>
+    <h4 class="alt-terms">Alternate terms: <i>MAU</i></h4>
     <p>One of the ways to measure the success rate of online social games, social networking services and, increasingly mobile apps.</p>
+    <p>See <a href="x-dictionary:r:daily_active_users">Daily Active Users</a></p>
     <h4>References</h4>
     <ol>
         <li><a href="https://en.wikipedia.org/wiki/Monthly_active_users">https://en.wikipedia.org/wiki/Monthly_active_users</a></li>
@@ -1142,8 +1240,10 @@
         <li><a href="https://www.klipfolio.com/resources/articles/what-are-business-metrics">https://www.klipfolio.com/resources/articles/what-are-business-metrics</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="mindmap_(mindmapping)" d:title="Mindmap (Mindmapping)">
-    <h1>Mindmap (Mindmapping)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="mindmap" d:title="Mindmap">
+
+    <h1>Mindmap</h1>
+    <h4 class="alt-terms">Alternate terms: <i>Mindmapping</i></h4>
     <p>A process of inspecting, cleansing, transforming, and modeling data with the goal of discovering useful information, suggesting conclusions, and supporting decision-making.</p>
     <h4>References</h4>
     <ol>
@@ -1174,8 +1274,10 @@
         <li><a href="https://en.wikipedia.org/wiki/Mockup">https://en.wikipedia.org/wiki/Mockup</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="mrd_(market_requirements_document)" d:title="MRD (Market Requirements Document)">
-    <h1>MRD (Market Requirements Document)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="market_requirements_document" d:title="Market Requirements Document">
+
+    <h1>Market Requirements Document</h1>
+    <h4 class="alt-terms">Alternate terms: <i>MRD</i></h4>
     <p>An MRD is a strategic document written by a product manager to help define the market's requirements or demand for a specific product. An MRD typically contains information on the product's vision, the competitive landscape, a business analysis and revenue opportunity, as well as a list of features or at least high-level feature categories.</p>
     <h4>References</h4>
     <ol>
@@ -1190,24 +1292,30 @@
         <li><a href="https://www.optimizely.com/optimization-glossary/multivariate-testing/">https://www.optimizely.com/optimization-glossary/multivariate-testing/</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="mve_(minimum_viable_experience)" d:title="MVE (Minimum Viable Experience)">
-    <h1>MVE (Minimum Viable Experience)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="minimum_viable_experience" d:title="Minimum Viable Experience">
+
+    <h1>Minimum Viable Experience</h1>
+    <h4 class="alt-terms">Alternate terms: <i>MVE</i></h4>
     <p>A mirrored extension of this concept defining service value â€” it is a service with just enough engagement to satisfy a human goal and address a need state that will provide feedback for future experience and business design.</p>
     <h4>References</h4>
     <ol>
         <li><a href="https://www.b2bnn.com/2016/04/death-of-the-minimum-viable-product/">https://www.b2bnn.com/2016/04/death-of-the-minimum-viable-product/</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="mvp_(minimum_viable_product)" d:title="MVP (Minimum Viable Product)">
-    <h1>MVP (Minimum Viable Product)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="minimum_viable_product" d:title="Minimum Viable Product">
+
+    <h1>Minimum Viable Product</h1>
+    <h4 class="alt-terms">Alternate terms: <i>MVP</i></h4>
     <p>An MVP, or minimum viable product, represents the earliest stage in the product's development cycle at which the company believes it has enough features to satisfy early-adopter customers. In industries such as software, or for companies with limited funding, the MVP can help the product teams receive user feedback as quickly as possible, which they can use to iterate and improve the product.</p>
     <h4>References</h4>
     <ol>
         <li><a href="https://www.agilealliance.org/glossary/mvp/">https://www.agilealliance.org/glossary/mvp/</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="nps_(net_promoter_score)" d:title="NPS (Net Promoter Score)">
-    <h1>NPS (Net Promoter Score)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="net_promoter_score" d:title="Net Promoter Score">
+
+    <h1>Net Promoter Score</h1>
+    <h4 class="alt-terms">Alternate terms: <i>NPS</i></h4>
     <p>How likely user is to recommend the product to a friend. This is considered to be a good indication of how valuable they find the product.</p>
     <h4>References</h4>
     <ol>
@@ -1230,16 +1338,18 @@
         <li><a href="https://www.investopedia.com/terms/n/network-marketing.asp">https://www.investopedia.com/terms/n/network-marketing.asp</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="nlp_(natural_language_processing)" d:title="NLP (Natural Language Processing)">
-    <h1>NLP (Natural Language Processing)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="natural_language_processing" d:title="Natural Language Processing">
+
+    <h1>Natural Language Processing</h1>
+    <h4 class="alt-terms">Alternate terms: <i>NLP</i></h4>
     <p>An area of computer science and artificial intelligence concerned with the interactions between computers and human (natural) languages, in particular how to program computers to process and analyze large amounts of natural language data.</p>
     <h4>References</h4>
     <ol>
         <li><a href="https://en.wikipedia.org/wiki/Natural_language_processing">https://en.wikipedia.org/wiki/Natural_language_processing</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="objective_" d:title="Objective ">
-    <h1>Objective </h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="objective" d:title="Objective">
+    <h1>Objective</h1>
     <p>A specific result that a person or system aims to achieve within a time frame and with available resources.</p>
     <p>Objectives are measurable and specific.</p>
     <h4>References</h4>
@@ -1247,8 +1357,10 @@
         <li><a href="http://www.businessdictionary.com/definition/objective.html">http://www.businessdictionary.com/definition/objective.html</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="okr_(objectives_and_key_results)" d:title="OKR (Objectives and Key Results)">
-    <h1>OKR (Objectives and Key Results)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="objectives_and_key_results" d:title="Objectives and Key Results">
+
+    <h1>Objectives and Key Results</h1>
+    <h4 class="alt-terms">Alternate terms: <i>OKR</i></h4>
     <p>A framework for defining and tracking objectives and their outcomes.</p>
     <p>The main goal is to define company and team "objectives" along with the measurable "key results" that define achievement of each objective.</p>
     <h4>References</h4>
@@ -1280,9 +1392,11 @@
         <li><a href="https://www.investopedia.com/terms/o/overhead.asp">https://www.investopedia.com/terms/o/overhead.asp</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="p_and_l_(profit_and_loss)" d:title="P and L (Profit and Loss)">
-    <h1>P and L (Profit and Loss)</h1>
-    <p>(Also P&amp;L) The basic calculation of "money in/money out" in a project or a business.</p>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="profit_and_loss" d:title="Profit and Loss">
+
+    <h1>Profit and Loss</h1>
+    <h4 class="alt-terms">Alternate terms: <i>P&amp;L</i></h4>
+    <p>The basic calculation of "money in/money out" in a project or a business.</p>
     <h4>References</h4>
     <ol>
         <li><a href="https://www.investopedia.com/terms/p/plstatement.asp">https://www.investopedia.com/terms/p/plstatement.asp</a></li>
@@ -1331,8 +1445,10 @@
         <li><a href="https://en.wikipedia.org/wiki/Persona">https://en.wikipedia.org/wiki/Persona</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="pitch_(elevator_pitch)" d:title="Pitch (Elevator pitch)">
-    <h1>Pitch (Elevator pitch)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="pitch" d:title="Pitch">
+
+    <h1>Pitch</h1>
+    <h4 class="alt-terms">Alternate terms: <i>elevator pitch</i></h4>
     <p>Presenting or describing the ideas to prospective investors.</p>
     <p>An elevator pitch is simply a very short pitch that distills the idea into a short summary that takes only as long as a short elevator ride.</p>
     <h4>References</h4>
@@ -1348,16 +1464,20 @@
         <li><a href="https://www.inc.com/alan-spoon/what-pivot-really-means.html">https://www.inc.com/alan-spoon/what-pivot-really-means.html</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="paas_(platform_as_a_service)" d:title="PaaS (Platform as a Service)">
-    <h1>PaaS (Platform as a Service)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="platform_as_a_service" d:title="Platform as a Service">
+
+    <h1>Platform as a Service</h1>
+    <h4 class="alt-terms">Alternate terms: <i>PaaS</i></h4>
     <p>A category of cloud computing services that provides a platform allowing customers to develop, run, and manage applications without the complexity of building and maintaining the infrastructure typically associated with developing and launching an app.</p>
     <h4>References</h4>
     <ol>
         <li><a href="https://en.wikipedia.org/wiki/Platform_as_a_service">https://en.wikipedia.org/wiki/Platform_as_a_service</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="plc_(product_life_cycle)" d:title="PLC (Product Life Cycle)">
-    <h1>PLC (Product Life Cycle)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="product_life_cycle" d:title="Product Life Cycle">
+
+    <h1>Product Life Cycle</h1>
+    <h4 class="alt-terms">Alternate terms: <i>PLC</i></h4>
     <p>The cycle through which every product goes through from introduction to withdrawal or eventual demise.</p>
     <p>A framework that helps a company organize its marketing and sales of a product, from introducing it to the market to when sales peak and decline.</p>
     <h4>References</h4>
@@ -1365,8 +1485,11 @@
         <li><a href="http://www.quickmba.com/marketing/product/lifecycle/">http://www.quickmba.com/marketing/product/lifecycle/</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="plm_(product_lifecycle_management)" d:title="PLM (Product Lifecycle Management)">
-    <h1>PLM (Product Lifecycle Management)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="product_lifecycle_management" d:title="Product Lifecycle Management">
+
+
+    <h1>Product Lifecycle Management</h1>
+    <h4 class="alt-terms">Alternate terms: <i>lifecycle management</i><i>PLM</i></h4>
     <p>The process of managing the entire lifecycle of a product from inception, through engineering design and manufacture, to service and disposal of manufactured products.</p>
     <h4>References</h4>
     <ol>
@@ -1381,8 +1504,11 @@
         <li><a href="https://en.wikipedia.org/wiki/Podcast">https://en.wikipedia.org/wiki/Podcast</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="pos_(point_of_sale)_system" d:title="POS (Point of Sale) System">
-    <h1>POS (Point of Sale) System</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="point_of_sale" d:title="Point of Sale">
+
+
+    <h1>Point of Sale</h1>
+    <h4 class="alt-terms">Alternate terms: <i>Point of Sale System</i><i>POS</i></h4>
     <p>A computerized network operated by a main computer and linked to several checkout terminals.</p>
     <h4>References</h4>
     <ol>
@@ -1397,25 +1523,32 @@
         <li><a href="http://www.quickmba.com/marketing/ries-trout/positioning/">http://www.quickmba.com/marketing/ries-trout/positioning/</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="ppc_(pay_per_click)" d:title="PPC (Pay Per Click)">
-    <h1>PPC (Pay Per Click)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="pay_per_click" d:title="Pay Per Click">
+
+    <h1>Pay Per Click</h1>
+    <h4 class="alt-terms">Alternate terms: <i>PPC</i></h4>
     <p>An internet advertising model used to direct traffic to websites, in which an advertiser pays a publisher (typically a website owner or a network of websites) when the ad is clicked.</p>
     <h4>References</h4>
     <ol>
         <li><a href="https://en.wikipedia.org/wiki/Pay-per-click">https://en.wikipedia.org/wiki/Pay-per-click</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="ppv_(pages_per_visit)" d:title="PPV (Pages Per Visit)">
-    <h1>PPV (Pages Per Visit)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="pages_per_visit" d:title="Pages Per Visit">
+
+    <h1>Pages Per Visit</h1>
+    <h4 class="alt-terms">Alternate terms: <i>PPV</i></h4>
     <p>A Web analytics measure of how many pieces of content (Web pages) a particular user or group of users views on a single website.</p>
     <h4>References</h4>
     <ol>
         <li><a href="https://www.techopedia.com/definition/27983/pages-per-visit-pagesvisit">https://www.techopedia.com/definition/27983/pages-per-visit-pagesvisit</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="prd_(product_requirements_document)" d:title="PRD (Product Requirements Document)">
-    <h1>PRD (Product Requirements Document)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="product_requirements_document" d:title="Product Requirements Document">
+
+    <h1>Product Requirements Document</h1>
+    <h4 class="alt-terms">Alternate terms: <i>PRD</i></h4>
     <p>A document containing all the requirements to a certain product. It is written to allow people to understand what a product should do.</p>
+    <p>See also <a href="x-dictionary:r:functional_requirements_document">Functional Requirements Document</a></p>
     <h4>References</h4>
     <ol>
         <li><a href="https://en.wikipedia.org/wiki/Product_requirements_document">https://en.wikipedia.org/wiki/Product_requirements_document</a></li>
@@ -1526,16 +1659,20 @@
         <li><a href="https://en.wikipedia.org/wiki/Project_management">https://en.wikipedia.org/wiki/Project_management</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="poc_(proof_of_concept)" d:title="POC (Proof of Concept)">
-    <h1>POC (Proof of Concept)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="proof_of_concept" d:title="Proof of Concept">
+
+    <h1>Proof of Concept</h1>
+    <h4 class="alt-terms">Alternate terms: <i>POC</i></h4>
     <p>A proof of principle is a realization of a certain method or idea to demonstrate its feasibility, or a demonstration in principle, whose purpose is to verify that some concept or theory has the potential of being used.</p>
     <h4>References</h4>
     <ol>
         <li><a href="https://en.wikipedia.org/wiki/Proof_of_concept">https://en.wikipedia.org/wiki/Proof_of_concept</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="pql_(product_qualified_lead)" d:title="PQL (Product Qualified Lead)">
-    <h1>PQL (Product Qualified Lead)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="product_qualified_lead" d:title="Product Qualified Lead">
+
+    <h1>Product Qualified Lead</h1>
+    <h4 class="alt-terms">Alternate terms: <i>PQL</i></h4>
     <p>A prospect that signed up and demonstrated buying intent based on product interest, usage, and behavioral data.</p>
     <h4>References</h4>
     <ol>
@@ -1560,24 +1697,30 @@
         <li><a href="https://en.wikipedia.org/wiki/Prototype">https://en.wikipedia.org/wiki/Prototype</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="pr_(public_relations)" d:title="PR (Public Relations)">
-    <h1>PR (Public Relations)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="public_relations" d:title="Public Relations">
+
+    <h1>Public Relations</h1>
+    <h4 class="alt-terms">Alternate terms: <i>PR</i></h4>
     <p>Using the news or business press to carry positive stories about your company or your products; cultivating a good relationship with local press representatives.</p>
     <h4>References</h4>
     <ol>
         <li><a href="https://en.wikipedia.org/wiki/Public_relations">https://en.wikipedia.org/wiki/Public_relations</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="qa_(quality_assurance)" d:title="QA (Quality Assurance)">
-    <h1>QA (Quality Assurance)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="quality_assurance" d:title="Quality Assurance">
+
+    <h1>Quality Assurance</h1>
+    <h4 class="alt-terms">Alternate terms: <i>QA</i></h4>
     <p>A way of preventing mistakes and defects in manufactured products and avoiding problems when delivering solutions or services to customers.</p>
     <h4>References</h4>
     <ol>
         <li><a href="https://en.wikipedia.org/wiki/Quality_assurance">https://en.wikipedia.org/wiki/Quality_assurance</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="qc_(quality_control)" d:title="QC (Quality Control)">
-    <h1>QC (Quality Control)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="quality_control" d:title="Quality Control">
+
+    <h1>Quality Control</h1>
+    <h4 class="alt-terms">Alternate terms: <i>QC</i></h4>
     <p>A system of maintaining standards in manufactured products by testing a sample of the output against the specification.</p>
     <h4>References</h4>
     <ol>
@@ -1600,16 +1743,20 @@
         <li><a href="https://study.com/academy/lesson/what-is-quantitative-data.html">https://study.com/academy/lesson/what-is-quantitative-data.html</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="r_and_d_(research_and_development)" d:title="R and D (Research and Development)">
-    <h1>R and D (Research and Development)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="research_and_development" d:title="Research and Development">
+
+    <h1>Research and Development</h1>
+    <h4 class="alt-terms">Alternate terms: <i>R&amp;D</i></h4>
     <p>(Often R&amp;D) The name of the business function that carries out research and the design and engineering part of the product development process.</p>
     <h4>References</h4>
     <ol>
         <li><a href="https://en.wikipedia.org/wiki/Research_and_development">https://en.wikipedia.org/wiki/Research_and_development</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="rad_(rapid_application_development)" d:title="RAD (Rapid Application Development)">
-    <h1>RAD (Rapid Application Development)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="rapid_application_development" d:title="Rapid Application Development">
+
+    <h1>Rapid Application Development</h1>
+    <h4 class="alt-terms">Alternate terms: <i>RAD</i></h4>
     <p>RAD approaches to software development put less emphasis on planning and more emphasis on an adaptive process. Prototypes are often used in addition to or sometimes even in place of design specifications. RAD is especially well suited for (although not limited to) developing software that is driven by user interface requirements.</p>
     <h4>References</h4>
     <ol>
@@ -1632,9 +1779,10 @@
         <li><a href="https://en.wikipedia.org/wiki/Software_release_life_cycle">https://en.wikipedia.org/wiki/Software_release_life_cycle</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="release_planning_(scrum)" d:title="Release Planning (Scrum)">
-    <h1>Release Planning (Scrum)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="release_planning" d:title="Release Planning">
+    <h1>Release Planning</h1>
     <p>A very high-level plan for multiple Sprints (e.g. three to twelve iteration) is created during the Release planning. It is a guideline that reflects expectations about which features will be implemented and when they are completed.</p>
+    <p>See <a href="x-dictionary:r:scrum">Scrum</a></p>
     <h4>References</h4>
     <ol>
         <li><a href="https://www.scrum-institute.org/Release_Planning.php">https://www.scrum-institute.org/Release_Planning.php</a></li>
@@ -1659,8 +1807,10 @@
         <li><a href="https://www.investopedia.com/terms/r/revenue.asp">https://www.investopedia.com/terms/r/revenue.asp</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="risk_(business_risk)" d:title="Risk (Business risk)">
-    <h1>Risk (Business risk)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="risk" d:title="Risk">
+
+    <h1>Risk</h1>
+    <h4 class="alt-terms">Alternate terms: <i>Business risk</i></h4>
     <p>The possibility a company will have lower than anticipated profits or experience a loss rather than taking a profit. Business risk is influenced by numerous factors, including sales volume, per-unit price, input costs, competition, the overall economic climate and government regulations.</p>
     <h4>References</h4>
     <ol>
@@ -1670,6 +1820,7 @@
 <d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="risk_management" d:title="Risk Management">
     <h1>Risk Management</h1>
     <p>The forecasting and evaluation of financial risks together with the identification of procedures to avoid or minimize their impact.</p>
+    <p>See <a href="x-dictionary:r:risk">Risk</a></p>
     <h4>References</h4>
     <ol>
         <li><a href="https://en.wikipedia.org/wiki/Risk_management">https://en.wikipedia.org/wiki/Risk_management</a></li>
@@ -1684,8 +1835,10 @@
         <li><a href="https://www.productplan.com/roadmap-basics/">https://www.productplan.com/roadmap-basics/</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="roi_(return_on_investment)" d:title="ROI (Return on Investment)">
-    <h1>ROI (Return on Investment)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="return_on_investment" d:title="Return on Investment">
+
+    <h1>Return on Investment</h1>
+    <h4 class="alt-terms">Alternate terms: <i>ROI</i></h4>
     <p>The amount of revenue a company gets after making an investment.</p>
     <p>A profitability measure that evaluates the performance of a business by dividing net profit by net worth.</p>
     <h4>References</h4>
@@ -1693,16 +1846,20 @@
         <li><a href="https://www.investopedia.com/terms/r/returnoninvestment.asp">https://www.investopedia.com/terms/r/returnoninvestment.asp</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="rup_(rational_unified_process)" d:title="RUP (Rational Unified Process)">
-    <h1>RUP (Rational Unified Process)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="rational_unified_process" d:title="Rational Unified Process">
+
+    <h1>Rational Unified Process</h1>
+    <h4 class="alt-terms">Alternate terms: <i>RUP</i></h4>
     <p>An iterative software development process framework.</p>
     <h4>References</h4>
     <ol>
         <li><a href="https://en.wikipedia.org/wiki/Rational_Unified_Process">https://en.wikipedia.org/wiki/Rational_Unified_Process</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="saas_(software_as_a_service)" d:title="SaaS (Software as a Service)">
-    <h1>SaaS (Software as a Service)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="software_as_a_service" d:title="Software as a Service">
+
+    <h1>Software as a Service</h1>
+    <h4 class="alt-terms">Alternate terms: <i>SaaS</i></h4>
     <p>A software licensing and delivery model in which software is licensed on a subscription basis and is centrally hosted.</p>
     <h4>References</h4>
     <ol>
@@ -1742,8 +1899,11 @@
         <li><a href="https://en.wikipedia.org/wiki/Scope_(computer_science)">https://en.wikipedia.org/wiki/Scope_(computer_science)</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="scope_creep_(requirement_creep)" d:title="Scope Creep (Requirement Creep)">
-    <h1>Scope Creep (Requirement Creep)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="scope_creep" d:title="Scope Creep">
+
+
+    <h1>Scope Creep</h1>
+    <h4 class="alt-terms">Alternate terms: <i>Requirement Creep</i><i>Feature Creep</i></h4>
     <p>Refers to changes, continuous or uncontrolled growth in a project's scope, at any point after the project begins. This can occur when the scope of a project is not properly defined, documented, or controlled. It is generally considered harmful.</p>
     <h4>References</h4>
     <ol>
@@ -1754,21 +1914,26 @@
     <h1>Scrum</h1>
     <p>Scrum is an iterative software development framework for managing product development. It defines a flexible product development strategy where a development team works as a unit to reach a common goal. It enables teams to self-organize by encouraging physical co-location or close online collaboration of all team members, as well as daily face-to-face communication among all team members and disciplines involved.</p>
     <p>Scrum is a framework for managing work with an emphasis on software development. It is designed for teams of three to nine developers who break their work into actions that can be completed within timeboxed iterations, called sprints (typically two-weeks) and track progress and re-plan in 15-minute stand-up meetings, called daily scrums.</p>
+    <p><h4>Related Terms</h4><ul><li><a href="x-dictionary:r:acceptance_criteria">Acceptance Criteria</a></li><li><a href="x-dictionary:r:backlog">Backlog</a></li><li><a href="x-dictionary:r:daily_standup">Daily Standup</a></li><li><a href="x-dictionary:r:doneness_criteria">Doneness Criteria</a></li><li><a href="x-dictionary:r:iteration">Iteration</a></li><li><a href="x-dictionary:r:release_planning">Release Planning</a></li><li><a href="x-dictionary:r:sprint">Sprint</a></li></ul></p>
     <h4>References</h4>
     <ol>
         <li><a href="https://en.wikipedia.org/wiki/Scrum_(software_development)">https://en.wikipedia.org/wiki/Scrum_(software_development)</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="sdlc_(software_development_life_cycle)" d:title="SDLC (Software Development Life Cycle)">
-    <h1>SDLC (Software Development Life Cycle)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="software_development_life_cycle" d:title="Software Development Life Cycle">
+
+    <h1>Software Development Life Cycle</h1>
+    <h4 class="alt-terms">Alternate terms: <i>SDLC</i></h4>
     <p>A term used in systems engineering, information systems and software engineering to describe a process for planning, creating, testing, and deploying an information system.</p>
     <h4>References</h4>
     <ol>
         <li><a href="https://www.techopedia.com/definition/22193/software-development-life-cycle-sdlc">https://www.techopedia.com/definition/22193/software-development-life-cycle-sdlc</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="seo_(search_engine_optimization)" d:title="SEO (Search Engine Optimization)">
-    <h1>SEO (Search Engine Optimization)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="search_engine_optimization" d:title="Search Engine Optimization">
+
+    <h1>Search Engine Optimization</h1>
+    <h4 class="alt-terms">Alternate terms: <i>SEO</i></h4>
     <p>The process of affecting the online visibility of a website or a web page in a web search engine's unpaid results, often referred to as "natural", "organic", or "earned" results.</p>
     <h4>References</h4>
     <ol>
@@ -1792,23 +1957,32 @@
         <li><a href="http://www.businessdictionary.com/definition/shipping.html">http://www.businessdictionary.com/definition/shipping.html</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="smb" d:title="SMB">
-    <h1>SMB</h1>
-    <p>Small and Medium-sized Business</p>
-    <p>See <a href="x-dictionary:r:SME">SME - Small and Medium-Sized Enterprises</a>.</p>
-  </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="sme" d:title="SME">
-    <h1>SME</h1>
-    <p>1. Subject-Matter Expert: A person who has specialized or abundant 'domain knowledge'.</p>
-    <p>2. Small and Medium-sized Enterprises: An abbreviation for small and medium-sized business (aka small and mid-sized business). A business with 100 or fewer employees is generally considered small, while one with 100-999 employees is considered to be medium-sized.</p>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="small_and_medium-sized_enterprises" d:title="Small and Medium-sized Enterprises">
+
+
+
+    <h1>Small and Medium-sized Enterprises</h1>
+    <h4 class="alt-terms">Alternate terms: <i>Small and Medium-sized Business</i><i>SMB</i><i>SME</i></h4>
+    <p>An abbreviation for small and medium-sized business (aka small and mid-sized business). A business with 100 or fewer employees is generally considered small, while one with 100-999 employees is considered to be medium-sized.</p>
     <h4>References</h4>
     <ol>
-        <li><a href="https://en.wikipedia.org/wiki/Subject-matter_expert">https://en.wikipedia.org/wiki/Subject-matter_expert</a></li>
         <li><a href="https://en.wikipedia.org/wiki/Small_and_medium-sized_enterprises">https://en.wikipedia.org/wiki/Small_and_medium-sized_enterprises</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="soft_launch_(soft_opening)" d:title="Soft Launch (Soft opening)">
-    <h1>Soft Launch (Soft opening)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="subject-matter_expert" d:title="Subject-Matter Expert">
+
+    <h1>Subject-Matter Expert</h1>
+    <h4 class="alt-terms">Alternate terms: <i>SME</i></h4>
+    <p>A person who has specialized or abundant 'domain knowledge'.</p>
+    <h4>References</h4>
+    <ol>
+        <li><a href="https://en.wikipedia.org/wiki/Subject-matter_expert">https://en.wikipedia.org/wiki/Subject-matter_expert</a></li>
+    </ol>
+  </d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="soft_launch" d:title="Soft Launch">
+
+    <h1>Soft Launch</h1>
+    <h4 class="alt-terms">Alternate terms: <i>Soft Open</i></h4>
     <p>A preview release of a product or service to a limited audience prior to the general public. Soft-launching a product is sometimes used to gather data or feedback regarding its acceptance in the marketplace, prior to making it widely available during an official release or grand opening.</p>
     <h4>References</h4>
     <ol>
@@ -1831,8 +2005,10 @@
         <li><a href="https://en.wikipedia.org/wiki/Software_requirements_specification">https://en.wikipedia.org/wiki/Software_requirements_specification</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="specifications_(technical)" d:title="Specifications (Technical)">
-    <h1>Specifications (Technical)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="specifications" d:title="Specifications">
+
+    <h1>Specifications</h1>
+    <h4 class="alt-terms">Alternate terms: <i>Technical Specifications</i></h4>
     <p>The primary means by which a client's expectations are communicated to designers and builders. Information contained in a technical specification is the measure by which success or failure is assessed.</p>
     <p>A specification is a set of documented requirements to be satisfied by a material, design, product, or service. A specification is often a type of technical standard.</p>
     <p>Functional Specification = A kind of requirement specification, and may show functional block diagrams.</p>
@@ -1853,8 +2029,10 @@
         <li><a href="http://kratinmobile.com/blog/index.php/difference-between-agile-terminologies-sprint-iteration">http://kratinmobile.com/blog/index.php/difference-between-agile-terminologies-sprint-iteration</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="ssl_(secure_sockets_layer)" d:title="SSL (Secure Sockets Layer)">
-    <h1>SSL (Secure Sockets Layer)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="secure_sockets_layer" d:title="Secure Sockets Layer">
+
+    <h1>Secure Sockets Layer</h1>
+    <h4 class="alt-terms">Alternate terms: <i>SSL</i></h4>
     <p>A standard security protocol for establishing encrypted links between a web server and a browser in an online communication.</p>
     <h4>References</h4>
     <ol>
@@ -1893,9 +2071,10 @@
         <li><a href="https://en.wikipedia.org/wiki/Supply_chain">https://en.wikipedia.org/wiki/Supply_chain</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="survey_(research_methodology)" d:title="Survey (research methodology)">
-    <h1>Survey (research methodology)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="survey" d:title="Survey">
+    <h1>Survey</h1>
     <p>A list of questions aimed at extracting specific data from a particular group of people. Surveys may be conducted by phone, mail, via the internet, and sometimes face-to-face on busy street corners or in malls. Surveys are used to increase knowledge in fields such as social research and demography.</p>
+    <p>See <a href="x-dictionary:r:research_methodologies">Research Methodologies</a>.</p>
     <h4>References</h4>
     <ol>
         <li><a href="https://en.wikipedia.org/wiki/Survey_methodology">https://en.wikipedia.org/wiki/Survey_methodology</a></li>
@@ -1984,8 +2163,10 @@
         <li><a href="https://en.wikipedia.org/wiki/User_interface">https://en.wikipedia.org/wiki/User_interface</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="uml_(unified_modeling_language)" d:title="UML (Unified Modeling Language)">
-    <h1>UML (Unified Modeling Language)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="unified_modeling_language" d:title="Unified Modeling Language">
+
+    <h1>Unified Modeling Language</h1>
+    <h4 class="alt-terms">Alternate terms: <i>UML</i></h4>
     <p>A general-purpose, developmental, modeling language in the field of software engineering, that is intended to provide a standard way to visualize the design of a system.</p>
     <h4>References</h4>
     <ol>
@@ -2002,7 +2183,8 @@
   </d:entry>
 <d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="usability_testing_(aka_user_testing)" d:title="Usability Testing (aka User Testing)">
     <h1>Usability Testing (aka User Testing)</h1>
-    <p>A way to see how easy to use something is by testing it with real users. Users are asked to complete tasks, typically while they are being observed by a researcher, to see where they encounter problems and experience confusion.</p>
+    <p>A way to see how easy to use something is by testing it with real users. Users are asked to complete tasks, typically while they are being observed by a researcher to observe where they encounter problems or become confused.</p>
+    <p>See <a href="x-dictionary:r:research_methodologies">Research Methodologies</a>.</p>
     <h4>References</h4>
     <ol>
         <li><a href="https://www.usability.gov/how-to-and-tools/methods/usability-testing.html">https://www.usability.gov/how-to-and-tools/methods/usability-testing.html</a></li>
@@ -2032,8 +2214,11 @@
         <li><a href="https://www.optimizely.com/optimization-glossary/user-flow/">https://www.optimizely.com/optimization-glossary/user-flow/</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="user_journey_(aka_customer_discovery,_customer_journey)" d:title="User Journey (aka Customer Discovery, Customer Journey)">
-    <h1>User Journey (aka Customer Discovery, Customer Journey)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="user_journey" d:title="User Journey">
+
+
+    <h1>User Journey</h1>
+    <h4 class="alt-terms">Alternate terms: <i>Customer Discovery</i><i>Customer Journey</i></h4>
     <p>A person's experience during one session of using a website or application, consisting of the series of actions performed to achieve a particular goal.</p>
     <h4>References</h4>
     <ol>
@@ -2043,6 +2228,7 @@
 <d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="user_research" d:title="User Research">
     <h1>User Research</h1>
     <p>Focuses on understanding user behaviors, needs, and motivations through observation techniques, task analysis, and other feedback methodologies</p>
+    <p>See <a href="x-dictionary:r:research_methodologies">Research Methodologies</a>.</p>
     <h4>References</h4>
     <ol>
         <li><a href="https://www.usability.gov/what-and-why/user-research.html">https://www.usability.gov/what-and-why/user-research.html</a></li>
@@ -2057,8 +2243,10 @@
         <li><a href="https://en.wikipedia.org/wiki/User_story">https://en.wikipedia.org/wiki/User_story</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="usp_(unique_selling_proposition)" d:title="USP (Unique Selling Proposition)">
-    <h1>USP (Unique Selling Proposition)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="unique_selling_proposition" d:title="Unique Selling Proposition">
+
+    <h1>Unique Selling Proposition</h1>
+    <h4 class="alt-terms">Alternate terms: <i>USP</i></h4>
     <p>The main reason why a user chooses one product over another.</p>
     <p>The factor or consideration presented by a seller as the reason that one product or service is different from and better than that of the competition.</p>
     <h4>References</h4>
@@ -2066,8 +2254,10 @@
         <li><a href="https://en.wikipedia.org/wiki/Unique_selling_proposition">https://en.wikipedia.org/wiki/Unique_selling_proposition</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="ux_(user_experience)" d:title="UX (User Experience)">
-    <h1>UX (User Experience)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="user_experience" d:title="User Experience">
+
+    <h1>User Experience</h1>
+    <h4 class="alt-terms">Alternate terms: <i>UX</i></h4>
     <p>A person's emotions and attitudes about using a particular product, system or service. UX is how a user feels when interfacing with a product. UX designers study and evaluate how users feels by looking at such things as ease of use, perception of the value of the system, utility, and efficiency in performing tasks.</p>
     <h4>References</h4>
     <ol>
@@ -2090,8 +2280,10 @@
         <li><a href="https://en.wikipedia.org/wiki/Value_proposition">https://en.wikipedia.org/wiki/Value_proposition</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="vendor_(seller)" d:title="Vendor (seller)">
-    <h1>Vendor (seller)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="vendor" d:title="Vendor">
+
+    <h1>Vendor</h1>
+    <h4 class="alt-terms">Alternate terms: <i>Seller</i></h4>
     <p>An enterprise that contributes goods or services. Generally, a supply chain vendor manufactures inventory/stock items and sells them to the next link in the chain.</p>
     <p>It could also refer to a supplier of any good or service.</p>
     <h4>References</h4>
@@ -2099,24 +2291,31 @@
         <li><a href="https://en.wikipedia.org/wiki/Vendor">https://en.wikipedia.org/wiki/Vendor</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="v_and_v_(verification_and_validation)" d:title="V and V (Verification and Validation)">
-    <h1>V and V (Verification and Validation)</h1>
-    <p>(Also V&amp;V) A procedure that is used for checking that a product, service, or system meets requirements and specifications and that it fulfills its intended purpose.</p>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="verification_and_validation" d:title="Verification and Validation">
+
+    <h1>Verification and Validation</h1>
+    <h4 class="alt-terms">Alternate terms: <i>V&amp;V</i></h4>
+    <p>A procedure that is used for checking that a product, service, or system meets requirements and specifications and that it fulfills its intended purpose.</p>
     <h4>References</h4>
     <ol>
         <li><a href="https://en.wikipedia.org/wiki/Software_verification_and_validation">https://en.wikipedia.org/wiki/Software_verification_and_validation</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="va_(virtual_assistant)" d:title="VA (Virtual Assistant)">
-    <h1>VA (Virtual Assistant)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="virtual_assistant" d:title="Virtual Assistant">
+
+    <h1>Virtual Assistant</h1>
+    <h4 class="alt-terms">Alternate terms: <i>VA</i></h4>
     <p>A software agent that can perform tasks or services for an individual. Sometimes the term "chatbot" is used to refer to virtual assistants generally or specifically those accessed by online chat (or in some cases online chat programs that are for entertainment and not useful purposes).</p>
     <h4>References</h4>
     <ol>
         <li><a href="https://en.wikipedia.org/wiki/Virtual_assistant">https://en.wikipedia.org/wiki/Virtual_assistant</a></li>
     </ol>
   </d:entry>
-<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="voc_(voice_of_the_customer)" d:title="VOC (Voice of the Customer)">
-    <h1>VOC (Voice of the Customer)</h1>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="voice_of_the_customer" d:title="Voice of the Customer">
+
+
+    <h1>Voice of the Customer</h1>
+    <h4 class="alt-terms">Alternate terms: <i>Customer Voice</i><i>VoC</i></h4>
     <p>How companies and new product teams find out what moves, inspires, and frustrates their customers.</p>
     <h4>References</h4>
     <ol>
