@@ -16,7 +16,8 @@ window.customDictionary = [{
 },
 {
 	key:'Actor',
-	def:['From Unified Modeling Language: A role played by a user or any other system that interacts with the subject.'],
+	def:['A role played by a user or any other system that interacts with the subject.',
+		'See <a href="x-dictionary:r:unified_modeling_language">Unified Modeling Language</a>.'],
 	url:['https://en.wikipedia.org/wiki/Actor_(UML)']
 },
 {
@@ -27,8 +28,8 @@ window.customDictionary = [{
 	url:['https://www.cprime.com/resources/what-is-agile-what-is-scrum/']
 },
 {
-	def:['Artificial Intelligence (AI) is the theory and development of computer systems able to perform tasks that normally require human intelligence, such as visual perception, speech recognition, decision-making, and translation between languages.'],
 	key:'Artificial Intelligence',
+	def:['Artificial Intelligence is the theory and development of computer systems able to perform tasks that normally require human intelligence, such as visual perception, speech recognition, decision-making, and translation between languages.'],
 	url:['https://www.forbes.com/sites/bernardmarr/2018/02/14/the-key-definitions-of-artificial-intelligence-ai-that-explain-its-importance/#5533a45e4f5d'],
 	acronyms:['AI']
 },
@@ -54,15 +55,15 @@ window.customDictionary = [{
 	url:['https://www.techopedia.com/definition/5415/android']
 },
 {
-	def:['Application Programming Interface (API) is a set of routines, protocols, and tools for building software applications. Basically, an API specifies how software components should interact. APIs are used when programming graphical user interface (<a href="x-dictionary:r:GUI">GUI</a>) components.'],
 	key:'Application Programming Interface',
 	alt:['APIs'],
+	def:['Application Programming Interfaces (APIs) are a set of routines, protocols, and tools for building software applications. Basically, an API specifies how software components should interact. APIs are used when programming graphical user interface (<a href="x-dictionary:r:GUI">GUI</a>) components.'],
 	url:['https://en.wikipedia.org/wiki/Application_programming_interface'],
 	acronyms:['API']
 },
 {
-	def:['Augmented Reality (AR) A technology that superimposes a computer-generated image on a user\'s view of the real world, thus providing a composite view.'],
 	key:'Augmented Reality',
+	def:['Augmented Reality (AR) is a technology that superimposes a computer-generated image on a user\'s view of the real world, thus providing a composite view.'],
 	url:['https://en.wikipedia.org/wiki/Augmented_reality'],
 	acronyms:['AR']
 },
@@ -124,8 +125,9 @@ window.customDictionary = [{
 	url:['https://simpleprogrammer.com/what-is-back-end-development/']
 },
 {
-	def:['An accumulation of something, especially uncompleted work or matters that need to be dealt with.'],
 	key:'Backlog',
+	def:['An accumulation of something, especially uncompleted work or matters that need to be dealt with.',
+		'See <a href="x-dictionary:r:scrum">Scrum</a>.'],
 	url:['https://www.scrum-institute.org/The_Scrum_Product_Backlog.php']
 },
 {
@@ -270,8 +272,8 @@ window.customDictionary = [{
 	acronyms:['CM']
 },
 {
-	def:['A software application or set of related programs that are used to create and manage digital content. CMS are typically used for enterprise content management (ECM) and web content management (WCM).'],
 	key:'Content Management System',
+	def:['A CMS is a software application or set of related programs that are used to create and manage digital content. CMS are typically used for enterprise content management (ECM) and web content management (WCM).'],
 	url:['https://searchcontentmanagement.techtarget.com/definition/content-management-system-CMS'],
 	acronyms:['CMS']
 },
@@ -387,8 +389,9 @@ window.customDictionary = [{
 	acronyms:['DAU']
 },
 {
-	def:['In Scrum, on each day of a sprint, the team holds a daily scrum meeting called the "daily scrum." Meetings are typically held in the same location and at the same time each day. Ideally, a daily scrum meeting is held in the morning, as it helps set the context for the coming day\'s work. These scrum meetings are strictly time-boxed to 15 minutes. This keeps the discussion brisk but relevant.'],
 	key:'Daily Standup',
+	def:['In Scrum, on each day of a sprint, the team holds a daily scrum meeting called the "daily scrum." Meetings are typically held in the same location and at the same time each day. Ideally, a daily scrum meeting is held in the morning, as it helps set the context for the coming day\'s work. These scrum meetings are strictly time-boxed to 15 minutes. This keeps the discussion brisk but relevant.',
+		'See <a href="x-dictionary:r:scrum">Scrum</a>'],
 	url:['https://www.scrum.org/resources/what-is-a-daily-scrum']
 },
 {
@@ -458,8 +461,9 @@ window.customDictionary = [{
 	url:['http://www.businessdictionary.com/definition/distributor.html']
 },
 {
-	def:['A clear and concise list of requirements that software must adhere to for the team to call it complete.'],
 	key:'Doneness Criteria',
+	def:['A clear and concise list of requirements that software must adhere to for the team to call it complete.',
+		'See <a href="x-dictionary:r:scrum">Scrum</a>'],
 	url:['https://www.atlassian.com/blog/jira-software/8-steps-to-a-definition-of-done-in-jira']
 },
 {
@@ -609,14 +613,14 @@ window.customDictionary = [{
 	acronyms:['GTM']
 },
 {
-	def:['Graphical User Interface (GUI) is a type of user interface that allows users to interact with electronic devices through graphical icons and visual indicators such as secondary notation, instead of text-based user interfaces, typed command labels or text navigation.'],
 	key:'Graphical User Interface',
+	def:['GUIs are a type of user interface that allows users to interact with electronic devices through graphical icons and visual indicators such as secondary notation, instead of text-based user interfaces, typed command labels or text navigation.'],
 	url:['https://en.wikipedia.org/wiki/Graphical_user_interface'],
 	acronyms:['GUI']
 },
 {
-	def:['The standard markup language for creating web pages and web applications.'],
 	key:'Hypertext Markup Language',
+	def:['HTML is the standard markup language for creating web pages and web applications.'],
 	url:['https://en.wikipedia.org/wiki/HTML'],
 	acronyms:['HTML']
 },
@@ -628,7 +632,7 @@ window.customDictionary = [{
 },
 {
 	key:'Ideate',
-	def:['To form an idea or concept.'],
+	def:['To form ideas or concepts.'],
 	url:['https://www.merriam-webster.com/dictionary/ideate']
 },
 {
@@ -687,8 +691,8 @@ window.customDictionary = [{
 	acronyms:['IT']
 },
 {
-	def:['An iteration is a single development cycle, usually measured as one week or two weeks. An iteration may also be defined as the elapsed time between iteration planning sessions.'],
 	key:'Iteration',
+	def:['An iteration is a single development cycle, usually measured as one week or two weeks. An iteration may also be defined as the elapsed time between iteration planning sessions.',
 		'See <a href="x-dictionary:r:scrum">Scrum</a>'],
 	url:['http://kratinmobile.com/blog/index.php/difference-between-agile-terminologies-sprint-iteration']
 },
@@ -727,7 +731,7 @@ window.customDictionary = [{
 },
 {
 	key:'Machine Learning',
-	def:['An application of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. Machine learning focuses on the development of computer programs that can access data and use it learn for themselves.'],
+	def:['An application of <a href="x-dictionary:r:artificial_intelligence">artificial intelligence (AI)</a> that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. Machine learning focuses on the development of computer programs that can access data and use it learn for themselves.'],
 	url:['https://en.wikipedia.org/wiki/Machine_learning']
 },
 {
@@ -747,8 +751,8 @@ window.customDictionary = [{
 	url:['https://en.wikipedia.org/wiki/Online_marketplace']
 },
 {
-	def:['One of the ways to measure the success rate of online social games, social networking services and, increasingly mobile apps.'],
 	key:'Monthly Active User',
+	def:['One of the ways to measure the success rate of online social games, social networking services and, increasingly mobile apps.',
 		'See <a href="x-dictionary:r:daily_active_users">Daily Active Users</a>'],
 	url:['https://en.wikipedia.org/wiki/Monthly_active_users'],
 	acronyms:['MAU']
@@ -958,8 +962,9 @@ window.customDictionary = [{
 	acronyms:['PPV']
 },
 {
-	def:['A document containing all the requirements to a certain product. It is written to allow people to understand what a product should do.'],
 	key:'Product Requirements Document',
+	def:['A document containing all the requirements to a certain product. It is written to allow people to understand what a product should do.',
+		'See also <a href="x-dictionary:r:functional_requirements_document">Functional Requirements Document</a>'],
 	url:['https://en.wikipedia.org/wiki/Product_requirements_document'],
 	acronyms:['PRD']
 },
@@ -1104,8 +1109,8 @@ window.customDictionary = [{
 	url:['https://en.wikipedia.org/wiki/Software_release_life_cycle']
 },
 {
-	def:['A very high-level plan for multiple Sprints (e.g. three to twelve iteration) is created during the Release planning. It is a guideline that reflects expectations about which features will be implemented and when they are completed.'],
 	key:'Release Planning',
+	def:['A very high-level plan for multiple Sprints (e.g. three to twelve iteration) is created during the Release planning. It is a guideline that reflects expectations about which features will be implemented and when they are completed.',
 		'See <a href="x-dictionary:r:scrum">Scrum</a>'],
 	url:['https://www.scrum-institute.org/Release_Planning.php']
 },
@@ -1130,7 +1135,8 @@ window.customDictionary = [{
 },
 {
 	key:'Risk Management',
-	def:['The forecasting and evaluation of financial risks together with the identification of procedures to avoid or minimize their impact.'],
+	def:['The forecasting and evaluation of financial risks together with the identification of procedures to avoid or minimize their impact.',
+		'See <a href="x-dictionary:r:risk">Risk</a>'],
 	url:['https://en.wikipedia.org/wiki/Risk_management']
 },
 {
@@ -1188,7 +1194,8 @@ window.customDictionary = [{
 {
 	key:'Scrum',
 	def:['Scrum is an iterative software development framework for managing product development. It defines a flexible product development strategy where a development team works as a unit to reach a common goal. It enables teams to self-organize by encouraging physical co-location or close online collaboration of all team members, as well as daily face-to-face communication among all team members and disciplines involved.',
-		'Scrum is a framework for managing work with an emphasis on software development. It is designed for teams of three to nine developers who break their work into actions that can be completed within timeboxed iterations, called sprints (typically two-weeks) and track progress and re-plan in 15-minute stand-up meetings, called daily scrums.'],
+		'Scrum is a framework for managing work with an emphasis on software development. It is designed for teams of three to nine developers who break their work into actions that can be completed within timeboxed iterations, called sprints (typically two-weeks) and track progress and re-plan in 15-minute stand-up meetings, called daily scrums.',
+		'<h4>Related Terms</h4><ul><li><a href="x-dictionary:r:acceptance_criteria">Acceptance Criteria</a></li><li><a href="x-dictionary:r:backlog">Backlog</a></li><li><a href="x-dictionary:r:daily_standup">Daily Standup</a></li><li><a href="x-dictionary:r:doneness_criteria">Doneness Criteria</a></li><li><a href="x-dictionary:r:iteration">Iteration</a></li><li><a href="x-dictionary:r:release_planning">Release Planning</a></li><li><a href="x-dictionary:r:sprint">Sprint</a></li></ul>'],
 	url:['https://en.wikipedia.org/wiki/Scrum_(software_development)']
 },
 {
@@ -1215,16 +1222,15 @@ window.customDictionary = [{
 	url:['http://www.businessdictionary.com/definition/shipping.html']
 },
 {
-	def:['Small and Medium-sized Business', 'See <a href="x-dictionary:r:SME">SME - Small and Medium-Sized Enterprises</a>.'],
 	key:'Small and Medium-sized Enterprises',
 	alt:['Small and Medium-sized Business'],
+	def:['An abbreviation for small and medium-sized business (aka small and mid-sized business). A business with 100 or fewer employees is generally considered small, while one with 100-999 employees is considered to be medium-sized.'],
 	url:['https://en.wikipedia.org/wiki/Small_and_medium-sized_enterprises'],
 	acronyms:['SMB','SME']
 },
-	def:['1. Subject-Matter Expert: A person who has specialized or abundant \'domain knowledge\'.',
-		'2. Small and Medium-sized Enterprises: An abbreviation for small and medium-sized business (aka small and mid-sized business). A business with 100 or fewer employees is generally considered small, while one with 100-999 employees is considered to be medium-sized.'],
 {
 	key:'Subject-Matter Expert',
+	def:['Commonly abbreviated to \'SME\'','A person who has specialized or abundant \'domain knowledge\'.'],
 	url:['https://en.wikipedia.org/wiki/Subject-matter_expert'],
 	acronyms:['SME']
 },
@@ -1288,8 +1294,9 @@ window.customDictionary = [{
 	url:['https://en.wikipedia.org/wiki/Supply_chain']
 },
 {
-	def:['A list of questions aimed at extracting specific data from a particular group of people. Surveys may be conducted by phone, mail, via the internet, and sometimes face-to-face on busy street corners or in malls. Surveys are used to increase knowledge in fields such as social research and demography.'],
 	key:'Survey',
+	def:['A list of questions aimed at extracting specific data from a particular group of people. Surveys may be conducted by phone, mail, via the internet, and sometimes face-to-face on busy street corners or in malls. Surveys are used to increase knowledge in fields such as social research and demography.',
+		'See <a href="x-dictionary:r:research_methodologies">Research Methodologies</a>.'],
 	url:['https://en.wikipedia.org/wiki/Survey_methodology']
 },
 {
@@ -1357,7 +1364,8 @@ window.customDictionary = [{
 },
 {
 	key:'Usability Testing (aka User Testing)',
-	def:['A way to see how easy to use something is by testing it with real users. Users are asked to complete tasks, typically while they are being observed by a researcher, to see where they encounter problems and experience confusion.'],
+	def:['A way to see how easy to use something is by testing it with real users. Users are asked to complete tasks, typically while they are being observed by a researcher to observe where they encounter problems or become confused.',
+		'See <a href="x-dictionary:r:research_methodologies">Research Methodologies</a>.'],
 	url:['https://www.usability.gov/how-to-and-tools/methods/usability-testing.html']
 },
 {
@@ -1383,7 +1391,8 @@ window.customDictionary = [{
 },
 {
 	key:'User Research',
-	def:['Focuses on understanding user behaviors, needs, and motivations through observation techniques, task analysis, and other feedback methodologies'],
+	def:['Focuses on understanding user behaviors, needs, and motivations through observation techniques, task analysis, and other feedback methodologies',
+		'See <a href="x-dictionary:r:research_methodologies">Research Methodologies</a>.'],
 	url:['https://www.usability.gov/what-and-why/user-research.html']
 },
 {
