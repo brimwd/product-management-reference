@@ -19,8 +19,6 @@ Copy the HTML output and save it as `pmdictionary.xml` in the root folder (repla
 ]
 ```
 
-CodePen Prototype: https://codepen.io/brimwd/details/zYxmprv
-
 ----
 
 #### UPDATES
