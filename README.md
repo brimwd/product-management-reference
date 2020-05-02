@@ -5,4 +5,4 @@ Built and maintained by <a href="http://honor.software" target="_blank">Honor.So
 ![PM Reference v1.1](https://github.com/brimwd/product-management-reference/blob/master/screenshots/latest-preview.png?raw=true)
 
 # New website launched
-Get the latest version, instructions, and information on our new website, [pmdictionary.github.io](pmdictionary.github.io)
+Get the latest version, instructions, and information on our new website, [http://pmdictionary.github.io](http://pmdictionary.github.io)
