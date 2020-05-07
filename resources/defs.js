@@ -115,7 +115,7 @@ window.customDictionary = [{
 },
 {
 	key:'Backend as a Service',
-	def:['BaaS (aka MBaaS) is a model for providing web app and mobile app developers with a way to link their applications to backend cloud storage and APIs exposed by back end applications while also providing features such as user management, push notifications, and integration with social networking services.'],
+	def:['BaaS is a model for providing web app and mobile app developers with a way to link their applications to backend cloud storage and APIs exposed by back end applications while also providing features such as user management, push notifications, and integration with social networking services.'],
 	url:['https://www.techopedia.com/definition/29428/backend-as-a-service-baas'],
 	acronyms:['BaaS', 'MBaaS']
 },
