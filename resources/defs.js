@@ -234,7 +234,8 @@ window.customDictionary = [{
 },
 {
 	key:'Case Study',
-	def:['A research method involving an up-close, in-depth, and detailed examination of a subject of study (the case), as well as its related contextual conditions.'],
+	def:['A research method involving an up-close, in-depth, and detailed examination of a subject of study (the case), as well as its related contextual conditions.',
+		'See <a href="x-dictionary:r:research_methodologies">Research Methodologies</a>'],
 	url:['https://en.wikipedia.org/wiki/Case_study']
 },
 {
@@ -765,7 +766,8 @@ window.customDictionary = [{
 {
 	key:'Methodology',
 	def:['A system of methods used in a particular area of study or activity.',
-		'See <a href="x-dictionary:r:agile">Agile</a> and <a href="x-dictionary:r:waterfall">Waterfall</a>, which are two common approaches to software development.'],
+		'See <a href="x-dictionary:r:agile">Agile</a> and <a href="x-dictionary:r:waterfall">Waterfall</a>, which are two common approaches to software development.',
+		'See <a href="x-dictionary:r:research_methodologies">Research Methodologies</a>, for research concepts.'],
 	url:['https://en.wikipedia.org/wiki/Methodology']
 },
 {
