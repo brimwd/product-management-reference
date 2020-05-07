@@ -40,7 +40,7 @@ window.customDictionary = [{
 },
 {
 	key:'Alpha Investment',
-	alt:['A-Round Funding'],
+	alt:['A-Round Funding', 'Series A'],
 	def:['Often considered the active return on an investment, gauges the performance of an investment against a market index or benchmark which is considered to represent the market\'s movement as a whole.'],
 	url:['https://www.investopedia.com/terms/a/alpha.asp']
 },
@@ -117,7 +117,7 @@ window.customDictionary = [{
 	key:'Backend as a Service',
 	def:['BaaS (aka MBaaS) is a model for providing web app and mobile app developers with a way to link their applications to backend cloud storage and APIs exposed by back end applications while also providing features such as user management, push notifications, and integration with social networking services.'],
 	url:['https://www.techopedia.com/definition/29428/backend-as-a-service-baas'],
-	acronyms:['BaaS']
+	acronyms:['BaaS', 'MBaaS']
 },
 {
 	key:'Back-end Development',
@@ -137,7 +137,7 @@ window.customDictionary = [{
 },
 {
 	key:'Beta Investment',
-	alt:['B-Round Funding'],
+	alt:['B-Round Funding', 'Series B'],
 	def:['A measure used in fundamental analysis to determine the volatility of an asset or portfolio in relation to the overall market. Beta is often used as a risk-reward measure meaning it helps investors determine how much risk their willing to take to achieve the return for taking on that risk.'],
 	url:['https://www.investopedia.com/terms/b/beta.asp']
 },
@@ -289,7 +289,7 @@ window.customDictionary = [{
 },
 {
 	key:'Competitive Analysis',
-	alt:['Competitive Research'],
+	alt:['Competitive Research', 'Landscape Research'],
 	def:['Identifying your competitors and evaluating their strategies to determine their strengths and weaknesses relative to those of your own product or service.',
 		'A field of strategic research that specializes in the collection and review of information about rival firms. It\'s an essential tactic for finding out what your competitors are doing and what kind of threat they present to your financial well-being.'],
 	url:['https://www.entrepreneur.com/encyclopedia/competitive-analysis']
@@ -542,7 +542,7 @@ window.customDictionary = [{
 },
 {
 	key:'Feature-Driven Development',
-	alt:['feature driven development'],
+	alt:['Feature Driven Development'],
 	def:['An iterative and incremental software development process. It is a lightweight or Agile method for developing software.'],
 	url:['https://en.wikipedia.org/wiki/Feature-driven_development'],
 	acronyms:['FDD']
@@ -1363,7 +1363,8 @@ window.customDictionary = [{
 	url:['https://en.wikipedia.org/wiki/Unicorn_(finance)']
 },
 {
-	key:'Usability Testing (aka User Testing)',
+	key:'Usability Testing',
+	alt:['User Testing']
 	def:['A way to see how easy to use something is by testing it with real users. Users are asked to complete tasks, typically while they are being observed by a researcher to observe where they encounter problems or become confused.',
 		'See <a href="x-dictionary:r:research_methodologies">Research Methodologies</a>.'],
 	url:['https://www.usability.gov/how-to-and-tools/methods/usability-testing.html']
