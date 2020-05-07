@@ -1125,6 +1125,13 @@ window.customDictionary = [{
 	url:['https://en.wikipedia.org/wiki/Software_requirements']
 },
 {
+	key:'Research Methodologies',
+	def:['Common patterns for research or evaluation of products and ideas.',
+		'<h4>Related Terms</h4><ul><li><a href="x-dictionary:r:survey">Survey</a></li><li><a href="x-dictionary:r:usability_testing">Usability Testing</a></li><li><a href="x-dictionary:r:user_research">User Research</a></li><li><a href="x-dictionary:r:case_study">Case Study</a></li></ul>'],
+	],
+	url:[]
+},
+{
 	key:'Revenue',
 	def:['The top item in an income (profit and loss) statement from which all charges, costs, and expenses are subtracted to arrive at net income.'],
 	url:['https://www.investopedia.com/terms/r/revenue.asp']
